@@ -187,10 +187,10 @@ def _run_git(*args: str, timeout: int = 30) -> tuple[bool, str]:
 
 
 def git_pull_monitors_sync() -> None:
-    """Call ONCE at startup, before anything reads monitors.json or
-    lumina_cards.csv. Uses --autostash so any leftover local edit doesn't
-    block the pull, and --rebase to avoid merge-commit noise for a couple
-    of data files."""
+    """Call ONCE at startup, before anything reads monitors.json,
+    lumina_cards.csv, or track4.py. Uses --autostash so any leftover
+    local edit doesn't block the pull, and --rebase to avoid merge-commit
+    noise for these files."""
     if not GIT_AUTO_SYNC:
         return
     ok, out = _run_git("pull", "--rebase", "--autostash")
@@ -1867,8 +1867,9 @@ if __name__ == "__main__":
             "  set DISCORD_BOT_TOKEN=your-token-here          (Windows cmd)"
         )
 
-    # Get the latest monitors.json from GitHub before we load anything —
-    # this is what makes "whoever starts the bot has the latest data" work.
+    # Pull the latest monitors.json, lumina_cards.csv, and track4.py from
+    # GitHub before we load or run anything — this is what makes "whoever
+    # starts the bot gets the latest data (and code)" work.
     git_pull_monitors_sync()
 
     try:
@@ -1876,6 +1877,7 @@ if __name__ == "__main__":
     finally:
         # Runs on Ctrl+C, /stop-the-process, or a clean discord.py shutdown —
         # NOT on kill -9 or a hard crash, which is what git_sync_loop's
-        # periodic push is for. This is the "hand the baton back" push.
-        print("💾  Pushing final monitors.json state to git before exit...")
+        # periodic push is for. This is the "hand the baton back" push,
+        # covering all of GIT_SYNC_PATHS.
+        print("💾  Pushing final state (all synced files) to git before exit...")
         _git_push_monitors_sync("shutdown")
