@@ -77,6 +77,16 @@ GIT_PUSH_INTERVAL = 100    # seconds between periodic "push if changed" checks w
 # forever — see the git-history leak earlier in this conversation for why.
 GIT_SYNC_PATHS = [MONITORS_PATH, CARDS_CSV_PATH, MAIN_PATH]
 
+# Subset of GIT_SYNC_PATHS that should ALWAYS defer to whatever's on
+# GitHub when starting up — any local uncommitted edit to these gets
+# discarded before pulling, instead of being stashed-and-reapplied. These
+# are runtime data files nobody should be hand-editing between runs; if
+# you (or a test) left a stray edit sitting in one, it should lose to the
+# real synced state, not silently survive a pull. track4.py is
+# deliberately NOT in this list, since you might have genuine in-progress
+# code edits open when you start the bot.
+GIT_HARD_RESET_ON_PULL = [MONITORS_PATH, CARDS_CSV_PATH]
+
 # ─────────────────────────────────────────────────────────────────────────────
 
 POOL_URL       = "https://luminabot.net/api/cards/pool?cardCatalogId={card_id}"
@@ -189,10 +199,23 @@ def _run_git(*args: str, timeout: int = 30) -> tuple[bool, str]:
 def git_pull_monitors_sync() -> None:
     """Call ONCE at startup, before anything reads monitors.json,
     lumina_cards.csv, or track4.py. Uses --autostash so any leftover
-    local edit doesn't block the pull, and --rebase to avoid merge-commit
-    noise for these files."""
+    local edit (e.g. to track4.py) doesn't block the pull, and --rebase
+    to avoid merge-commit noise for these files."""
     if not GIT_AUTO_SYNC:
         return
+
+    # Discard any local uncommitted edits to the "always trust GitHub"
+    # data files BEFORE pulling. Without this, --autostash below would
+    # protect a stray local edit by stashing it, pulling, then reapplying
+    # it on top — silently undoing whatever the pull just brought in.
+    for path in GIT_HARD_RESET_ON_PULL:
+        ok, out = _run_git("checkout", "--", path)
+        if not ok and out.strip():
+            # Fine if the file doesn't exist yet / isn't tracked yet —
+            # only worth printing anything else unexpected.
+            if "did not match any file" not in out and "pathspec" not in out:
+                print(f"⚠️  Couldn't reset local {path} before pull: {out}")
+
     ok, out = _run_git("pull", "--rebase", "--autostash")
     if ok:
         print("🔄  git pull: up to date with remote before starting.")
@@ -1115,6 +1138,29 @@ def is_admin(interaction: discord.Interaction) -> bool:
     )
 
 
+# Cached after the first lookup — the bot's owner doesn't change at
+# runtime, so there's no need to hit Discord's API on every /upload call.
+_cached_owner_ids: set[int] | None = None
+
+
+async def is_bot_owner(user: discord.abc.User) -> bool:
+    """discord.Client (unlike commands.Bot) has no built-in is_owner() —
+    this fetches the application's owner directly. Handles both a
+    single-owner app and a team-owned app (any team member counts)."""
+    global _cached_owner_ids
+    if _cached_owner_ids is None:
+        try:
+            info = await client.application_info()
+        except Exception as e:
+            print(f"⚠️  Couldn't fetch application info for owner check: {e!r}")
+            return False
+        if info.team is not None:
+            _cached_owner_ids = {member.id for member in info.team.members}
+        else:
+            _cached_owner_ids = {info.owner.id}
+    return user.id in _cached_owner_ids
+
+
 # ── /join, /leave (registered from voice_feature.py) ────────────────────────────
 # Kept in its own file so voice behavior can be edited without touching this
 # one. is_admin is still passed through for signature compatibility, but
@@ -1198,7 +1244,7 @@ async def cmd_unlock(interaction: discord.Interaction):
 
 @tree.command(name="upload", description="(Bot owner only) Save and push monitors.json / lumina_cards.csv to git now")
 async def cmd_upload(interaction: discord.Interaction):
-    if not await client.is_owner(interaction.user):
+    if not await is_bot_owner(interaction.user):
         await interaction.response.send_message(
             "🚫 Only the bot's owner can use this command.", ephemeral=True
         )
@@ -1867,9 +1913,8 @@ if __name__ == "__main__":
             "  set DISCORD_BOT_TOKEN=your-token-here          (Windows cmd)"
         )
 
-    # Pull the latest monitors.json, lumina_cards.csv, and track4.py from
-    # GitHub before we load or run anything — this is what makes "whoever
-    # starts the bot gets the latest data (and code)" work.
+    # Get the latest monitors.json from GitHub before we load anything —
+    # this is what makes "whoever starts the bot has the latest data" work.
     git_pull_monitors_sync()
 
     try:
@@ -1877,7 +1922,6 @@ if __name__ == "__main__":
     finally:
         # Runs on Ctrl+C, /stop-the-process, or a clean discord.py shutdown —
         # NOT on kill -9 or a hard crash, which is what git_sync_loop's
-        # periodic push is for. This is the "hand the baton back" push,
-        # covering all of GIT_SYNC_PATHS.
-        print("💾  Pushing final state (all synced files) to git before exit...")
+        # periodic push is for. This is the "hand the baton back" push.
+        print("💾  Pushing final monitors.json state to git before exit...")
         _git_push_monitors_sync("shutdown")
