@@ -138,7 +138,7 @@
     "28494": {"prev":{"total":2588,"byRarity":{"1":0,"2":0,"3":2365,"4":165,"5":58,"6":0,"7":0}},"label":"Kim Soleum #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25554": {"prev":{"total":3444,"byRarity":{"1":0,"2":0,"3":3112,"4":237,"5":95,"6":0,"7":0}},"label":"Kim Soleum #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25553": {"prev":{"total":3320,"byRarity":{"1":0,"2":0,"3":3023,"4":225,"5":72,"6":0,"7":0}},"label":"Kim Soleum #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "36521": {"prev":{"total":1167,"byRarity":{"1":0,"2":0,"3":1079,"4":65,"5":23,"6":0,"7":0}},"label":"Kim Soleum #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "36521": {"prev":{"total":1168,"byRarity":{"1":0,"2":0,"3":1080,"4":65,"5":23,"6":0,"7":0}},"label":"Kim Soleum #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36901": {"prev":{"total":1016,"byRarity":{"1":0,"2":0,"3":946,"4":58,"5":12,"6":0,"7":0}},"label":"Baek Saheon #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36900": {"prev":{"total":1048,"byRarity":{"1":0,"2":0,"3":961,"4":66,"5":21,"6":0,"7":0}},"label":"Baek Saheon #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36899": {"prev":{"total":1047,"byRarity":{"1":0,"2":0,"3":973,"4":50,"5":24,"6":0,"7":0}},"label":"Baek Saheon #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
@@ -203,7 +203,7 @@
     "32398": {"prev":{"total":1944,"byRarity":{"1":0,"2":0,"3":1780,"4":115,"5":49,"6":0,"7":0}},"label":"Klein Moretti #21 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "32474": {"prev":{"total":1900,"byRarity":{"1":0,"2":0,"3":1729,"4":127,"5":44,"6":0,"7":0}},"label":"Klein Moretti #22 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "39307": {"prev":{"total":626,"byRarity":{"1":0,"2":0,"3":600,"4":18,"5":8,"6":0,"7":0}},"label":"Klein Moretti #24 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
-    "39308": {"prev":{"total":577,"byRarity":{"1":0,"2":0,"3":534,"4":33,"5":10,"6":0,"7":0}},"label":"Klein Moretti #25 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
+    "39308": {"prev":{"total":578,"byRarity":{"1":0,"2":0,"3":535,"4":33,"5":10,"6":0,"7":0}},"label":"Klein Moretti #25 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "2927": {"prev":{"total":5203,"byRarity":{"1":0,"2":0,"3":4766,"4":338,"5":99,"6":0,"7":0}},"label":"Childe #1 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "2928": {"prev":{"total":5216,"byRarity":{"1":0,"2":0,"3":4769,"4":346,"5":101,"6":0,"7":0}},"label":"Childe #2 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "2929": {"prev":{"total":5335,"byRarity":{"1":0,"2":0,"3":4939,"4":312,"5":84,"6":0,"7":0}},"label":"Childe #3 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
@@ -252,13 +252,13 @@
     "21141": {"prev":{"total":3490,"byRarity":{"1":0,"2":0,"3":3181,"4":237,"5":72,"6":0,"7":0}},"label":"Haru Akinashi #3 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
     "21142": {"prev":{"total":3638,"byRarity":{"1":0,"2":0,"3":3286,"4":260,"5":92,"6":0,"7":0}},"label":"Haru Akinashi #4 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
     "33129": {"prev":{"total":1859,"byRarity":{"1":0,"2":0,"3":1720,"4":97,"5":42,"6":0,"7":0}},"label":"Haru Akinashi #6 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
-    "34426": {"prev":{"total":1516,"byRarity":{"1":0,"2":0,"3":1409,"4":81,"5":26,"6":0,"7":0}},"label":"Aoi Tenjiku #1 — Saihate Station","character":"Aoi Tenjiku","series":"Saihate Station"},
+    "34426": {"prev":{"total":1517,"byRarity":{"1":0,"2":0,"3":1410,"4":81,"5":26,"6":0,"7":0}},"label":"Aoi Tenjiku #1 — Saihate Station","character":"Aoi Tenjiku","series":"Saihate Station"},
     "34941": {"prev":{"total":1417,"byRarity":{"1":0,"2":0,"3":1303,"4":78,"5":36,"6":0,"7":0}},"label":"Chinoi Momone #1 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34942": {"prev":{"total":1515,"byRarity":{"1":0,"2":0,"3":1397,"4":85,"5":33,"6":0,"7":0}},"label":"Chinoi Momone #2 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34943": {"prev":{"total":1347,"byRarity":{"1":0,"2":0,"3":1229,"4":85,"5":33,"6":0,"7":0}},"label":"Chinoi Momone #3 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34622": {"prev":{"total":1485,"byRarity":{"1":0,"2":0,"3":1381,"4":79,"5":25,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":195,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":195}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
     "40410": {"prev":{"total":15989,"byRarity":{"1":0,"2":0,"3":15268,"4":557,"5":164,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
-    "40406": {"prev":{"total":15933,"byRarity":{"1":0,"2":0,"3":15178,"4":583,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
+    "40406": {"prev":{"total":15934,"byRarity":{"1":0,"2":0,"3":15179,"4":583,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
   }
 }
