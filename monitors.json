@@ -174,7 +174,7 @@
     "37775": {"prev":{"total":818,"byRarity":{"1":0,"2":0,"3":770,"4":37,"5":11,"6":0,"7":0}},"label":"Taehyun #2 — TOMORROW X TOGETHER","character":"Taehyun","series":"TOMORROW X TOGETHER"},
     "37770": {"prev":{"total":908,"byRarity":{"1":0,"2":0,"3":868,"4":31,"5":9,"6":0,"7":0}},"label":"Taehyun #1 — TOMORROW X TOGETHER","character":"Taehyun","series":"TOMORROW X TOGETHER"},
     "36854": {"prev":{"total":1060,"byRarity":{"1":0,"2":0,"3":975,"4":64,"5":21,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
-    "38817": {"prev":{"total":656,"byRarity":{"1":0,"2":0,"3":614,"4":29,"5":13,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
+    "38817": {"prev":{"total":655,"byRarity":{"1":0,"2":0,"3":613,"4":29,"5":13,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "39099": {"prev":{"total":650,"byRarity":{"1":0,"2":0,"3":604,"4":38,"5":8,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38797": {"prev":{"total":699,"byRarity":{"1":0,"2":0,"3":657,"4":34,"5":8,"6":0,"7":0}},"label":"J3 #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"J3","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "38529": {"prev":{"total":755,"byRarity":{"1":0,"2":0,"3":694,"4":49,"5":12,"6":0,"7":0}},"label":"Kim Soleum #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
@@ -210,7 +210,7 @@
     "2930": {"prev":{"total":5189,"byRarity":{"1":0,"2":0,"3":4767,"4":340,"5":82,"6":0,"7":0}},"label":"Childe #4 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "5729": {"prev":{"total":5177,"byRarity":{"1":0,"2":0,"3":4758,"4":326,"5":93,"6":0,"7":0}},"label":"Childe #5 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "5730": {"prev":{"total":5137,"byRarity":{"1":0,"2":0,"3":4684,"4":353,"5":100,"6":0,"7":0}},"label":"Childe #6 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
-    "20563": {"prev":{"total":4162,"byRarity":{"1":0,"2":0,"3":3830,"4":255,"5":77,"6":0,"7":0}},"label":"Childe #7 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
+    "20563": {"prev":{"total":4163,"byRarity":{"1":0,"2":0,"3":3831,"4":255,"5":77,"6":0,"7":0}},"label":"Childe #7 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "28405": {"prev":{"total":2954,"byRarity":{"1":0,"2":0,"3":2737,"4":170,"5":47,"6":0,"7":0}},"label":"Childe #10 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "39175": {"prev":{"total":644,"byRarity":{"1":0,"2":0,"3":603,"4":32,"5":9,"6":0,"7":0}},"label":"Childe #12 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "801": {"prev":{"total":5394,"byRarity":{"1":0,"2":0,"3":4942,"4":357,"5":95,"6":0,"7":0}},"label":"Choso #1 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
@@ -219,7 +219,7 @@
     "31555": {"prev":{"total":2517,"byRarity":{"1":0,"2":0,"3":2336,"4":143,"5":38,"6":0,"7":0}},"label":"Choso #5 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "31556": {"prev":{"total":2460,"byRarity":{"1":0,"2":0,"3":2255,"4":157,"5":48,"6":0,"7":0}},"label":"Choso #6 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "32807": {"prev":{"total":2077,"byRarity":{"1":0,"2":0,"3":1910,"4":126,"5":41,"6":0,"7":0}},"label":"Choso #7 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
-    "37823": {"prev":{"total":943,"byRarity":{"1":0,"2":0,"3":884,"4":46,"5":13,"6":0,"7":0}},"label":"Kamiina Botan #1 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
+    "37823": {"prev":{"total":944,"byRarity":{"1":0,"2":0,"3":885,"4":46,"5":13,"6":0,"7":0}},"label":"Kamiina Botan #1 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "37824": {"prev":{"total":925,"byRarity":{"1":0,"2":0,"3":857,"4":51,"5":17,"6":0,"7":0}},"label":"Kamiina Botan #2 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "37825": {"prev":{"total":929,"byRarity":{"1":0,"2":0,"3":844,"4":52,"5":33,"6":0,"7":0}},"label":"Kamiina Botan #3 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "37826": {"prev":{"total":992,"byRarity":{"1":0,"2":0,"3":914,"4":59,"5":19,"6":0,"7":0}},"label":"Kamiina Botan #4 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
@@ -258,7 +258,7 @@
     "34943": {"prev":{"total":1350,"byRarity":{"1":0,"2":0,"3":1232,"4":85,"5":33,"6":0,"7":0}},"label":"Chinoi Momone #3 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34622": {"prev":{"total":1489,"byRarity":{"1":0,"2":0,"3":1385,"4":79,"5":25,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":198,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":198}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
-    "40410": {"prev":{"total":16043,"byRarity":{"1":0,"2":0,"3":15321,"4":557,"5":165,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
+    "40410": {"prev":{"total":16045,"byRarity":{"1":0,"2":0,"3":15323,"4":557,"5":165,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
     "40406": {"prev":{"total":15990,"byRarity":{"1":0,"2":0,"3":15230,"4":588,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
   }
 }
