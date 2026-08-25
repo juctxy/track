@@ -168,7 +168,7 @@
     "25555": {"prev":{"total":3299,"byRarity":{"1":0,"2":0,"3":2985,"4":230,"5":84,"6":0,"7":0}},"label":"Eun Haje #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Eun Haje","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "37287": {"prev":{"total":871,"byRarity":{"1":0,"2":0,"3":812,"4":47,"5":12,"6":0,"7":0}},"label":"Jeonghan #3 — SEVENTEEN","character":"Jeonghan","series":"SEVENTEEN"},
     "37282": {"prev":{"total":886,"byRarity":{"1":0,"2":0,"3":817,"4":46,"5":23,"6":0,"7":0}},"label":"Jeonghan #2 — SEVENTEEN","character":"Jeonghan","series":"SEVENTEEN"},
-    "37277": {"prev":{"total":865,"byRarity":{"1":0,"2":0,"3":816,"4":38,"5":11,"6":0,"7":0}},"label":"Jeonghan #1 — SEVENTEEN","character":"Jeonghan","series":"SEVENTEEN"},
+    "37277": {"prev":{"total":866,"byRarity":{"1":0,"2":0,"3":817,"4":38,"5":11,"6":0,"7":0}},"label":"Jeonghan #1 — SEVENTEEN","character":"Jeonghan","series":"SEVENTEEN"},
     "37309": {"prev":{"total":872,"byRarity":{"1":0,"2":0,"3":805,"4":53,"5":14,"6":0,"7":0}},"label":"Rui #1 — XLOV","character":"Rui","series":"XLOV"},
     "37323": {"prev":{"total":812,"byRarity":{"1":0,"2":0,"3":755,"4":40,"5":17,"6":0,"7":0}},"label":"Rui #4 — XLOV","character":"Rui","series":"XLOV"},
     "37775": {"prev":{"total":824,"byRarity":{"1":0,"2":0,"3":776,"4":37,"5":11,"6":0,"7":0}},"label":"Taehyun #2 — TOMORROW X TOGETHER","character":"Taehyun","series":"TOMORROW X TOGETHER"},
@@ -214,7 +214,7 @@
     "28405": {"prev":{"total":2955,"byRarity":{"1":0,"2":0,"3":2738,"4":170,"5":47,"6":0,"7":0}},"label":"Childe #10 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "39175": {"prev":{"total":645,"byRarity":{"1":0,"2":0,"3":604,"4":32,"5":9,"6":0,"7":0}},"label":"Childe #12 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "801": {"prev":{"total":5395,"byRarity":{"1":0,"2":0,"3":4943,"4":357,"5":95,"6":0,"7":0}},"label":"Choso #1 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
-    "802": {"prev":{"total":5339,"byRarity":{"1":0,"2":0,"3":4894,"4":338,"5":107,"6":0,"7":0}},"label":"Choso #2 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
+    "802": {"prev":{"total":5340,"byRarity":{"1":0,"2":0,"3":4895,"4":338,"5":107,"6":0,"7":0}},"label":"Choso #2 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "31554": {"prev":{"total":2402,"byRarity":{"1":0,"2":0,"3":2218,"4":134,"5":50,"6":0,"7":0}},"label":"Choso #4 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "31555": {"prev":{"total":2518,"byRarity":{"1":0,"2":0,"3":2337,"4":143,"5":38,"6":0,"7":0}},"label":"Choso #5 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "31556": {"prev":{"total":2461,"byRarity":{"1":0,"2":0,"3":2256,"4":157,"5":48,"6":0,"7":0}},"label":"Choso #6 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
@@ -238,7 +238,7 @@
     "16012": {"prev":{"total":4154,"byRarity":{"1":0,"2":0,"3":3751,"4":307,"5":96,"6":0,"7":0}},"label":"Lucy #1 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
     "16013": {"prev":{"total":4112,"byRarity":{"1":0,"2":0,"3":3699,"4":299,"5":114,"6":0,"7":0}},"label":"Lucy #2 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
     "16014": {"prev":{"total":4010,"byRarity":{"1":0,"2":0,"3":3649,"4":260,"5":101,"6":0,"7":0}},"label":"Lucy #3 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
-    "16015": {"prev":{"total":4016,"byRarity":{"1":0,"2":0,"3":3631,"4":291,"5":94,"6":0,"7":0}},"label":"Lucy #4 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
+    "16015": {"prev":{"total":4017,"byRarity":{"1":0,"2":0,"3":3632,"4":291,"5":94,"6":0,"7":0}},"label":"Lucy #4 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
     "38508": {"prev":{"total":789,"byRarity":{"1":0,"2":0,"3":731,"4":46,"5":12,"6":0,"7":0}},"label":"Sandrone #1 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"},
     "38509": {"prev":{"total":819,"byRarity":{"1":0,"2":0,"3":753,"4":52,"5":14,"6":0,"7":0}},"label":"Sandrone #2 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"},
     "38510": {"prev":{"total":809,"byRarity":{"1":0,"2":0,"3":759,"4":39,"5":11,"6":0,"7":0}},"label":"Sandrone #3 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"},
@@ -250,7 +250,7 @@
     "21139": {"prev":{"total":3540,"byRarity":{"1":0,"2":0,"3":3241,"4":227,"5":72,"6":0,"7":0}},"label":"Haru Akinashi #1 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
     "21140": {"prev":{"total":3606,"byRarity":{"1":0,"2":0,"3":3271,"4":264,"5":71,"6":0,"7":0}},"label":"Haru Akinashi #2 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
     "21141": {"prev":{"total":3492,"byRarity":{"1":0,"2":0,"3":3183,"4":237,"5":72,"6":0,"7":0}},"label":"Haru Akinashi #3 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
-    "21142": {"prev":{"total":3639,"byRarity":{"1":0,"2":0,"3":3287,"4":260,"5":92,"6":0,"7":0}},"label":"Haru Akinashi #4 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
+    "21142": {"prev":{"total":3640,"byRarity":{"1":0,"2":0,"3":3288,"4":260,"5":92,"6":0,"7":0}},"label":"Haru Akinashi #4 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
     "33129": {"prev":{"total":1861,"byRarity":{"1":0,"2":0,"3":1722,"4":97,"5":42,"6":0,"7":0}},"label":"Haru Akinashi #6 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
     "34426": {"prev":{"total":1518,"byRarity":{"1":0,"2":0,"3":1410,"4":82,"5":26,"6":0,"7":0}},"label":"Aoi Tenjiku #1 — Saihate Station","character":"Aoi Tenjiku","series":"Saihate Station"},
     "34941": {"prev":{"total":1418,"byRarity":{"1":0,"2":0,"3":1304,"4":78,"5":36,"6":0,"7":0}},"label":"Chinoi Momone #1 — Utaite","character":"Chinoi Momone","series":"Utaite"},
@@ -258,7 +258,7 @@
     "34943": {"prev":{"total":1348,"byRarity":{"1":0,"2":0,"3":1230,"4":85,"5":33,"6":0,"7":0}},"label":"Chinoi Momone #3 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34622": {"prev":{"total":1491,"byRarity":{"1":0,"2":0,"3":1387,"4":79,"5":25,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":200,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":200}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
-    "40410": {"prev":{"total":16103,"byRarity":{"1":0,"2":0,"3":15376,"4":562,"5":165,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
-    "40406": {"prev":{"total":16073,"byRarity":{"1":0,"2":0,"3":15312,"4":589,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
+    "40410": {"prev":{"total":16104,"byRarity":{"1":0,"2":0,"3":15377,"4":562,"5":165,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
+    "40406": {"prev":{"total":16074,"byRarity":{"1":0,"2":0,"3":15313,"4":589,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
   }
 }
