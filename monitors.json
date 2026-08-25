@@ -175,7 +175,7 @@
     "37770": {"prev":{"total":907,"byRarity":{"1":0,"2":0,"3":867,"4":31,"5":9,"6":0,"7":0}},"label":"Taehyun #1 — TOMORROW X TOGETHER","character":"Taehyun","series":"TOMORROW X TOGETHER"},
     "36854": {"prev":{"total":1060,"byRarity":{"1":0,"2":0,"3":975,"4":64,"5":21,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38817": {"prev":{"total":654,"byRarity":{"1":0,"2":0,"3":612,"4":29,"5":13,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
-    "39099": {"prev":{"total":650,"byRarity":{"1":0,"2":0,"3":604,"4":38,"5":8,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
+    "39099": {"prev":{"total":651,"byRarity":{"1":0,"2":0,"3":605,"4":38,"5":8,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38797": {"prev":{"total":699,"byRarity":{"1":0,"2":0,"3":657,"4":34,"5":8,"6":0,"7":0}},"label":"J3 #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"J3","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "38529": {"prev":{"total":754,"byRarity":{"1":0,"2":0,"3":693,"4":49,"5":12,"6":0,"7":0}},"label":"Kim Soleum #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "39152": {"prev":{"total":659,"byRarity":{"1":0,"2":0,"3":606,"4":39,"5":14,"6":0,"7":0}},"label":"Baek Saheon #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
@@ -258,7 +258,7 @@
     "34943": {"prev":{"total":1348,"byRarity":{"1":0,"2":0,"3":1230,"4":85,"5":33,"6":0,"7":0}},"label":"Chinoi Momone #3 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34622": {"prev":{"total":1488,"byRarity":{"1":0,"2":0,"3":1384,"4":79,"5":25,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":196,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":196}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
-    "40410": {"prev":{"total":16018,"byRarity":{"1":0,"2":0,"3":15296,"4":557,"5":165,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
-    "40406": {"prev":{"total":15960,"byRarity":{"1":0,"2":0,"3":15205,"4":583,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
+    "40410": {"prev":{"total":16019,"byRarity":{"1":0,"2":0,"3":15297,"4":557,"5":165,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
+    "40406": {"prev":{"total":15961,"byRarity":{"1":0,"2":0,"3":15206,"4":583,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
   }
 }
