@@ -148,16 +148,16 @@
     "33901": {"prev":{"total":1761,"byRarity":{"1":0,"2":0,"3":1598,"4":127,"5":36,"6":0,"7":0}},"label":"Ahn Pyeong-hwa #2 — Master-Peace","character":"Ahn Pyeong-hwa","series":"Master-Peace"},
     "33615": {"prev":{"total":1691,"byRarity":{"1":0,"2":0,"3":1539,"4":112,"5":40,"6":0,"7":0}},"label":"Ahn Pyeong-hwa #1 — Master-Peace","character":"Ahn Pyeong-hwa","series":"Master-Peace"},
     "33900": {"prev":{"total":1699,"byRarity":{"1":0,"2":0,"3":1566,"4":103,"5":30,"6":0,"7":0}},"label":"Ju Incheol #4 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
-    "33899": {"prev":{"total":1661,"byRarity":{"1":0,"2":0,"3":1530,"4":95,"5":36,"6":0,"7":0}},"label":"Ju Incheol #3 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
+    "33899": {"prev":{"total":1662,"byRarity":{"1":0,"2":0,"3":1531,"4":95,"5":36,"6":0,"7":0}},"label":"Ju Incheol #3 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
     "33898": {"prev":{"total":1683,"byRarity":{"1":0,"2":0,"3":1555,"4":101,"5":27,"6":0,"7":0}},"label":"Ju Incheol #2 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
-    "33616": {"prev":{"total":1757,"byRarity":{"1":0,"2":0,"3":1609,"4":107,"5":41,"6":0,"7":0}},"label":"Ju Incheol #1 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
+    "33616": {"prev":{"total":1758,"byRarity":{"1":0,"2":0,"3":1610,"4":107,"5":41,"6":0,"7":0}},"label":"Ju Incheol #1 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
     "36531": {"prev":{"total":1112,"byRarity":{"1":0,"2":0,"3":1033,"4":58,"5":21,"6":0,"7":0}},"label":"Braun #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36412": {"prev":{"total":1182,"byRarity":{"1":0,"2":0,"3":1094,"4":64,"5":24,"6":0,"7":0}},"label":"Lee Jaheon #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Lee Jaheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "31025": {"prev":{"total":2289,"byRarity":{"1":0,"2":0,"3":2085,"4":144,"5":60,"6":0,"7":0}},"label":"Lee Seonghae #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Lee Seonghae","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "31024": {"prev":{"total":2170,"byRarity":{"1":0,"2":0,"3":1984,"4":136,"5":50,"6":0,"7":0}},"label":"Jin Nasol #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Jin Nasol","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "28524": {"prev":{"total":2615,"byRarity":{"1":0,"2":0,"3":2403,"4":163,"5":49,"6":0,"7":0}},"label":"Lee Jaheon #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Lee Jaheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "28523": {"prev":{"total":2574,"byRarity":{"1":0,"2":0,"3":2342,"4":159,"5":73,"6":0,"7":0}},"label":"Agent Choi #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Agent Choi","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "28499": {"prev":{"total":2619,"byRarity":{"1":0,"2":0,"3":2382,"4":179,"5":58,"6":0,"7":0}},"label":"Ryu Jaekwan #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Ryu Jaekwan","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "28499": {"prev":{"total":2620,"byRarity":{"1":0,"2":0,"3":2383,"4":179,"5":58,"6":0,"7":0}},"label":"Ryu Jaekwan #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Ryu Jaekwan","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "28498": {"prev":{"total":2715,"byRarity":{"1":0,"2":0,"3":2473,"4":186,"5":56,"6":0,"7":0}},"label":"Braun #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "28497": {"prev":{"total":2624,"byRarity":{"1":0,"2":0,"3":2388,"4":165,"5":71,"6":0,"7":0}},"label":"Go Yeongeun #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Go Yeongeun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "28495": {"prev":{"total":2582,"byRarity":{"1":0,"2":0,"3":2344,"4":179,"5":59,"6":0,"7":0}},"label":"Eun Haje #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Eun Haje","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
@@ -207,7 +207,7 @@
     "2927": {"prev":{"total":5205,"byRarity":{"1":0,"2":0,"3":4768,"4":338,"5":99,"6":0,"7":0}},"label":"Childe #1 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "2928": {"prev":{"total":5213,"byRarity":{"1":0,"2":0,"3":4767,"4":345,"5":101,"6":0,"7":0}},"label":"Childe #2 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "2929": {"prev":{"total":5335,"byRarity":{"1":0,"2":0,"3":4939,"4":312,"5":84,"6":0,"7":0}},"label":"Childe #3 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
-    "2930": {"prev":{"total":5184,"byRarity":{"1":0,"2":0,"3":4762,"4":340,"5":82,"6":0,"7":0}},"label":"Childe #4 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
+    "2930": {"prev":{"total":5185,"byRarity":{"1":0,"2":0,"3":4763,"4":340,"5":82,"6":0,"7":0}},"label":"Childe #4 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "5729": {"prev":{"total":5174,"byRarity":{"1":0,"2":0,"3":4755,"4":326,"5":93,"6":0,"7":0}},"label":"Childe #5 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "5730": {"prev":{"total":5136,"byRarity":{"1":0,"2":0,"3":4683,"4":353,"5":100,"6":0,"7":0}},"label":"Childe #6 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "20563": {"prev":{"total":4160,"byRarity":{"1":0,"2":0,"3":3828,"4":255,"5":77,"6":0,"7":0}},"label":"Childe #7 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
@@ -259,6 +259,6 @@
     "34622": {"prev":{"total":1484,"byRarity":{"1":0,"2":0,"3":1380,"4":79,"5":25,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":195,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":195}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
     "40410": {"prev":{"total":15950,"byRarity":{"1":0,"2":0,"3":15230,"4":557,"5":163,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
-    "40406": {"prev":{"total":15903,"byRarity":{"1":0,"2":0,"3":15149,"4":582,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
+    "40406": {"prev":{"total":15904,"byRarity":{"1":0,"2":0,"3":15150,"4":582,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
   }
 }
