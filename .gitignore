@@ -1,0 +1,15 @@
+# Python cache & virtual environments
+__pycache__/
+*.pyc
+.venv/
+
+# Editor settings
+.vscode/
+
+# Local history / backups
+.history/
+
+# Environment variables / tokens
+.env
+
+.venv/
