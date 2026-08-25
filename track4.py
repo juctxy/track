@@ -12,6 +12,7 @@ Commands:
   /join         — join a voice channel and stay (voice_feature.py)
   /leave        — disconnect from voice (voice_feature.py)
   /say          — make the bot send a message (say.py)
+  /upload       — (bot owner only) save + push monitors.json / lumina_cards.csv to git now
 
 Setup:
   1. pip install discord.py python-dotenv aiohttp
@@ -55,18 +56,26 @@ SYNC_INTERVAL = 360000  # seconds between catalog syncs (~1 hour) — much less 
 # rate, so this is what actually reduces 429s (see fetch_pool + poll_loop).
 POOL_FETCH_CONCURRENCY = 3
 
-CONFIG_PATH   = "bot_config.json"  # stores the locked channel id per guild
-MONITORS_PATH = "monitors.json"    # stores tracked cards + subscribers, survives restarts
+CONFIG_PATH    = "bot_config.json"  # stores the locked channel id per guild
+MONITORS_PATH  = "monitors.json"    # stores tracked cards + subscribers, survives restarts
+CARDS_CSV_PATH = "lumina_cards.csv" # local card catalog, appended to by catalog_sync_loop
+MAIN_PATH = "track4.py"  # used in /upload to show which file triggered the git push
 
-# ── Git sync (share monitors.json between two people running the bot) ────────
+# ── Git sync (share data files between two people running the bot) ──────────
 #
 # Model this supports: only ONE of you runs the bot at a time (a "baton
-# pass"). Whoever starts the bot pulls the latest monitors.json first;
-# whoever stops it pushes their final state back. This is NOT safe for two
-# bot processes running simultaneously against the same repo — see the
-# chat writeup for why.
+# pass"). Whoever starts the bot pulls the latest data first; whoever stops
+# it pushes their final state back. This is NOT safe for two bot processes
+# running simultaneously against the same repo — see the chat writeup for
+# why.
 GIT_AUTO_SYNC     = True   # flip to False to disable all git pull/push behavior
-GIT_PUSH_INTERVAL = 300    # seconds between periodic "push if changed" checks while running
+GIT_PUSH_INTERVAL = 100    # seconds between periodic "push if changed" checks while running
+
+# Every path listed here gets committed+pushed together as one commit, and
+# pulled together at startup. Add more paths here if you want other files
+# synced the same way (e.g. bot_config.json), but keep .env OUT of this list
+# forever — see the git-history leak earlier in this conversation for why.
+GIT_SYNC_PATHS = [MONITORS_PATH, CARDS_CSV_PATH, MAIN_PATH]
 
 # ─────────────────────────────────────────────────────────────────────────────
 
@@ -178,42 +187,53 @@ def _run_git(*args: str, timeout: int = 30) -> tuple[bool, str]:
 
 
 def git_pull_monitors_sync() -> None:
-    """Call ONCE at startup, before anything reads monitors.json. Uses
-    --autostash so any leftover local edit doesn't block the pull, and
-    --rebase to avoid creating merge-commit noise for a single JSON file."""
+    """Call ONCE at startup, before anything reads monitors.json or
+    lumina_cards.csv. Uses --autostash so any leftover local edit doesn't
+    block the pull, and --rebase to avoid merge-commit noise for a couple
+    of data files."""
     if not GIT_AUTO_SYNC:
         return
     ok, out = _run_git("pull", "--rebase", "--autostash")
     if ok:
         print("🔄  git pull: up to date with remote before starting.")
     else:
-        # Not fatal — bot still starts with whatever monitors.json is on
-        # disk locally. Common causes: no git repo here, no remote
-        # configured yet, or no network. Printed so it's not silent.
-        print(f"⚠️  git pull failed (continuing with local monitors.json): {out}")
+        # Not fatal — bot still starts with whatever's on disk locally.
+        # Common causes: no git repo here, no remote configured yet, or
+        # no network. Printed so it's not silent.
+        print(f"⚠️  git pull failed (continuing with local files): {out}")
 
 
 def _git_push_monitors_sync(reason: str) -> None:
     if not GIT_AUTO_SYNC:
         return
-    # Only commit if MONITORS_PATH actually changed — avoids empty commits
-    # from the periodic check firing when nothing's new.
-    changed, _ = _run_git("diff", "--quiet", "--", MONITORS_PATH)
-    # git diff --quiet exits 0 = no changes, 1 = changes. _run_git's `ok`
-    # is True only on exit 0, so "changed" here really means "unchanged".
-    untracked_ok, untracked_out = _run_git("status", "--porcelain", "--", MONITORS_PATH)
-    has_untracked = untracked_ok and untracked_out.strip().startswith("??")
-    if changed and not has_untracked:
+    # Only stage paths that actually changed (tracked-and-modified, or
+    # brand new/untracked) — avoids empty commits from the periodic check
+    # firing when nothing's new.
+    changed_paths = []
+    for path in GIT_SYNC_PATHS:
+        if not os.path.exists(path):
+            continue
+        unchanged, _ = _run_git("diff", "--quiet", "--", path)
+        # git diff --quiet exits 0 = no changes. _run_git's `ok` is True
+        # only on exit 0, so "unchanged" here really means "no diff".
+        status_ok, status_out = _run_git("status", "--porcelain", "--", path)
+        is_untracked = status_ok and status_out.strip().startswith("??")
+        if not unchanged or is_untracked:
+            changed_paths.append(path)
+
+    if not changed_paths:
         return  # nothing to push
-    _run_git("add", "--", MONITORS_PATH)
-    ok, out = _run_git("commit", "-m", f"Sync monitors.json ({reason})")
+
+    _run_git("add", "--", *changed_paths)
+    files_desc = ", ".join(changed_paths)
+    ok, out = _run_git("commit", "-m", f"Sync {files_desc} ({reason})")
     if not ok:
         if "nothing to commit" not in out.lower():
             print(f"⚠️  git commit failed: {out}")
         return
     ok, out = _run_git("push")
     if ok:
-        print(f"⬆️   Pushed monitors.json to git ({reason}).")
+        print(f"⬆️   Pushed {files_desc} to git ({reason}).")
     else:
         print(f"⚠️  git push failed — your changes are committed locally but NOT on GitHub yet: {out}")
 
@@ -600,8 +620,6 @@ async def fetch_pool(card_id: str, retries: int = 2, retry_delay: float = 0.75) 
 #   "name" packs the character AND image number together, e.g. "Jessica #3".
 # We split that into a separate character / image number here so users can
 # search/filter on either piece.
-
-CARDS_CSV_PATH = "lumina_cards.csv"
 
 # card_catalog[card_id] = {"id": str, "character": str, "image": int|None, "series": str}
 card_catalog: dict[str, dict] = {}
@@ -1162,6 +1180,52 @@ async def cmd_unlock(interaction: discord.Interaction):
     else:
         await interaction.response.send_message(
             "ℹ️ This server doesn't have a channel restriction set.", ephemeral=True
+        )
+
+
+# ── /upload (bot owner only) ─────────────────────────────────────────────────
+#
+# Deliberately gated on the BOT's owner (the Discord application's owner),
+# not is_admin() — is_admin() only checks "administrator in this particular
+# server," but this pushes local data files to a shared GitHub repo that's
+# not scoped per-server. Only the person actually running the bot should
+# trigger a push remotely.
+#
+# Unlike /shutdown (which would also stop the bot), this just forces an
+# immediate save + git push and keeps running — useful right before you're
+# about to close VS Code or hand off to your friend, without needing
+# terminal access or waiting for the periodic GIT_PUSH_INTERVAL push.
+
+@tree.command(name="upload", description="(Bot owner only) Save and push monitors.json / lumina_cards.csv to git now")
+async def cmd_upload(interaction: discord.Interaction):
+    if not await client.is_owner(interaction.user):
+        await interaction.response.send_message(
+            "🚫 Only the bot's owner can use this command.", ephemeral=True
+        )
+        return
+
+    await interaction.response.defer(ephemeral=True)
+    # Flush any pending monitor changes to disk right now, instead of
+    # waiting on monitors_autosave_loop()'s ~2s debounce window.
+    await save_monitors()
+
+    # Capture whether the push actually did anything, so the reply is
+    # honest about "pushed" vs "nothing had changed."
+    ok, out = await asyncio.get_running_loop().run_in_executor(
+        None, _run_git, "status", "--porcelain", *GIT_SYNC_PATHS
+    )
+    something_changed = ok and out.strip() != ""
+
+    await git_push_monitors("remote /upload command")
+    print(f"⬆️   /upload invoked by {interaction.user} ({interaction.user.id}).")
+
+    if something_changed:
+        await interaction.followup.send(
+            "✅ Pushed the latest monitors.json / lumina_cards.csv to GitHub.", ephemeral=True
+        )
+    else:
+        await interaction.followup.send(
+            "ℹ️ Nothing had changed — GitHub already has the latest version.", ephemeral=True
         )
 
 
