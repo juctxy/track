@@ -148,7 +148,7 @@
     "33901": {"prev":{"total":1761,"byRarity":{"1":0,"2":0,"3":1598,"4":127,"5":36,"6":0,"7":0}},"label":"Ahn Pyeong-hwa #2 — Master-Peace","character":"Ahn Pyeong-hwa","series":"Master-Peace"},
     "33615": {"prev":{"total":1692,"byRarity":{"1":0,"2":0,"3":1539,"4":112,"5":41,"6":0,"7":0}},"label":"Ahn Pyeong-hwa #1 — Master-Peace","character":"Ahn Pyeong-hwa","series":"Master-Peace"},
     "33900": {"prev":{"total":1698,"byRarity":{"1":0,"2":0,"3":1564,"4":104,"5":30,"6":0,"7":0}},"label":"Ju Incheol #4 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
-    "33899": {"prev":{"total":1660,"byRarity":{"1":0,"2":0,"3":1529,"4":95,"5":36,"6":0,"7":0}},"label":"Ju Incheol #3 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
+    "33899": {"prev":{"total":1661,"byRarity":{"1":0,"2":0,"3":1530,"4":95,"5":36,"6":0,"7":0}},"label":"Ju Incheol #3 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
     "33898": {"prev":{"total":1687,"byRarity":{"1":0,"2":0,"3":1558,"4":102,"5":27,"6":0,"7":0}},"label":"Ju Incheol #2 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
     "33616": {"prev":{"total":1755,"byRarity":{"1":0,"2":0,"3":1605,"4":109,"5":41,"6":0,"7":0}},"label":"Ju Incheol #1 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
     "36531": {"prev":{"total":1115,"byRarity":{"1":0,"2":0,"3":1036,"4":58,"5":21,"6":0,"7":0}},"label":"Braun #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
@@ -175,7 +175,7 @@
     "37770": {"prev":{"total":907,"byRarity":{"1":0,"2":0,"3":867,"4":31,"5":9,"6":0,"7":0}},"label":"Taehyun #1 — TOMORROW X TOGETHER","character":"Taehyun","series":"TOMORROW X TOGETHER"},
     "36854": {"prev":{"total":1059,"byRarity":{"1":0,"2":0,"3":974,"4":64,"5":21,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38817": {"prev":{"total":655,"byRarity":{"1":0,"2":0,"3":613,"4":29,"5":13,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
-    "39099": {"prev":{"total":650,"byRarity":{"1":0,"2":0,"3":604,"4":38,"5":8,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
+    "39099": {"prev":{"total":651,"byRarity":{"1":0,"2":0,"3":605,"4":38,"5":8,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38797": {"prev":{"total":698,"byRarity":{"1":0,"2":0,"3":656,"4":34,"5":8,"6":0,"7":0}},"label":"J3 #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"J3","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "38529": {"prev":{"total":756,"byRarity":{"1":0,"2":0,"3":695,"4":49,"5":12,"6":0,"7":0}},"label":"Kim Soleum #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "39152": {"prev":{"total":663,"byRarity":{"1":0,"2":0,"3":610,"4":39,"5":14,"6":0,"7":0}},"label":"Baek Saheon #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
@@ -184,7 +184,7 @@
     "12776": {"prev":{"total":4181,"byRarity":{"1":0,"2":0,"3":3766,"4":311,"5":104,"6":0,"7":0}},"label":"Emma #3 — Veil","character":"Emma","series":"Veil"},
     "31298": {"prev":{"total":2211,"byRarity":{"1":0,"2":0,"3":2044,"4":133,"5":34,"6":0,"7":0}},"label":"Emma #4 — Veil","character":"Emma","series":"Veil"},
     "33060": {"prev":{"total":1929,"byRarity":{"1":0,"2":0,"3":1772,"4":121,"5":36,"6":0,"7":0}},"label":"Emma #5 — Veil","character":"Emma","series":"Veil"},
-    "12158": {"prev":{"total":4179,"byRarity":{"1":0,"2":0,"3":3772,"4":314,"5":93,"6":0,"7":0}},"label":"Klein Moretti #1 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
+    "12158": {"prev":{"total":4180,"byRarity":{"1":0,"2":0,"3":3773,"4":314,"5":93,"6":0,"7":0}},"label":"Klein Moretti #1 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12159": {"prev":{"total":4287,"byRarity":{"1":0,"2":0,"3":3874,"4":320,"5":93,"6":0,"7":0}},"label":"Klein Moretti #2 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12160": {"prev":{"total":4180,"byRarity":{"1":0,"2":0,"3":3763,"4":326,"5":91,"6":0,"7":0}},"label":"Klein Moretti #3 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12161": {"prev":{"total":4218,"byRarity":{"1":0,"2":0,"3":3841,"4":299,"5":78,"6":0,"7":0}},"label":"Klein Moretti #4 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
@@ -217,7 +217,7 @@
     "802": {"prev":{"total":5339,"byRarity":{"1":0,"2":0,"3":4894,"4":338,"5":107,"6":0,"7":0}},"label":"Choso #2 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "31554": {"prev":{"total":2402,"byRarity":{"1":0,"2":0,"3":2218,"4":134,"5":50,"6":0,"7":0}},"label":"Choso #4 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "31555": {"prev":{"total":2518,"byRarity":{"1":0,"2":0,"3":2337,"4":143,"5":38,"6":0,"7":0}},"label":"Choso #5 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
-    "31556": {"prev":{"total":2460,"byRarity":{"1":0,"2":0,"3":2255,"4":157,"5":48,"6":0,"7":0}},"label":"Choso #6 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
+    "31556": {"prev":{"total":2461,"byRarity":{"1":0,"2":0,"3":2256,"4":157,"5":48,"6":0,"7":0}},"label":"Choso #6 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "32807": {"prev":{"total":2079,"byRarity":{"1":0,"2":0,"3":1911,"4":127,"5":41,"6":0,"7":0}},"label":"Choso #7 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "37823": {"prev":{"total":945,"byRarity":{"1":0,"2":0,"3":886,"4":46,"5":13,"6":0,"7":0}},"label":"Kamiina Botan #1 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "37824": {"prev":{"total":919,"byRarity":{"1":0,"2":0,"3":851,"4":51,"5":17,"6":0,"7":0}},"label":"Kamiina Botan #2 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
@@ -259,6 +259,6 @@
     "34622": {"prev":{"total":1489,"byRarity":{"1":0,"2":0,"3":1385,"4":79,"5":25,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":200,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":200}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
     "40410": {"prev":{"total":16086,"byRarity":{"1":0,"2":0,"3":15360,"4":561,"5":165,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
-    "40406": {"prev":{"total":16053,"byRarity":{"1":0,"2":0,"3":15292,"4":589,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
+    "40406": {"prev":{"total":16056,"byRarity":{"1":0,"2":0,"3":15295,"4":589,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
   }
 }
