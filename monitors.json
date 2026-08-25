@@ -236,8 +236,8 @@
     "37275": {"prev":{"total":873,"byRarity":{"1":0,"2":0,"3":809,"4":50,"5":14,"6":0,"7":0}},"label":"Bang Chan #1 — Stray Kids","character":"Bang Chan","series":"Stray Kids"},
     "37280": {"prev":{"total":821,"byRarity":{"1":0,"2":0,"3":769,"4":45,"5":7,"6":0,"7":0}},"label":"Bang Chan #2 — Stray Kids","character":"Bang Chan","series":"Stray Kids"},
     "16012": {"prev":{"total":4152,"byRarity":{"1":0,"2":0,"3":3749,"4":307,"5":96,"6":0,"7":0}},"label":"Lucy #1 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
-    "16013": {"prev":{"total":4110,"byRarity":{"1":0,"2":0,"3":3697,"4":299,"5":114,"6":0,"7":0}},"label":"Lucy #2 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
-    "16014": {"prev":{"total":4010,"byRarity":{"1":0,"2":0,"3":3649,"4":260,"5":101,"6":0,"7":0}},"label":"Lucy #3 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
+    "16013": {"prev":{"total":4111,"byRarity":{"1":0,"2":0,"3":3698,"4":299,"5":114,"6":0,"7":0}},"label":"Lucy #2 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
+    "16014": {"prev":{"total":4009,"byRarity":{"1":0,"2":0,"3":3648,"4":260,"5":101,"6":0,"7":0}},"label":"Lucy #3 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
     "16015": {"prev":{"total":4016,"byRarity":{"1":0,"2":0,"3":3631,"4":291,"5":94,"6":0,"7":0}},"label":"Lucy #4 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
     "38508": {"prev":{"total":790,"byRarity":{"1":0,"2":0,"3":732,"4":46,"5":12,"6":0,"7":0}},"label":"Sandrone #1 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"},
     "38509": {"prev":{"total":817,"byRarity":{"1":0,"2":0,"3":751,"4":52,"5":14,"6":0,"7":0}},"label":"Sandrone #2 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"},
@@ -258,7 +258,7 @@
     "34943": {"prev":{"total":1350,"byRarity":{"1":0,"2":0,"3":1232,"4":85,"5":33,"6":0,"7":0}},"label":"Chinoi Momone #3 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34622": {"prev":{"total":1489,"byRarity":{"1":0,"2":0,"3":1385,"4":79,"5":25,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":198,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":198}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
-    "40410": {"prev":{"total":16045,"byRarity":{"1":0,"2":0,"3":15323,"4":557,"5":165,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
+    "40410": {"prev":{"total":16046,"byRarity":{"1":0,"2":0,"3":15324,"4":557,"5":165,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
     "40406": {"prev":{"total":15990,"byRarity":{"1":0,"2":0,"3":15230,"4":588,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
   }
 }
