@@ -168,7 +168,7 @@
     "25555": {"prev":{"total":3295,"byRarity":{"1":0,"2":0,"3":2981,"4":230,"5":84,"6":0,"7":0}},"label":"Eun Haje #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Eun Haje","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "37287": {"prev":{"total":871,"byRarity":{"1":0,"2":0,"3":813,"4":47,"5":11,"6":0,"7":0}},"label":"Jeonghan #3 — SEVENTEEN","character":"Jeonghan","series":"SEVENTEEN"},
     "37282": {"prev":{"total":886,"byRarity":{"1":0,"2":0,"3":818,"4":46,"5":22,"6":0,"7":0}},"label":"Jeonghan #2 — SEVENTEEN","character":"Jeonghan","series":"SEVENTEEN"},
-    "37277": {"prev":{"total":862,"byRarity":{"1":0,"2":0,"3":813,"4":38,"5":11,"6":0,"7":0}},"label":"Jeonghan #1 — SEVENTEEN","character":"Jeonghan","series":"SEVENTEEN"},
+    "37277": {"prev":{"total":863,"byRarity":{"1":0,"2":0,"3":814,"4":38,"5":11,"6":0,"7":0}},"label":"Jeonghan #1 — SEVENTEEN","character":"Jeonghan","series":"SEVENTEEN"},
     "37309": {"prev":{"total":869,"byRarity":{"1":0,"2":0,"3":802,"4":53,"5":14,"6":0,"7":0}},"label":"Rui #1 — XLOV","character":"Rui","series":"XLOV"},
     "37323": {"prev":{"total":812,"byRarity":{"1":0,"2":0,"3":755,"4":40,"5":17,"6":0,"7":0}},"label":"Rui #4 — XLOV","character":"Rui","series":"XLOV"},
     "37775": {"prev":{"total":817,"byRarity":{"1":0,"2":0,"3":769,"4":37,"5":11,"6":0,"7":0}},"label":"Taehyun #2 — TOMORROW X TOGETHER","character":"Taehyun","series":"TOMORROW X TOGETHER"},
@@ -219,7 +219,7 @@
     "31555": {"prev":{"total":2517,"byRarity":{"1":0,"2":0,"3":2336,"4":143,"5":38,"6":0,"7":0}},"label":"Choso #5 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "31556": {"prev":{"total":2460,"byRarity":{"1":0,"2":0,"3":2255,"4":157,"5":48,"6":0,"7":0}},"label":"Choso #6 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "32807": {"prev":{"total":2075,"byRarity":{"1":0,"2":0,"3":1908,"4":126,"5":41,"6":0,"7":0}},"label":"Choso #7 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
-    "37823": {"prev":{"total":938,"byRarity":{"1":0,"2":0,"3":880,"4":45,"5":13,"6":0,"7":0}},"label":"Kamiina Botan #1 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
+    "37823": {"prev":{"total":939,"byRarity":{"1":0,"2":0,"3":881,"4":45,"5":13,"6":0,"7":0}},"label":"Kamiina Botan #1 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "37824": {"prev":{"total":925,"byRarity":{"1":0,"2":0,"3":857,"4":51,"5":17,"6":0,"7":0}},"label":"Kamiina Botan #2 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "37825": {"prev":{"total":929,"byRarity":{"1":0,"2":0,"3":844,"4":52,"5":33,"6":0,"7":0}},"label":"Kamiina Botan #3 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "37826": {"prev":{"total":990,"byRarity":{"1":0,"2":0,"3":912,"4":59,"5":19,"6":0,"7":0}},"label":"Kamiina Botan #4 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
@@ -259,6 +259,6 @@
     "34622": {"prev":{"total":1487,"byRarity":{"1":0,"2":0,"3":1383,"4":79,"5":25,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":196,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":196}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
     "40410": {"prev":{"total":16014,"byRarity":{"1":0,"2":0,"3":15293,"4":557,"5":164,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
-    "40406": {"prev":{"total":15952,"byRarity":{"1":0,"2":0,"3":15197,"4":583,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
+    "40406": {"prev":{"total":15953,"byRarity":{"1":0,"2":0,"3":15198,"4":583,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
   }
 }
