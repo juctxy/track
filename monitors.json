@@ -172,7 +172,7 @@
     "37309": {"prev":{"total":867,"byRarity":{"1":0,"2":0,"3":800,"4":53,"5":14,"6":0,"7":0}},"label":"Rui #1 — XLOV","character":"Rui","series":"XLOV"},
     "37323": {"prev":{"total":812,"byRarity":{"1":0,"2":0,"3":755,"4":40,"5":17,"6":0,"7":0}},"label":"Rui #4 — XLOV","character":"Rui","series":"XLOV"},
     "37775": {"prev":{"total":817,"byRarity":{"1":0,"2":0,"3":769,"4":37,"5":11,"6":0,"7":0}},"label":"Taehyun #2 — TOMORROW X TOGETHER","character":"Taehyun","series":"TOMORROW X TOGETHER"},
-    "37770": {"prev":{"total":905,"byRarity":{"1":0,"2":0,"3":865,"4":31,"5":9,"6":0,"7":0}},"label":"Taehyun #1 — TOMORROW X TOGETHER","character":"Taehyun","series":"TOMORROW X TOGETHER"},
+    "37770": {"prev":{"total":906,"byRarity":{"1":0,"2":0,"3":866,"4":31,"5":9,"6":0,"7":0}},"label":"Taehyun #1 — TOMORROW X TOGETHER","character":"Taehyun","series":"TOMORROW X TOGETHER"},
     "36854": {"prev":{"total":1059,"byRarity":{"1":0,"2":0,"3":974,"4":64,"5":21,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38817": {"prev":{"total":654,"byRarity":{"1":0,"2":0,"3":612,"4":29,"5":13,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "39099": {"prev":{"total":649,"byRarity":{"1":0,"2":0,"3":603,"4":38,"5":8,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
@@ -235,7 +235,7 @@
     "37815": {"prev":{"total":836,"byRarity":{"1":0,"2":0,"3":776,"4":50,"5":10,"6":0,"7":0}},"label":"Changbin #2 — Stray Kids","character":"Changbin","series":"Stray Kids"},
     "37275": {"prev":{"total":872,"byRarity":{"1":0,"2":0,"3":808,"4":50,"5":14,"6":0,"7":0}},"label":"Bang Chan #1 — Stray Kids","character":"Bang Chan","series":"Stray Kids"},
     "37280": {"prev":{"total":820,"byRarity":{"1":0,"2":0,"3":768,"4":45,"5":7,"6":0,"7":0}},"label":"Bang Chan #2 — Stray Kids","character":"Bang Chan","series":"Stray Kids"},
-    "16012": {"prev":{"total":4151,"byRarity":{"1":0,"2":0,"3":3748,"4":307,"5":96,"6":0,"7":0}},"label":"Lucy #1 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
+    "16012": {"prev":{"total":4152,"byRarity":{"1":0,"2":0,"3":3749,"4":307,"5":96,"6":0,"7":0}},"label":"Lucy #1 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
     "16013": {"prev":{"total":4109,"byRarity":{"1":0,"2":0,"3":3696,"4":299,"5":114,"6":0,"7":0}},"label":"Lucy #2 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
     "16014": {"prev":{"total":4010,"byRarity":{"1":0,"2":0,"3":3649,"4":260,"5":101,"6":0,"7":0}},"label":"Lucy #3 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
     "16015": {"prev":{"total":4016,"byRarity":{"1":0,"2":0,"3":3631,"4":291,"5":94,"6":0,"7":0}},"label":"Lucy #4 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
@@ -258,7 +258,7 @@
     "34943": {"prev":{"total":1347,"byRarity":{"1":0,"2":0,"3":1229,"4":85,"5":33,"6":0,"7":0}},"label":"Chinoi Momone #3 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34622": {"prev":{"total":1485,"byRarity":{"1":0,"2":0,"3":1381,"4":79,"5":25,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":195,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":195}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
-    "40410": {"prev":{"total":15984,"byRarity":{"1":0,"2":0,"3":15263,"4":557,"5":164,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
+    "40410": {"prev":{"total":15987,"byRarity":{"1":0,"2":0,"3":15266,"4":557,"5":164,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
     "40406": {"prev":{"total":15932,"byRarity":{"1":0,"2":0,"3":15177,"4":583,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
   }
 }
