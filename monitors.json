@@ -225,7 +225,7 @@
     "37826": {"prev":{"total":990,"byRarity":{"1":0,"2":0,"3":912,"4":59,"5":19,"6":0,"7":0}},"label":"Kamiina Botan #4 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "27332": {"prev":{"total":3230,"byRarity":{"1":0,"2":0,"3":2987,"4":177,"5":66,"6":0,"7":0}},"label":"Columbina #2 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "27333": {"prev":{"total":3376,"byRarity":{"1":0,"2":0,"3":3102,"4":198,"5":76,"6":0,"7":0}},"label":"Columbina #3 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
-    "29704": {"prev":{"total":2525,"byRarity":{"1":0,"2":0,"3":2319,"4":149,"5":57,"6":0,"7":0}},"label":"Columbina #5 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
+    "29704": {"prev":{"total":2526,"byRarity":{"1":0,"2":0,"3":2320,"4":149,"5":57,"6":0,"7":0}},"label":"Columbina #5 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "29705": {"prev":{"total":2513,"byRarity":{"1":0,"2":0,"3":2330,"4":143,"5":40,"6":0,"7":0}},"label":"Columbina #6 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "29706": {"prev":{"total":2550,"byRarity":{"1":0,"2":0,"3":2329,"4":156,"5":65,"6":0,"7":0}},"label":"Columbina #7 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "29707": {"prev":{"total":2532,"byRarity":{"1":0,"2":0,"3":2327,"4":150,"5":55,"6":0,"7":0}},"label":"Columbina #8 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
@@ -258,7 +258,7 @@
     "34943": {"prev":{"total":1347,"byRarity":{"1":0,"2":0,"3":1229,"4":85,"5":33,"6":0,"7":0}},"label":"Chinoi Momone #3 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34622": {"prev":{"total":1485,"byRarity":{"1":0,"2":0,"3":1381,"4":79,"5":25,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":195,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":195}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
-    "40410": {"prev":{"total":16003,"byRarity":{"1":0,"2":0,"3":15282,"4":557,"5":164,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
-    "40406": {"prev":{"total":15940,"byRarity":{"1":0,"2":0,"3":15185,"4":583,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
+    "40410": {"prev":{"total":16005,"byRarity":{"1":0,"2":0,"3":15284,"4":557,"5":164,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
+    "40406": {"prev":{"total":15941,"byRarity":{"1":0,"2":0,"3":15186,"4":583,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
   }
 }
