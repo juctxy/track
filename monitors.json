@@ -174,7 +174,7 @@
     "37775": {"prev":{"total":819,"byRarity":{"1":0,"2":0,"3":771,"4":37,"5":11,"6":0,"7":0}},"label":"Taehyun #2 — TOMORROW X TOGETHER","character":"Taehyun","series":"TOMORROW X TOGETHER"},
     "37770": {"prev":{"total":905,"byRarity":{"1":0,"2":0,"3":865,"4":31,"5":9,"6":0,"7":0}},"label":"Taehyun #1 — TOMORROW X TOGETHER","character":"Taehyun","series":"TOMORROW X TOGETHER"},
     "36854": {"prev":{"total":1061,"byRarity":{"1":0,"2":0,"3":976,"4":64,"5":21,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
-    "38817": {"prev":{"total":655,"byRarity":{"1":0,"2":0,"3":613,"4":29,"5":13,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
+    "38817": {"prev":{"total":656,"byRarity":{"1":0,"2":0,"3":614,"4":29,"5":13,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "39099": {"prev":{"total":649,"byRarity":{"1":0,"2":0,"3":603,"4":38,"5":8,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38797": {"prev":{"total":698,"byRarity":{"1":0,"2":0,"3":656,"4":34,"5":8,"6":0,"7":0}},"label":"J3 #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"J3","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "38529": {"prev":{"total":754,"byRarity":{"1":0,"2":0,"3":693,"4":49,"5":12,"6":0,"7":0}},"label":"Kim Soleum #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
@@ -186,12 +186,12 @@
     "33060": {"prev":{"total":1928,"byRarity":{"1":0,"2":0,"3":1771,"4":121,"5":36,"6":0,"7":0}},"label":"Emma #5 — Veil","character":"Emma","series":"Veil"},
     "12158": {"prev":{"total":4177,"byRarity":{"1":0,"2":0,"3":3769,"4":315,"5":93,"6":0,"7":0}},"label":"Klein Moretti #1 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12159": {"prev":{"total":4285,"byRarity":{"1":0,"2":0,"3":3872,"4":320,"5":93,"6":0,"7":0}},"label":"Klein Moretti #2 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
-    "12160": {"prev":{"total":4179,"byRarity":{"1":0,"2":0,"3":3762,"4":326,"5":91,"6":0,"7":0}},"label":"Klein Moretti #3 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
+    "12160": {"prev":{"total":4180,"byRarity":{"1":0,"2":0,"3":3763,"4":326,"5":91,"6":0,"7":0}},"label":"Klein Moretti #3 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12161": {"prev":{"total":4215,"byRarity":{"1":0,"2":0,"3":3839,"4":298,"5":78,"6":0,"7":0}},"label":"Klein Moretti #4 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12162": {"prev":{"total":4277,"byRarity":{"1":0,"2":0,"3":3878,"4":300,"5":99,"6":0,"7":0}},"label":"Klein Moretti #5 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12163": {"prev":{"total":4279,"byRarity":{"1":0,"2":0,"3":3878,"4":289,"5":112,"6":0,"7":0}},"label":"Klein Moretti #6 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "27208": {"prev":{"total":2931,"byRarity":{"1":0,"2":0,"3":2662,"4":201,"5":68,"6":0,"7":0}},"label":"Klein Moretti #9 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
-    "27250": {"prev":{"total":2890,"byRarity":{"1":0,"2":0,"3":2643,"4":186,"5":61,"6":0,"7":0}},"label":"Klein Moretti #10 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
+    "27250": {"prev":{"total":2889,"byRarity":{"1":0,"2":0,"3":2642,"4":186,"5":61,"6":0,"7":0}},"label":"Klein Moretti #10 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "27251": {"prev":{"total":2948,"byRarity":{"1":0,"2":0,"3":2694,"4":185,"5":69,"6":0,"7":0}},"label":"Klein Moretti #11 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "29374": {"prev":{"total":2331,"byRarity":{"1":0,"2":0,"3":2144,"4":144,"5":43,"6":0,"7":0}},"label":"Klein Moretti #13 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "29375": {"prev":{"total":2320,"byRarity":{"1":0,"2":0,"3":2125,"4":142,"5":53,"6":0,"7":0}},"label":"Klein Moretti #14 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
@@ -245,9 +245,9 @@
     "33381": {"prev":{"total":1890,"byRarity":{"1":0,"2":0,"3":1732,"4":129,"5":29,"6":0,"7":0}},"label":"Vein #8 — Link Click","character":"Vein","series":"Link Click"},
     "37848": {"prev":{"total":960,"byRarity":{"1":0,"2":0,"3":872,"4":68,"5":20,"6":0,"7":0}},"label":"Emu Otori #19 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
     "21143": {"prev":{"total":3616,"byRarity":{"1":0,"2":0,"3":3284,"4":238,"5":94,"6":0,"7":0}},"label":"Shion Tatsunami #1 — Saihate Station","character":"Shion Tatsunami","series":"Saihate Station"},
-    "21144": {"prev":{"total":3570,"byRarity":{"1":0,"2":0,"3":3251,"4":248,"5":71,"6":0,"7":0}},"label":"Shion Tatsunami #2 — Saihate Station","character":"Shion Tatsunami","series":"Saihate Station"},
+    "21144": {"prev":{"total":3569,"byRarity":{"1":0,"2":0,"3":3250,"4":248,"5":71,"6":0,"7":0}},"label":"Shion Tatsunami #2 — Saihate Station","character":"Shion Tatsunami","series":"Saihate Station"},
     "21145": {"prev":{"total":3637,"byRarity":{"1":0,"2":0,"3":3281,"4":273,"5":83,"6":0,"7":0}},"label":"Shion Tatsunami #3 — Saihate Station","character":"Shion Tatsunami","series":"Saihate Station"},
-    "21139": {"prev":{"total":3548,"byRarity":{"1":0,"2":0,"3":3249,"4":227,"5":72,"6":0,"7":0}},"label":"Haru Akinashi #1 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
+    "21139": {"prev":{"total":3547,"byRarity":{"1":0,"2":0,"3":3248,"4":227,"5":72,"6":0,"7":0}},"label":"Haru Akinashi #1 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
     "21140": {"prev":{"total":3604,"byRarity":{"1":0,"2":0,"3":3271,"4":264,"5":69,"6":0,"7":0}},"label":"Haru Akinashi #2 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
     "21141": {"prev":{"total":3490,"byRarity":{"1":0,"2":0,"3":3181,"4":237,"5":72,"6":0,"7":0}},"label":"Haru Akinashi #3 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
     "21142": {"prev":{"total":3639,"byRarity":{"1":0,"2":0,"3":3287,"4":260,"5":92,"6":0,"7":0}},"label":"Haru Akinashi #4 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
@@ -259,6 +259,6 @@
     "34622": {"prev":{"total":1484,"byRarity":{"1":0,"2":0,"3":1380,"4":79,"5":25,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":195,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":195}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
     "40410": {"prev":{"total":15971,"byRarity":{"1":0,"2":0,"3":15250,"4":557,"5":164,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
-    "40406": {"prev":{"total":15912,"byRarity":{"1":0,"2":0,"3":15158,"4":582,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
+    "40406": {"prev":{"total":15913,"byRarity":{"1":0,"2":0,"3":15159,"4":582,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
   }
 }
