@@ -139,7 +139,7 @@
     "25554": {"prev":{"total":3444,"byRarity":{"1":0,"2":0,"3":3112,"4":237,"5":95,"6":0,"7":0}},"label":"Kim Soleum #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25553": {"prev":{"total":3320,"byRarity":{"1":0,"2":0,"3":3023,"4":225,"5":72,"6":0,"7":0}},"label":"Kim Soleum #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36521": {"prev":{"total":1168,"byRarity":{"1":0,"2":0,"3":1080,"4":65,"5":23,"6":0,"7":0}},"label":"Kim Soleum #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "36901": {"prev":{"total":1017,"byRarity":{"1":0,"2":0,"3":947,"4":58,"5":12,"6":0,"7":0}},"label":"Baek Saheon #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "36901": {"prev":{"total":1018,"byRarity":{"1":0,"2":0,"3":948,"4":58,"5":12,"6":0,"7":0}},"label":"Baek Saheon #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36900": {"prev":{"total":1048,"byRarity":{"1":0,"2":0,"3":961,"4":66,"5":21,"6":0,"7":0}},"label":"Baek Saheon #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36899": {"prev":{"total":1047,"byRarity":{"1":0,"2":0,"3":973,"4":50,"5":24,"6":0,"7":0}},"label":"Baek Saheon #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "28525": {"prev":{"total":2531,"byRarity":{"1":0,"2":0,"3":2297,"4":171,"5":63,"6":0,"7":0}},"label":"Baek Saheon #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
@@ -179,9 +179,9 @@
     "38797": {"prev":{"total":699,"byRarity":{"1":0,"2":0,"3":657,"4":34,"5":8,"6":0,"7":0}},"label":"J3 #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"J3","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "38529": {"prev":{"total":753,"byRarity":{"1":0,"2":0,"3":692,"4":49,"5":12,"6":0,"7":0}},"label":"Kim Soleum #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "39152": {"prev":{"total":656,"byRarity":{"1":0,"2":0,"3":603,"4":39,"5":14,"6":0,"7":0}},"label":"Baek Saheon #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "12774": {"prev":{"total":4276,"byRarity":{"1":0,"2":0,"3":3881,"4":300,"5":95,"6":0,"7":0}},"label":"Emma #1 — Veil","character":"Emma","series":"Veil"},
+    "12774": {"prev":{"total":4274,"byRarity":{"1":0,"2":0,"3":3879,"4":300,"5":95,"6":0,"7":0}},"label":"Emma #1 — Veil","character":"Emma","series":"Veil"},
     "12775": {"prev":{"total":4083,"byRarity":{"1":0,"2":0,"3":3693,"4":299,"5":91,"6":0,"7":0}},"label":"Emma #2 — Veil","character":"Emma","series":"Veil"},
-    "12776": {"prev":{"total":4175,"byRarity":{"1":0,"2":0,"3":3761,"4":311,"5":103,"6":0,"7":0}},"label":"Emma #3 — Veil","character":"Emma","series":"Veil"},
+    "12776": {"prev":{"total":4174,"byRarity":{"1":0,"2":0,"3":3760,"4":311,"5":103,"6":0,"7":0}},"label":"Emma #3 — Veil","character":"Emma","series":"Veil"},
     "31298": {"prev":{"total":2215,"byRarity":{"1":0,"2":0,"3":2048,"4":133,"5":34,"6":0,"7":0}},"label":"Emma #4 — Veil","character":"Emma","series":"Veil"},
     "33060": {"prev":{"total":1930,"byRarity":{"1":0,"2":0,"3":1773,"4":121,"5":36,"6":0,"7":0}},"label":"Emma #5 — Veil","character":"Emma","series":"Veil"},
     "12158": {"prev":{"total":4176,"byRarity":{"1":0,"2":0,"3":3768,"4":315,"5":93,"6":0,"7":0}},"label":"Klein Moretti #1 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
@@ -223,7 +223,7 @@
     "37824": {"prev":{"total":925,"byRarity":{"1":0,"2":0,"3":857,"4":51,"5":17,"6":0,"7":0}},"label":"Kamiina Botan #2 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "37825": {"prev":{"total":929,"byRarity":{"1":0,"2":0,"3":844,"4":52,"5":33,"6":0,"7":0}},"label":"Kamiina Botan #3 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "37826": {"prev":{"total":990,"byRarity":{"1":0,"2":0,"3":912,"4":59,"5":19,"6":0,"7":0}},"label":"Kamiina Botan #4 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
-    "27332": {"prev":{"total":3231,"byRarity":{"1":0,"2":0,"3":2988,"4":177,"5":66,"6":0,"7":0}},"label":"Columbina #2 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
+    "27332": {"prev":{"total":3230,"byRarity":{"1":0,"2":0,"3":2987,"4":177,"5":66,"6":0,"7":0}},"label":"Columbina #2 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "27333": {"prev":{"total":3376,"byRarity":{"1":0,"2":0,"3":3102,"4":198,"5":76,"6":0,"7":0}},"label":"Columbina #3 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "29704": {"prev":{"total":2525,"byRarity":{"1":0,"2":0,"3":2319,"4":149,"5":57,"6":0,"7":0}},"label":"Columbina #5 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "29705": {"prev":{"total":2513,"byRarity":{"1":0,"2":0,"3":2330,"4":143,"5":40,"6":0,"7":0}},"label":"Columbina #6 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
@@ -258,7 +258,7 @@
     "34943": {"prev":{"total":1347,"byRarity":{"1":0,"2":0,"3":1229,"4":85,"5":33,"6":0,"7":0}},"label":"Chinoi Momone #3 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34622": {"prev":{"total":1485,"byRarity":{"1":0,"2":0,"3":1381,"4":79,"5":25,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":195,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":195}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
-    "40410": {"prev":{"total":16002,"byRarity":{"1":0,"2":0,"3":15281,"4":557,"5":164,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
+    "40410": {"prev":{"total":16003,"byRarity":{"1":0,"2":0,"3":15282,"4":557,"5":164,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
     "40406": {"prev":{"total":15940,"byRarity":{"1":0,"2":0,"3":15185,"4":583,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
   }
 }
