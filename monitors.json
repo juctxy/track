@@ -135,7 +135,7 @@
     }
   },
   "cards": {
-    "28494": {"prev":{"total":2587,"byRarity":{"1":0,"2":0,"3":2364,"4":165,"5":58,"6":0,"7":0}},"label":"Kim Soleum #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "28494": {"prev":{"total":2588,"byRarity":{"1":0,"2":0,"3":2365,"4":165,"5":58,"6":0,"7":0}},"label":"Kim Soleum #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25554": {"prev":{"total":3444,"byRarity":{"1":0,"2":0,"3":3112,"4":237,"5":95,"6":0,"7":0}},"label":"Kim Soleum #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25553": {"prev":{"total":3320,"byRarity":{"1":0,"2":0,"3":3023,"4":225,"5":72,"6":0,"7":0}},"label":"Kim Soleum #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36521": {"prev":{"total":1167,"byRarity":{"1":0,"2":0,"3":1079,"4":65,"5":23,"6":0,"7":0}},"label":"Kim Soleum #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
@@ -234,7 +234,7 @@
     "37814": {"prev":{"total":827,"byRarity":{"1":0,"2":0,"3":769,"4":43,"5":15,"6":0,"7":0}},"label":"Changbin #1 — Stray Kids","character":"Changbin","series":"Stray Kids"},
     "37815": {"prev":{"total":836,"byRarity":{"1":0,"2":0,"3":776,"4":50,"5":10,"6":0,"7":0}},"label":"Changbin #2 — Stray Kids","character":"Changbin","series":"Stray Kids"},
     "37275": {"prev":{"total":872,"byRarity":{"1":0,"2":0,"3":808,"4":50,"5":14,"6":0,"7":0}},"label":"Bang Chan #1 — Stray Kids","character":"Bang Chan","series":"Stray Kids"},
-    "37280": {"prev":{"total":819,"byRarity":{"1":0,"2":0,"3":767,"4":45,"5":7,"6":0,"7":0}},"label":"Bang Chan #2 — Stray Kids","character":"Bang Chan","series":"Stray Kids"},
+    "37280": {"prev":{"total":820,"byRarity":{"1":0,"2":0,"3":768,"4":45,"5":7,"6":0,"7":0}},"label":"Bang Chan #2 — Stray Kids","character":"Bang Chan","series":"Stray Kids"},
     "16012": {"prev":{"total":4151,"byRarity":{"1":0,"2":0,"3":3748,"4":307,"5":96,"6":0,"7":0}},"label":"Lucy #1 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
     "16013": {"prev":{"total":4109,"byRarity":{"1":0,"2":0,"3":3696,"4":299,"5":114,"6":0,"7":0}},"label":"Lucy #2 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
     "16014": {"prev":{"total":4010,"byRarity":{"1":0,"2":0,"3":3649,"4":260,"5":101,"6":0,"7":0}},"label":"Lucy #3 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
@@ -258,7 +258,7 @@
     "34943": {"prev":{"total":1347,"byRarity":{"1":0,"2":0,"3":1229,"4":85,"5":33,"6":0,"7":0}},"label":"Chinoi Momone #3 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34622": {"prev":{"total":1485,"byRarity":{"1":0,"2":0,"3":1381,"4":79,"5":25,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":195,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":195}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
-    "40410": {"prev":{"total":15983,"byRarity":{"1":0,"2":0,"3":15262,"4":557,"5":164,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
+    "40410": {"prev":{"total":15984,"byRarity":{"1":0,"2":0,"3":15263,"4":557,"5":164,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
     "40406": {"prev":{"total":15932,"byRarity":{"1":0,"2":0,"3":15177,"4":583,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
   }
 }
