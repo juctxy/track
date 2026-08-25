@@ -69,7 +69,7 @@ MAIN_PATH = "track4.py"  # used in /upload to show which file triggered the git 
 # running simultaneously against the same repo — see the chat writeup for
 # why.
 GIT_AUTO_SYNC     = True   # flip to False to disable all git pull/push behavior
-GIT_PUSH_INTERVAL = 100    # seconds between periodic "push if changed" checks while running
+GIT_PUSH_INTERVAL = 300    # seconds between periodic "push if changed" checks while running
 
 # Every path listed here gets committed+pushed together as one commit, and
 # pulled together at startup. Add more paths here if you want other files
