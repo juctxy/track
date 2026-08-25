@@ -216,7 +216,7 @@
     "801": {"prev":{"total":5392,"byRarity":{"1":0,"2":0,"3":4940,"4":357,"5":95,"6":0,"7":0}},"label":"Choso #1 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "802": {"prev":{"total":5337,"byRarity":{"1":0,"2":0,"3":4892,"4":338,"5":107,"6":0,"7":0}},"label":"Choso #2 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "31554": {"prev":{"total":2400,"byRarity":{"1":0,"2":0,"3":2216,"4":134,"5":50,"6":0,"7":0}},"label":"Choso #4 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
-    "31555": {"prev":{"total":2518,"byRarity":{"1":0,"2":0,"3":2337,"4":143,"5":38,"6":0,"7":0}},"label":"Choso #5 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
+    "31555": {"prev":{"total":2517,"byRarity":{"1":0,"2":0,"3":2336,"4":143,"5":38,"6":0,"7":0}},"label":"Choso #5 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "31556": {"prev":{"total":2462,"byRarity":{"1":0,"2":0,"3":2257,"4":157,"5":48,"6":0,"7":0}},"label":"Choso #6 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "32807": {"prev":{"total":2075,"byRarity":{"1":0,"2":0,"3":1908,"4":126,"5":41,"6":0,"7":0}},"label":"Choso #7 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "37823": {"prev":{"total":938,"byRarity":{"1":0,"2":0,"3":880,"4":45,"5":13,"6":0,"7":0}},"label":"Kamiina Botan #1 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
@@ -259,6 +259,6 @@
     "34622": {"prev":{"total":1484,"byRarity":{"1":0,"2":0,"3":1380,"4":79,"5":25,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":195,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":195}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
     "40410": {"prev":{"total":15952,"byRarity":{"1":0,"2":0,"3":15232,"4":557,"5":163,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
-    "40406": {"prev":{"total":15905,"byRarity":{"1":0,"2":0,"3":15151,"4":582,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
+    "40406": {"prev":{"total":15906,"byRarity":{"1":0,"2":0,"3":15152,"4":582,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
   }
 }
