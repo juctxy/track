@@ -164,7 +164,7 @@
     "28496": {"prev":{"total":2613,"byRarity":{"1":0,"2":0,"3":2365,"4":191,"5":57,"6":0,"7":0}},"label":"Park Minseong #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Park Minseong","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25558": {"prev":{"total":3369,"byRarity":{"1":0,"2":0,"3":3067,"4":229,"5":73,"6":0,"7":0}},"label":"Agent Choi #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Agent Choi","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25557": {"prev":{"total":3447,"byRarity":{"1":0,"2":0,"3":3149,"4":226,"5":72,"6":0,"7":0}},"label":"Go Yeongeun #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Go Yeongeun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "25556": {"prev":{"total":3367,"byRarity":{"1":0,"2":0,"3":3072,"4":206,"5":89,"6":0,"7":0}},"label":"Park Minseong #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Park Minseong","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "25556": {"prev":{"total":3368,"byRarity":{"1":0,"2":0,"3":3073,"4":206,"5":89,"6":0,"7":0}},"label":"Park Minseong #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Park Minseong","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25555": {"prev":{"total":3296,"byRarity":{"1":0,"2":0,"3":2982,"4":230,"5":84,"6":0,"7":0}},"label":"Eun Haje #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Eun Haje","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "37287": {"prev":{"total":870,"byRarity":{"1":0,"2":0,"3":812,"4":47,"5":11,"6":0,"7":0}},"label":"Jeonghan #3 — SEVENTEEN","character":"Jeonghan","series":"SEVENTEEN"},
     "37282": {"prev":{"total":886,"byRarity":{"1":0,"2":0,"3":818,"4":46,"5":22,"6":0,"7":0}},"label":"Jeonghan #2 — SEVENTEEN","character":"Jeonghan","series":"SEVENTEEN"},
@@ -172,7 +172,7 @@
     "37309": {"prev":{"total":869,"byRarity":{"1":0,"2":0,"3":802,"4":53,"5":14,"6":0,"7":0}},"label":"Rui #1 — XLOV","character":"Rui","series":"XLOV"},
     "37323": {"prev":{"total":812,"byRarity":{"1":0,"2":0,"3":755,"4":40,"5":17,"6":0,"7":0}},"label":"Rui #4 — XLOV","character":"Rui","series":"XLOV"},
     "37775": {"prev":{"total":817,"byRarity":{"1":0,"2":0,"3":769,"4":37,"5":11,"6":0,"7":0}},"label":"Taehyun #2 — TOMORROW X TOGETHER","character":"Taehyun","series":"TOMORROW X TOGETHER"},
-    "37770": {"prev":{"total":906,"byRarity":{"1":0,"2":0,"3":866,"4":31,"5":9,"6":0,"7":0}},"label":"Taehyun #1 — TOMORROW X TOGETHER","character":"Taehyun","series":"TOMORROW X TOGETHER"},
+    "37770": {"prev":{"total":907,"byRarity":{"1":0,"2":0,"3":867,"4":31,"5":9,"6":0,"7":0}},"label":"Taehyun #1 — TOMORROW X TOGETHER","character":"Taehyun","series":"TOMORROW X TOGETHER"},
     "36854": {"prev":{"total":1059,"byRarity":{"1":0,"2":0,"3":974,"4":64,"5":21,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38817": {"prev":{"total":654,"byRarity":{"1":0,"2":0,"3":612,"4":29,"5":13,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "39099": {"prev":{"total":650,"byRarity":{"1":0,"2":0,"3":604,"4":38,"5":8,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
@@ -258,7 +258,7 @@
     "34943": {"prev":{"total":1347,"byRarity":{"1":0,"2":0,"3":1229,"4":85,"5":33,"6":0,"7":0}},"label":"Chinoi Momone #3 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34622": {"prev":{"total":1485,"byRarity":{"1":0,"2":0,"3":1381,"4":79,"5":25,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":196,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":196}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
-    "40410": {"prev":{"total":16007,"byRarity":{"1":0,"2":0,"3":15286,"4":557,"5":164,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
+    "40410": {"prev":{"total":16008,"byRarity":{"1":0,"2":0,"3":15287,"4":557,"5":164,"6":0,"7":0}},"label":"Cyrene #14 — Honkai: Star Rail","character":"Cyrene","series":"Honkai: Star Rail"},
     "40406": {"prev":{"total":15943,"byRarity":{"1":0,"2":0,"3":15188,"4":583,"5":172,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"}
   }
 }
