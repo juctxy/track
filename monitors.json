@@ -230,7 +230,7 @@
     "37826": {"prev":{"total":1004,"byRarity":{"1":0,"2":0,"3":925,"4":59,"5":20,"6":0,"7":0}},"label":"Kamiina Botan #4 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "27332": {"prev":{"total":3235,"byRarity":{"1":0,"2":0,"3":2992,"4":177,"5":66,"6":0,"7":0}},"label":"Columbina #2 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "27333": {"prev":{"total":3372,"byRarity":{"1":0,"2":0,"3":3096,"4":200,"5":76,"6":0,"7":0}},"label":"Columbina #3 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
-    "29704": {"prev":{"total":2532,"byRarity":{"1":0,"2":0,"3":2325,"4":149,"5":58,"6":0,"7":0}},"label":"Columbina #5 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
+    "29704": {"prev":{"total":2533,"byRarity":{"1":0,"2":0,"3":2326,"4":149,"5":58,"6":0,"7":0}},"label":"Columbina #5 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "29705": {"prev":{"total":2517,"byRarity":{"1":0,"2":0,"3":2333,"4":144,"5":40,"6":0,"7":0}},"label":"Columbina #6 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "29706": {"prev":{"total":2558,"byRarity":{"1":0,"2":0,"3":2333,"4":159,"5":66,"6":0,"7":0}},"label":"Columbina #7 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "29707": {"prev":{"total":2541,"byRarity":{"1":0,"2":0,"3":2333,"4":153,"5":55,"6":0,"7":0}},"label":"Columbina #8 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
@@ -242,7 +242,7 @@
     "37280": {"prev":{"total":824,"byRarity":{"1":0,"2":0,"3":772,"4":45,"5":7,"6":0,"7":0}},"label":"Bang Chan #2 — Stray Kids","character":"Bang Chan","series":"Stray Kids"},
     "16012": {"prev":{"total":4152,"byRarity":{"1":0,"2":0,"3":3747,"4":309,"5":96,"6":0,"7":0}},"label":"Lucy #1 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
     "16013": {"prev":{"total":4111,"byRarity":{"1":0,"2":0,"3":3698,"4":299,"5":114,"6":0,"7":0}},"label":"Lucy #2 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
-    "16014": {"prev":{"total":4013,"byRarity":{"1":0,"2":0,"3":3652,"4":260,"5":101,"6":0,"7":0}},"label":"Lucy #3 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
+    "16014": {"prev":{"total":4014,"byRarity":{"1":0,"2":0,"3":3653,"4":260,"5":101,"6":0,"7":0}},"label":"Lucy #3 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
     "16015": {"prev":{"total":4021,"byRarity":{"1":0,"2":0,"3":3635,"4":291,"5":95,"6":0,"7":0}},"label":"Lucy #4 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
     "38508": {"prev":{"total":801,"byRarity":{"1":0,"2":0,"3":742,"4":47,"5":12,"6":0,"7":0}},"label":"Sandrone #1 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"},
     "38509": {"prev":{"total":834,"byRarity":{"1":0,"2":0,"3":768,"4":52,"5":14,"6":0,"7":0}},"label":"Sandrone #2 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"},
@@ -265,10 +265,10 @@
     "40574": {"prev":{"total":206,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":206}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
     "40406": {"prev":{"total":16570,"byRarity":{"1":0,"2":0,"3":15787,"4":604,"5":179,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"},
     "40059": {"prev":{"total":16420,"byRarity":{"1":0,"2":0,"3":15647,"4":585,"5":188,"6":0,"7":0}},"label":"Qifrey #7 — Witch Hat Atelier","character":"Qifrey","series":"Witch Hat Atelier"},
-    "40003": {"prev":{"total":16113,"byRarity":{"1":0,"2":0,"3":15338,"4":602,"5":173,"6":0,"7":0}},"label":"Frieren #31 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
+    "40003": {"prev":{"total":16115,"byRarity":{"1":0,"2":0,"3":15340,"4":602,"5":173,"6":0,"7":0}},"label":"Frieren #31 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
     "40510": {"prev":{"total":230,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":230}},"label":"Frieren #32 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
-    "40356": {"prev":{"total":16326,"byRarity":{"1":0,"2":0,"3":15577,"4":569,"5":180,"6":0,"7":0}},"label":"Yoo Joonghyuk #20 — Omniscient Reader's Viewpoint","character":"Yoo Joonghyuk","series":"Omniscient Reader's Viewpoint"},
+    "40356": {"prev":{"total":16327,"byRarity":{"1":0,"2":0,"3":15578,"4":569,"5":180,"6":0,"7":0}},"label":"Yoo Joonghyuk #20 — Omniscient Reader's Viewpoint","character":"Yoo Joonghyuk","series":"Omniscient Reader's Viewpoint"},
     "40355": {"prev":{"total":16369,"byRarity":{"1":0,"2":0,"3":15596,"4":593,"5":180,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
-    "40431": {"prev":{"total":16429,"byRarity":{"1":0,"2":0,"3":15707,"4":555,"5":167,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"}
+    "40431": {"prev":{"total":16430,"byRarity":{"1":0,"2":0,"3":15708,"4":555,"5":167,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"}
   }
 }
