@@ -224,7 +224,7 @@
     "31555": {"prev":{"total":2528,"byRarity":{"1":0,"2":0,"3":2347,"4":143,"5":38,"6":0,"7":0}},"label":"Choso #5 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "31556": {"prev":{"total":2466,"byRarity":{"1":0,"2":0,"3":2260,"4":157,"5":49,"6":0,"7":0}},"label":"Choso #6 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "32807": {"prev":{"total":2089,"byRarity":{"1":0,"2":0,"3":1919,"4":129,"5":41,"6":0,"7":0}},"label":"Choso #7 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
-    "37823": {"prev":{"total":953,"byRarity":{"1":0,"2":0,"3":893,"4":47,"5":13,"6":0,"7":0}},"label":"Kamiina Botan #1 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
+    "37823": {"prev":{"total":954,"byRarity":{"1":0,"2":0,"3":894,"4":47,"5":13,"6":0,"7":0}},"label":"Kamiina Botan #1 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "37824": {"prev":{"total":923,"byRarity":{"1":0,"2":0,"3":854,"4":52,"5":17,"6":0,"7":0}},"label":"Kamiina Botan #2 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "37825": {"prev":{"total":941,"byRarity":{"1":0,"2":0,"3":856,"4":52,"5":33,"6":0,"7":0}},"label":"Kamiina Botan #3 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "37826": {"prev":{"total":1004,"byRarity":{"1":0,"2":0,"3":925,"4":59,"5":20,"6":0,"7":0}},"label":"Kamiina Botan #4 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
@@ -264,11 +264,11 @@
     "34622": {"prev":{"total":1503,"byRarity":{"1":0,"2":0,"3":1399,"4":79,"5":25,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":206,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":206}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
     "40406": {"prev":{"total":16573,"byRarity":{"1":0,"2":0,"3":15790,"4":604,"5":179,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"},
-    "40059": {"prev":{"total":16422,"byRarity":{"1":0,"2":0,"3":15649,"4":585,"5":188,"6":0,"7":0}},"label":"Qifrey #7 — Witch Hat Atelier","character":"Qifrey","series":"Witch Hat Atelier"},
-    "40003": {"prev":{"total":16117,"byRarity":{"1":0,"2":0,"3":15342,"4":602,"5":173,"6":0,"7":0}},"label":"Frieren #31 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
+    "40059": {"prev":{"total":16423,"byRarity":{"1":0,"2":0,"3":15650,"4":585,"5":188,"6":0,"7":0}},"label":"Qifrey #7 — Witch Hat Atelier","character":"Qifrey","series":"Witch Hat Atelier"},
+    "40003": {"prev":{"total":16118,"byRarity":{"1":0,"2":0,"3":15343,"4":602,"5":173,"6":0,"7":0}},"label":"Frieren #31 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
     "40510": {"prev":{"total":230,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":230}},"label":"Frieren #32 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
     "40356": {"prev":{"total":16329,"byRarity":{"1":0,"2":0,"3":15580,"4":569,"5":180,"6":0,"7":0}},"label":"Yoo Joonghyuk #20 — Omniscient Reader's Viewpoint","character":"Yoo Joonghyuk","series":"Omniscient Reader's Viewpoint"},
-    "40355": {"prev":{"total":16373,"byRarity":{"1":0,"2":0,"3":15598,"4":595,"5":180,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
-    "40431": {"prev":{"total":16433,"byRarity":{"1":0,"2":0,"3":15711,"4":555,"5":167,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"}
+    "40355": {"prev":{"total":16376,"byRarity":{"1":0,"2":0,"3":15601,"4":595,"5":180,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
+    "40431": {"prev":{"total":16434,"byRarity":{"1":0,"2":0,"3":15712,"4":555,"5":167,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"}
   }
 }
