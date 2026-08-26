@@ -221,7 +221,7 @@
     "801": {"prev":{"total":5404,"byRarity":{"1":0,"2":0,"3":4951,"4":358,"5":95,"6":0,"7":0}},"label":"Choso #1 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "802": {"prev":{"total":5348,"byRarity":{"1":0,"2":0,"3":4902,"4":339,"5":107,"6":0,"7":0}},"label":"Choso #2 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "31554": {"prev":{"total":2412,"byRarity":{"1":0,"2":0,"3":2227,"4":134,"5":51,"6":0,"7":0}},"label":"Choso #4 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
-    "31555": {"prev":{"total":2527,"byRarity":{"1":0,"2":0,"3":2346,"4":143,"5":38,"6":0,"7":0}},"label":"Choso #5 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
+    "31555": {"prev":{"total":2528,"byRarity":{"1":0,"2":0,"3":2347,"4":143,"5":38,"6":0,"7":0}},"label":"Choso #5 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "31556": {"prev":{"total":2466,"byRarity":{"1":0,"2":0,"3":2260,"4":157,"5":49,"6":0,"7":0}},"label":"Choso #6 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "32807": {"prev":{"total":2089,"byRarity":{"1":0,"2":0,"3":1919,"4":129,"5":41,"6":0,"7":0}},"label":"Choso #7 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "37823": {"prev":{"total":953,"byRarity":{"1":0,"2":0,"3":893,"4":47,"5":13,"6":0,"7":0}},"label":"Kamiina Botan #1 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
@@ -251,7 +251,7 @@
     "37848": {"prev":{"total":969,"byRarity":{"1":0,"2":0,"3":881,"4":68,"5":20,"6":0,"7":0}},"label":"Emu Otori #19 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
     "21143": {"prev":{"total":3636,"byRarity":{"1":0,"2":0,"3":3301,"4":240,"5":95,"6":0,"7":0}},"label":"Shion Tatsunami #1 — Saihate Station","character":"Shion Tatsunami","series":"Saihate Station"},
     "21144": {"prev":{"total":3578,"byRarity":{"1":0,"2":0,"3":3256,"4":251,"5":71,"6":0,"7":0}},"label":"Shion Tatsunami #2 — Saihate Station","character":"Shion Tatsunami","series":"Saihate Station"},
-    "21145": {"prev":{"total":3649,"byRarity":{"1":0,"2":0,"3":3292,"4":274,"5":83,"6":0,"7":0}},"label":"Shion Tatsunami #3 — Saihate Station","character":"Shion Tatsunami","series":"Saihate Station"},
+    "21145": {"prev":{"total":3648,"byRarity":{"1":0,"2":0,"3":3291,"4":274,"5":83,"6":0,"7":0}},"label":"Shion Tatsunami #3 — Saihate Station","character":"Shion Tatsunami","series":"Saihate Station"},
     "21139": {"prev":{"total":3545,"byRarity":{"1":0,"2":0,"3":3244,"4":229,"5":72,"6":0,"7":0}},"label":"Haru Akinashi #1 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
     "21140": {"prev":{"total":3617,"byRarity":{"1":0,"2":0,"3":3280,"4":265,"5":72,"6":0,"7":0}},"label":"Haru Akinashi #2 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
     "21141": {"prev":{"total":3495,"byRarity":{"1":0,"2":0,"3":3185,"4":238,"5":72,"6":0,"7":0}},"label":"Haru Akinashi #3 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
@@ -263,12 +263,12 @@
     "34943": {"prev":{"total":1362,"byRarity":{"1":0,"2":0,"3":1244,"4":85,"5":33,"6":0,"7":0}},"label":"Chinoi Momone #3 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34622": {"prev":{"total":1503,"byRarity":{"1":0,"2":0,"3":1399,"4":79,"5":25,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":206,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":206}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
-    "40406": {"prev":{"total":16570,"byRarity":{"1":0,"2":0,"3":15787,"4":604,"5":179,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"},
+    "40406": {"prev":{"total":16571,"byRarity":{"1":0,"2":0,"3":15788,"4":604,"5":179,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"},
     "40059": {"prev":{"total":16420,"byRarity":{"1":0,"2":0,"3":15647,"4":585,"5":188,"6":0,"7":0}},"label":"Qifrey #7 — Witch Hat Atelier","character":"Qifrey","series":"Witch Hat Atelier"},
     "40003": {"prev":{"total":16115,"byRarity":{"1":0,"2":0,"3":15340,"4":602,"5":173,"6":0,"7":0}},"label":"Frieren #31 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
     "40510": {"prev":{"total":230,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":230}},"label":"Frieren #32 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
     "40356": {"prev":{"total":16327,"byRarity":{"1":0,"2":0,"3":15578,"4":569,"5":180,"6":0,"7":0}},"label":"Yoo Joonghyuk #20 — Omniscient Reader's Viewpoint","character":"Yoo Joonghyuk","series":"Omniscient Reader's Viewpoint"},
     "40355": {"prev":{"total":16369,"byRarity":{"1":0,"2":0,"3":15596,"4":593,"5":180,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
-    "40431": {"prev":{"total":16430,"byRarity":{"1":0,"2":0,"3":15708,"4":555,"5":167,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"}
+    "40431": {"prev":{"total":16429,"byRarity":{"1":0,"2":0,"3":15707,"4":555,"5":167,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"}
   }
 }
