@@ -168,7 +168,7 @@
     "28495": {"prev":{"total":2595,"byRarity":{"1":0,"2":0,"3":2355,"4":181,"5":59,"6":0,"7":0}},"label":"Eun Haje #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Eun Haje","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "28496": {"prev":{"total":2633,"byRarity":{"1":0,"2":0,"3":2383,"4":193,"5":57,"6":0,"7":0}},"label":"Park Minseong #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Park Minseong","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25558": {"prev":{"total":3387,"byRarity":{"1":0,"2":0,"3":3082,"4":232,"5":73,"6":0,"7":0}},"label":"Agent Choi #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Agent Choi","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "25557": {"prev":{"total":3468,"byRarity":{"1":0,"2":0,"3":3169,"4":227,"5":72,"6":0,"7":0}},"label":"Go Yeongeun #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Go Yeongeun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "25557": {"prev":{"total":3469,"byRarity":{"1":0,"2":0,"3":3170,"4":227,"5":72,"6":0,"7":0}},"label":"Go Yeongeun #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Go Yeongeun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25556": {"prev":{"total":3373,"byRarity":{"1":0,"2":0,"3":3077,"4":207,"5":89,"6":0,"7":0}},"label":"Park Minseong #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Park Minseong","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25555": {"prev":{"total":3310,"byRarity":{"1":0,"2":0,"3":2995,"4":231,"5":84,"6":0,"7":0}},"label":"Eun Haje #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Eun Haje","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "37287": {"prev":{"total":882,"byRarity":{"1":0,"2":0,"3":823,"4":47,"5":12,"6":0,"7":0}},"label":"Jeonghan #3 — SEVENTEEN","character":"Jeonghan","series":"SEVENTEEN"},
@@ -252,7 +252,7 @@
     "21143": {"prev":{"total":3639,"byRarity":{"1":0,"2":0,"3":3304,"4":240,"5":95,"6":0,"7":0}},"label":"Shion Tatsunami #1 — Saihate Station","character":"Shion Tatsunami","series":"Saihate Station"},
     "21144": {"prev":{"total":3579,"byRarity":{"1":0,"2":0,"3":3257,"4":251,"5":71,"6":0,"7":0}},"label":"Shion Tatsunami #2 — Saihate Station","character":"Shion Tatsunami","series":"Saihate Station"},
     "21145": {"prev":{"total":3653,"byRarity":{"1":0,"2":0,"3":3296,"4":274,"5":83,"6":0,"7":0}},"label":"Shion Tatsunami #3 — Saihate Station","character":"Shion Tatsunami","series":"Saihate Station"},
-    "21139": {"prev":{"total":3555,"byRarity":{"1":0,"2":0,"3":3254,"4":229,"5":72,"6":0,"7":0}},"label":"Haru Akinashi #1 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
+    "21139": {"prev":{"total":3556,"byRarity":{"1":0,"2":0,"3":3255,"4":229,"5":72,"6":0,"7":0}},"label":"Haru Akinashi #1 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
     "21140": {"prev":{"total":3617,"byRarity":{"1":0,"2":0,"3":3280,"4":265,"5":72,"6":0,"7":0}},"label":"Haru Akinashi #2 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
     "21141": {"prev":{"total":3501,"byRarity":{"1":0,"2":0,"3":3191,"4":238,"5":72,"6":0,"7":0}},"label":"Haru Akinashi #3 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
     "21142": {"prev":{"total":3647,"byRarity":{"1":0,"2":0,"3":3294,"4":261,"5":92,"6":0,"7":0}},"label":"Haru Akinashi #4 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
@@ -269,6 +269,6 @@
     "40510": {"prev":{"total":234,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":234}},"label":"Frieren #32 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
     "40356": {"prev":{"total":16630,"byRarity":{"1":0,"2":0,"3":15860,"4":588,"5":182,"6":0,"7":0}},"label":"Yoo Joonghyuk #20 — Omniscient Reader's Viewpoint","character":"Yoo Joonghyuk","series":"Omniscient Reader's Viewpoint"},
     "40355": {"prev":{"total":16678,"byRarity":{"1":0,"2":0,"3":15887,"4":602,"5":189,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
-    "40431": {"prev":{"total":16716,"byRarity":{"1":0,"2":0,"3":15982,"4":564,"5":170,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"}
+    "40431": {"prev":{"total":16717,"byRarity":{"1":0,"2":0,"3":15983,"4":564,"5":170,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"}
   }
 }
