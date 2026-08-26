@@ -145,7 +145,7 @@
     "25553": {"prev":{"total":3321,"byRarity":{"1":0,"2":0,"3":3023,"4":226,"5":72,"6":0,"7":0}},"label":"Kim Soleum #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36521": {"prev":{"total":1173,"byRarity":{"1":0,"2":0,"3":1085,"4":65,"5":23,"6":0,"7":0}},"label":"Kim Soleum #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36901": {"prev":{"total":1027,"byRarity":{"1":0,"2":0,"3":957,"4":58,"5":12,"6":0,"7":0}},"label":"Baek Saheon #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "36900": {"prev":{"total":1065,"byRarity":{"1":0,"2":0,"3":978,"4":66,"5":21,"6":0,"7":0}},"label":"Baek Saheon #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "36900": {"prev":{"total":1066,"byRarity":{"1":0,"2":0,"3":979,"4":66,"5":21,"6":0,"7":0}},"label":"Baek Saheon #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36899": {"prev":{"total":1051,"byRarity":{"1":0,"2":0,"3":976,"4":51,"5":24,"6":0,"7":0}},"label":"Baek Saheon #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "28525": {"prev":{"total":2537,"byRarity":{"1":0,"2":0,"3":2301,"4":172,"5":64,"6":0,"7":0}},"label":"Baek Saheon #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "33903": {"prev":{"total":1595,"byRarity":{"1":0,"2":0,"3":1456,"4":101,"5":38,"6":0,"7":0}},"label":"Ahn Pyeong-hwa #4 — Master-Peace","character":"Ahn Pyeong-hwa","series":"Master-Peace"},
@@ -182,10 +182,10 @@
     "38817": {"prev":{"total":661,"byRarity":{"1":0,"2":0,"3":617,"4":31,"5":13,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "39099": {"prev":{"total":660,"byRarity":{"1":0,"2":0,"3":611,"4":41,"5":8,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38797": {"prev":{"total":705,"byRarity":{"1":0,"2":0,"3":663,"4":34,"5":8,"6":0,"7":0}},"label":"J3 #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"J3","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "38529": {"prev":{"total":770,"byRarity":{"1":0,"2":0,"3":708,"4":50,"5":12,"6":0,"7":0}},"label":"Kim Soleum #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "38529": {"prev":{"total":769,"byRarity":{"1":0,"2":0,"3":707,"4":50,"5":12,"6":0,"7":0}},"label":"Kim Soleum #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "39152": {"prev":{"total":669,"byRarity":{"1":0,"2":0,"3":616,"4":39,"5":14,"6":0,"7":0}},"label":"Baek Saheon #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "12774": {"prev":{"total":4272,"byRarity":{"1":0,"2":0,"3":3877,"4":300,"5":95,"6":0,"7":0}},"label":"Emma #1 — Veil","character":"Emma","series":"Veil"},
-    "12775": {"prev":{"total":4096,"byRarity":{"1":0,"2":0,"3":3705,"4":300,"5":91,"6":0,"7":0}},"label":"Emma #2 — Veil","character":"Emma","series":"Veil"},
+    "12775": {"prev":{"total":4095,"byRarity":{"1":0,"2":0,"3":3704,"4":300,"5":91,"6":0,"7":0}},"label":"Emma #2 — Veil","character":"Emma","series":"Veil"},
     "12776": {"prev":{"total":4180,"byRarity":{"1":0,"2":0,"3":3765,"4":311,"5":104,"6":0,"7":0}},"label":"Emma #3 — Veil","character":"Emma","series":"Veil"},
     "31298": {"prev":{"total":2217,"byRarity":{"1":0,"2":0,"3":2049,"4":134,"5":34,"6":0,"7":0}},"label":"Emma #4 — Veil","character":"Emma","series":"Veil"},
     "33060": {"prev":{"total":1930,"byRarity":{"1":0,"2":0,"3":1773,"4":121,"5":36,"6":0,"7":0}},"label":"Emma #5 — Veil","character":"Emma","series":"Veil"},
@@ -264,11 +264,11 @@
     "34622": {"prev":{"total":1503,"byRarity":{"1":0,"2":0,"3":1399,"4":79,"5":25,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":206,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":206}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
     "40406": {"prev":{"total":16584,"byRarity":{"1":0,"2":0,"3":15801,"4":604,"5":179,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"},
-    "40059": {"prev":{"total":16435,"byRarity":{"1":0,"2":0,"3":15662,"4":585,"5":188,"6":0,"7":0}},"label":"Qifrey #7 — Witch Hat Atelier","character":"Qifrey","series":"Witch Hat Atelier"},
-    "40003": {"prev":{"total":16132,"byRarity":{"1":0,"2":0,"3":15355,"4":603,"5":174,"6":0,"7":0}},"label":"Frieren #31 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
+    "40059": {"prev":{"total":16437,"byRarity":{"1":0,"2":0,"3":15663,"4":586,"5":188,"6":0,"7":0}},"label":"Qifrey #7 — Witch Hat Atelier","character":"Qifrey","series":"Witch Hat Atelier"},
+    "40003": {"prev":{"total":16133,"byRarity":{"1":0,"2":0,"3":15356,"4":603,"5":174,"6":0,"7":0}},"label":"Frieren #31 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
     "40510": {"prev":{"total":231,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":231}},"label":"Frieren #32 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
-    "40356": {"prev":{"total":16340,"byRarity":{"1":0,"2":0,"3":15591,"4":569,"5":180,"6":0,"7":0}},"label":"Yoo Joonghyuk #20 — Omniscient Reader's Viewpoint","character":"Yoo Joonghyuk","series":"Omniscient Reader's Viewpoint"},
+    "40356": {"prev":{"total":16342,"byRarity":{"1":0,"2":0,"3":15593,"4":569,"5":180,"6":0,"7":0}},"label":"Yoo Joonghyuk #20 — Omniscient Reader's Viewpoint","character":"Yoo Joonghyuk","series":"Omniscient Reader's Viewpoint"},
     "40355": {"prev":{"total":16386,"byRarity":{"1":0,"2":0,"3":15611,"4":595,"5":180,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
-    "40431": {"prev":{"total":16441,"byRarity":{"1":0,"2":0,"3":15719,"4":555,"5":167,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"}
+    "40431": {"prev":{"total":16442,"byRarity":{"1":0,"2":0,"3":15720,"4":555,"5":167,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"}
   }
 }
