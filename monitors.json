@@ -157,7 +157,7 @@
     "33898": {"prev":{"total":1701,"byRarity":{"1":0,"2":0,"3":1570,"4":103,"5":28,"6":0,"7":0}},"label":"Ju Incheol #2 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
     "33616": {"prev":{"total":1761,"byRarity":{"1":0,"2":0,"3":1611,"4":109,"5":41,"6":0,"7":0}},"label":"Ju Incheol #1 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
     "36531": {"prev":{"total":1119,"byRarity":{"1":0,"2":0,"3":1038,"4":59,"5":22,"6":0,"7":0}},"label":"Braun #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "36412": {"prev":{"total":1197,"byRarity":{"1":0,"2":0,"3":1109,"4":64,"5":24,"6":0,"7":0}},"label":"Lee Jaheon #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Lee Jaheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "36412": {"prev":{"total":1199,"byRarity":{"1":0,"2":0,"3":1111,"4":64,"5":24,"6":0,"7":0}},"label":"Lee Jaheon #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Lee Jaheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "31025": {"prev":{"total":2288,"byRarity":{"1":0,"2":0,"3":2082,"4":145,"5":61,"6":0,"7":0}},"label":"Lee Seonghae #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Lee Seonghae","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "31024": {"prev":{"total":2172,"byRarity":{"1":0,"2":0,"3":1985,"4":137,"5":50,"6":0,"7":0}},"label":"Jin Nasol #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Jin Nasol","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "28524": {"prev":{"total":2630,"byRarity":{"1":0,"2":0,"3":2417,"4":164,"5":49,"6":0,"7":0}},"label":"Lee Jaheon #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Lee Jaheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
@@ -198,7 +198,7 @@
     "27208": {"prev":{"total":2941,"byRarity":{"1":0,"2":0,"3":2671,"4":202,"5":68,"6":0,"7":0}},"label":"Klein Moretti #9 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "27250": {"prev":{"total":2888,"byRarity":{"1":0,"2":0,"3":2640,"4":186,"5":62,"6":0,"7":0}},"label":"Klein Moretti #10 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "27251": {"prev":{"total":2955,"byRarity":{"1":0,"2":0,"3":2701,"4":185,"5":69,"6":0,"7":0}},"label":"Klein Moretti #11 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
-    "29374": {"prev":{"total":2345,"byRarity":{"1":0,"2":0,"3":2157,"4":145,"5":43,"6":0,"7":0}},"label":"Klein Moretti #13 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
+    "29374": {"prev":{"total":2346,"byRarity":{"1":0,"2":0,"3":2158,"4":145,"5":43,"6":0,"7":0}},"label":"Klein Moretti #13 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "29375": {"prev":{"total":2320,"byRarity":{"1":0,"2":0,"3":2126,"4":141,"5":53,"6":0,"7":0}},"label":"Klein Moretti #14 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "29531": {"prev":{"total":2290,"byRarity":{"1":0,"2":0,"3":2071,"4":158,"5":61,"6":0,"7":0}},"label":"Klein Moretti #15 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "29536": {"prev":{"total":2280,"byRarity":{"1":0,"2":0,"3":2112,"4":124,"5":44,"6":0,"7":0}},"label":"Klein Moretti #16 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
@@ -213,7 +213,7 @@
     "2928": {"prev":{"total":5232,"byRarity":{"1":0,"2":0,"3":4784,"4":347,"5":101,"6":0,"7":0}},"label":"Childe #2 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "2929": {"prev":{"total":5346,"byRarity":{"1":0,"2":0,"3":4948,"4":312,"5":86,"6":0,"7":0}},"label":"Childe #3 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "2930": {"prev":{"total":5207,"byRarity":{"1":0,"2":0,"3":4783,"4":341,"5":83,"6":0,"7":0}},"label":"Childe #4 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
-    "5729": {"prev":{"total":5180,"byRarity":{"1":0,"2":0,"3":4760,"4":326,"5":94,"6":0,"7":0}},"label":"Childe #5 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
+    "5729": {"prev":{"total":5181,"byRarity":{"1":0,"2":0,"3":4761,"4":326,"5":94,"6":0,"7":0}},"label":"Childe #5 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "5730": {"prev":{"total":5143,"byRarity":{"1":0,"2":0,"3":4690,"4":353,"5":100,"6":0,"7":0}},"label":"Childe #6 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "20563": {"prev":{"total":4172,"byRarity":{"1":0,"2":0,"3":3839,"4":256,"5":77,"6":0,"7":0}},"label":"Childe #7 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "28405": {"prev":{"total":2963,"byRarity":{"1":0,"2":0,"3":2745,"4":171,"5":47,"6":0,"7":0}},"label":"Childe #10 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
@@ -264,11 +264,11 @@
     "34622": {"prev":{"total":1509,"byRarity":{"1":0,"2":0,"3":1406,"4":78,"5":25,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":212,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":212}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
     "40406": {"prev":{"total":16849,"byRarity":{"1":0,"2":0,"3":16058,"4":610,"5":181,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"},
-    "40059": {"prev":{"total":16726,"byRarity":{"1":0,"2":0,"3":15941,"4":594,"5":191,"6":0,"7":0}},"label":"Qifrey #7 — Witch Hat Atelier","character":"Qifrey","series":"Witch Hat Atelier"},
-    "40003": {"prev":{"total":16422,"byRarity":{"1":0,"2":0,"3":15621,"4":622,"5":179,"6":0,"7":0}},"label":"Frieren #31 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
+    "40059": {"prev":{"total":16731,"byRarity":{"1":0,"2":0,"3":15946,"4":594,"5":191,"6":0,"7":0}},"label":"Qifrey #7 — Witch Hat Atelier","character":"Qifrey","series":"Witch Hat Atelier"},
+    "40003": {"prev":{"total":16426,"byRarity":{"1":0,"2":0,"3":15624,"4":623,"5":179,"6":0,"7":0}},"label":"Frieren #31 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
     "40510": {"prev":{"total":234,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":234}},"label":"Frieren #32 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
-    "40356": {"prev":{"total":16594,"byRarity":{"1":0,"2":0,"3":15826,"4":586,"5":182,"6":0,"7":0}},"label":"Yoo Joonghyuk #20 — Omniscient Reader's Viewpoint","character":"Yoo Joonghyuk","series":"Omniscient Reader's Viewpoint"},
-    "40355": {"prev":{"total":16656,"byRarity":{"1":0,"2":0,"3":15867,"4":601,"5":188,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
-    "40431": {"prev":{"total":16683,"byRarity":{"1":0,"2":0,"3":15951,"4":562,"5":170,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"}
+    "40356": {"prev":{"total":16597,"byRarity":{"1":0,"2":0,"3":15829,"4":586,"5":182,"6":0,"7":0}},"label":"Yoo Joonghyuk #20 — Omniscient Reader's Viewpoint","character":"Yoo Joonghyuk","series":"Omniscient Reader's Viewpoint"},
+    "40355": {"prev":{"total":16658,"byRarity":{"1":0,"2":0,"3":15868,"4":602,"5":188,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
+    "40431": {"prev":{"total":16685,"byRarity":{"1":0,"2":0,"3":15953,"4":562,"5":170,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"}
   }
 }
