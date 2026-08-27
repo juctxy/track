@@ -191,7 +191,7 @@
     "12775": {"prev":{"total":4111,"byRarity":{"1":0,"2":0,"3":3718,"4":302,"5":91,"6":0,"7":0}},"label":"Emma #2 — Veil","character":"Emma","series":"Veil"},
     "12776": {"prev":{"total":4192,"byRarity":{"1":0,"2":0,"3":3775,"4":313,"5":104,"6":0,"7":0}},"label":"Emma #3 — Veil","character":"Emma","series":"Veil"},
     "31298": {"prev":{"total":2242,"byRarity":{"1":0,"2":0,"3":2072,"4":136,"5":34,"6":0,"7":0}},"label":"Emma #4 — Veil","character":"Emma","series":"Veil"},
-    "33060": {"prev":{"total":1950,"byRarity":{"1":0,"2":0,"3":1789,"4":124,"5":37,"6":0,"7":0}},"label":"Emma #5 — Veil","character":"Emma","series":"Veil"},
+    "33060": {"prev":{"total":1951,"byRarity":{"1":0,"2":0,"3":1790,"4":124,"5":37,"6":0,"7":0}},"label":"Emma #5 — Veil","character":"Emma","series":"Veil"},
     "12158": {"prev":{"total":4200,"byRarity":{"1":0,"2":0,"3":3793,"4":314,"5":93,"6":0,"7":0}},"label":"Klein Moretti #1 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12159": {"prev":{"total":4306,"byRarity":{"1":0,"2":0,"3":3892,"4":321,"5":93,"6":0,"7":0}},"label":"Klein Moretti #2 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12160": {"prev":{"total":4196,"byRarity":{"1":0,"2":0,"3":3777,"4":328,"5":91,"6":0,"7":0}},"label":"Klein Moretti #3 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
@@ -270,11 +270,11 @@
     "40059": {"prev":{"total":17326,"byRarity":{"1":0,"2":0,"3":16510,"4":620,"5":196,"6":0,"7":0}},"label":"Qifrey #7 — Witch Hat Atelier","character":"Qifrey","series":"Witch Hat Atelier"},
     "40003": {"prev":{"total":17065,"byRarity":{"1":0,"2":0,"3":16230,"4":652,"5":183,"6":0,"7":0}},"label":"Frieren #31 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
     "40510": {"prev":{"total":242,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":242}},"label":"Frieren #32 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
-    "40356": {"prev":{"total":17220,"byRarity":{"1":0,"2":0,"3":16418,"4":617,"5":185,"6":0,"7":0}},"label":"Yoo Joonghyuk #20 — Omniscient Reader's Viewpoint","character":"Yoo Joonghyuk","series":"Omniscient Reader's Viewpoint"},
+    "40356": {"prev":{"total":17221,"byRarity":{"1":0,"2":0,"3":16419,"4":617,"5":185,"6":0,"7":0}},"label":"Yoo Joonghyuk #20 — Omniscient Reader's Viewpoint","character":"Yoo Joonghyuk","series":"Omniscient Reader's Viewpoint"},
     "40355": {"prev":{"total":17199,"byRarity":{"1":0,"2":0,"3":16386,"4":621,"5":192,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
     "40431": {"prev":{"total":17374,"byRarity":{"1":0,"2":0,"3":16601,"4":591,"5":182,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"},
     "40393": {"prev":{"total":17559,"byRarity":{"1":0,"2":0,"3":16732,"4":665,"5":162,"6":0,"7":0}},"label":"Hatsune Miku #40 — Vocaloid","character":"Hatsune Miku","series":"Vocaloid"},
     "40502": {"prev":{"total":232,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":232}},"label":"Phainon #13 — Honkai: Star Rail","character":"Phainon","series":"Honkai: Star Rail"},
-    "40480": {"prev":{"total":17489,"byRarity":{"1":0,"2":0,"3":16720,"4":599,"5":170,"6":0,"7":0}},"label":"Kaveh #8 — Genshin Impact","character":"Kaveh","series":"Genshin Impact"}
+    "40480": {"prev":{"total":17488,"byRarity":{"1":0,"2":0,"3":16719,"4":599,"5":170,"6":0,"7":0}},"label":"Kaveh #8 — Genshin Impact","character":"Kaveh","series":"Genshin Impact"}
   }
 }
