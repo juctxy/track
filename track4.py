@@ -38,11 +38,13 @@ import discord
 from discord import app_commands
 from dotenv import load_dotenv
 
+load_dotenv()  # reads the .env file in this folder and loads it into os.environ —
+                # MUST run before importing AI, since AI.py reads GEMINI_API_KEY
+                # from the environment the moment it's imported.
+
 from voice import setup_voice_commands  # /join, /leave — defined in their own file
 from say import setup_say_commands      # /say — defined in its own file 
-from AI import handle_ai_message  # AI auto-chat — defined in its own file
-
-load_dotenv()  # reads the .env file in this folder and loads it into os.environ
+from AI import handle_ai_message        # AI auto-chat — defined in its own file
 
 # ── Settings ──────────────────────────────────────────────────────────────────
 
