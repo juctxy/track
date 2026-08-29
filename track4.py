@@ -38,6 +38,7 @@ import discord
 from discord import app_commands
 from dotenv import load_dotenv
 
+from AI import handle_ai_message
 from voice import setup_voice_commands  # /join, /leave — defined in their own file
 from say import setup_say_commands      # /say — defined in its own file 
 
@@ -1075,6 +1076,19 @@ async def on_message(message: discord.Message):
     reply = AUTO_RESPONSES.get(text)
     if reply:
         await message.channel.send(reply)
+
+
+
+@client.event
+async def on_message(message: discord.Message):
+    if message.author.bot:
+        return
+    text = message.content.strip().lower()
+    reply = AUTO_RESPONSES.get(text)
+    if reply:
+        await message.channel.send(reply)
+        return
+    await handle_ai_message(message, client, is_allowed_channel=is_allowed_channel_for_message)
 
 
 @tree.error
