@@ -38,9 +38,9 @@ import discord
 from discord import app_commands
 from dotenv import load_dotenv
 
-from AI import handle_ai_message
 from voice import setup_voice_commands  # /join, /leave — defined in their own file
 from say import setup_say_commands      # /say — defined in its own file 
+from ai_feature import handle_ai_message  # AI auto-chat — defined in its own file
 
 load_dotenv()  # reads the .env file in this folder and loads it into os.environ
 
@@ -1076,18 +1076,8 @@ async def on_message(message: discord.Message):
     reply = AUTO_RESPONSES.get(text)
     if reply:
         await message.channel.send(reply)
+        return  # don't also let the AI chime in on an auto-response hit
 
-
-
-@client.event
-async def on_message(message: discord.Message):
-    if message.author.bot:
-        return
-    text = message.content.strip().lower()
-    reply = AUTO_RESPONSES.get(text)
-    if reply:
-        await message.channel.send(reply)
-        return
     await handle_ai_message(message, client, is_allowed_channel=is_allowed_channel_for_message)
 
 
@@ -1127,6 +1117,20 @@ def is_allowed_channel(interaction: discord.Interaction) -> bool:
     if locked_channel_id is None:
         return True
     return interaction.channel_id == locked_channel_id
+
+
+def is_allowed_channel_for_message(message: discord.Message) -> bool:
+    """Same check as is_allowed_channel(), but for a plain Message instead
+    of a slash-command Interaction — used by the AI chat feature, since
+    on_message doesn't get an Interaction object."""
+    if message.guild is None:
+        return True  # DMs: no guild lock applies
+
+    guild_id = str(message.guild.id)
+    locked_channel_id = guild_channel_locks.get(guild_id)
+    if locked_channel_id is None:
+        return True
+    return message.channel.id == locked_channel_id
 
 
 async def enforce_channel_lock(interaction: discord.Interaction) -> bool:

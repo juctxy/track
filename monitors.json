@@ -230,7 +230,7 @@
     "31556": {"prev":{"total":2477,"byRarity":{"1":0,"2":0,"3":2270,"4":158,"5":49,"6":0,"7":0}},"label":"Choso #6 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "32807": {"prev":{"total":2125,"byRarity":{"1":0,"2":0,"3":1953,"4":130,"5":42,"6":0,"7":0}},"label":"Choso #7 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "37823": {"prev":{"total":1002,"byRarity":{"1":0,"2":0,"3":934,"4":53,"5":15,"6":0,"7":0}},"label":"Kamiina Botan #1 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
-    "37824": {"prev":{"total":960,"byRarity":{"1":0,"2":0,"3":884,"4":57,"5":19,"6":0,"7":0}},"label":"Kamiina Botan #2 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
+    "37824": {"prev":{"total":961,"byRarity":{"1":0,"2":0,"3":885,"4":57,"5":19,"6":0,"7":0}},"label":"Kamiina Botan #2 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "37825": {"prev":{"total":984,"byRarity":{"1":0,"2":0,"3":895,"4":55,"5":34,"6":0,"7":0}},"label":"Kamiina Botan #3 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "37826": {"prev":{"total":1030,"byRarity":{"1":0,"2":0,"3":945,"4":63,"5":22,"6":0,"7":0}},"label":"Kamiina Botan #4 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "27332": {"prev":{"total":3253,"byRarity":{"1":0,"2":0,"3":3010,"4":177,"5":66,"6":0,"7":0}},"label":"Columbina #2 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
@@ -276,7 +276,7 @@
     "40355": {"prev":{"total":18361,"byRarity":{"1":0,"2":0,"3":17500,"4":655,"5":206,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
     "40431": {"prev":{"total":18539,"byRarity":{"1":0,"2":0,"3":17711,"4":635,"5":193,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"},
     "40393": {"prev":{"total":18716,"byRarity":{"1":0,"2":0,"3":17836,"4":700,"5":180,"6":0,"7":0}},"label":"Hatsune Miku #40 — Vocaloid","character":"Hatsune Miku","series":"Vocaloid"},
-    "40502": {"prev":{"total":255,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":255}},"label":"Phainon #13 — Honkai: Star Rail","character":"Phainon","series":"Honkai: Star Rail"},
+    "40502": {"prev":{"total":256,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":256}},"label":"Phainon #13 — Honkai: Star Rail","character":"Phainon","series":"Honkai: Star Rail"},
     "40480": {"prev":{"total":18564,"byRarity":{"1":0,"2":0,"3":17729,"4":652,"5":183,"6":0,"7":0}},"label":"Kaveh #8 — Genshin Impact","character":"Kaveh","series":"Genshin Impact"},
     "40043": {"prev":{"total":18186,"byRarity":{"1":0,"2":0,"3":17375,"4":600,"5":211,"6":0,"7":0}},"label":"Denia #14 — Wuthering Waves","character":"Denia","series":"Wuthering Waves"},
     "40314": {"prev":{"total":18268,"byRarity":{"1":0,"2":0,"3":17466,"4":616,"5":186,"6":0,"7":0}},"label":"Marin Kitagawa #29 — My Dress-Up Darling","character":"Marin Kitagawa","series":"My Dress-Up Darling"}
