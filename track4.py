@@ -1080,7 +1080,10 @@ async def on_message(message: discord.Message):
         await message.channel.send(reply)
         return  # don't also let the AI chime in on an auto-response hit
 
-    await handle_ai_message(message, client, is_allowed_channel=is_allowed_channel_for_message)
+    # No is_allowed_channel here on purpose: /setchannel locks slash
+    # commands like /monitor to one channel, but the AI chat should work
+    # everywhere regardless of that lock.
+    await handle_ai_message(message, client)
 
 
 @tree.error
