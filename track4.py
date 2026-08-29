@@ -40,7 +40,7 @@ from dotenv import load_dotenv
 
 from voice import setup_voice_commands  # /join, /leave — defined in their own file
 from say import setup_say_commands      # /say — defined in its own file 
-from ai_feature import handle_ai_message  # AI auto-chat — defined in its own file
+from AI import handle_ai_message  # AI auto-chat — defined in its own file
 
 load_dotenv()  # reads the .env file in this folder and loads it into os.environ
 
