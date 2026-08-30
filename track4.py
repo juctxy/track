@@ -1832,6 +1832,92 @@ async def cmd_stopall(interaction: discord.Interaction):
 #     while to finish.
 #   • This is irreversible, so it's gated to server administrators only,
 #     same bar as /setchannel.
+#
+# IMPORTANT — why this runs in the background instead of via the interaction:
+# Discord invalidates an interaction's follow-up webhook token 15 minutes
+# after the command was invoked. A server with a lot of history/channels can
+# easily take longer than that to fully sweep (see the 14-day bulk-delete
+# cliff above), so if the purge itself sent its final report through
+# interaction.followup.send(), that send would silently fail once the token
+# expired — the purge would have completed, but you'd never hear about it,
+# and Discord shows "The application did not respond." Instead: acknowledge
+# immediately, run the purge as a detached asyncio task, and report progress
+# + the final result via a plain DM (or a channel message if DMs are closed),
+# neither of which expire.
+
+async def _run_purgeuser(admin: discord.User, guild: discord.Guild, target_id: int, include_threads: bool):
+    def is_target(m: discord.Message) -> bool:
+        return m.author.id == target_id
+
+    async def notify(text: str) -> None:
+        try:
+            await admin.send(text)
+        except discord.Forbidden:
+            # DMs closed — fall back to the channel the bot is locked to, or
+            # just give up quietly rather than crash the background task.
+            channel_id = guild_channel_locks.get(str(guild.id))
+            channel = guild.get_channel(channel_id) if channel_id else None
+            if channel is not None:
+                try:
+                    await channel.send(f"{admin.mention} {text}")
+                except Exception:
+                    pass
+
+    # Gather every place messages could live: all text channels, plus their
+    # active threads, plus their archived threads (archived ones aren't in
+    # the channel's cached .threads list and have to be fetched explicitly).
+    channels: list = list(guild.text_channels)
+    if include_threads:
+        for ch in guild.text_channels:
+            channels.extend(ch.threads)
+            try:
+                async for th in ch.archived_threads(limit=None):
+                    channels.append(th)
+            except discord.Forbidden:
+                pass  # no perms to list archived threads here — purge loop below will just skip it
+
+    total_deleted = 0
+    skipped: list[str] = []
+    errored: list[str] = []
+
+    await notify(
+        f"🧹 Starting purge of user `{target_id}` across {len(channels)} "
+        f"channel(s)/thread(s) in **{guild.name}**. I'll DM you again when it's done — "
+        f"this can take a while if there's a lot of old history."
+    )
+
+    for i, ch in enumerate(channels, start=1):
+        perms = ch.permissions_for(guild.me)
+        if not (perms.manage_messages and perms.read_message_history):
+            skipped.append(getattr(ch, "name", str(ch.id)))
+            continue
+        try:
+            deleted = await ch.purge(limit=None, check=is_target, bulk=True)
+            total_deleted += len(deleted)
+        except discord.Forbidden:
+            skipped.append(getattr(ch, "name", str(ch.id)))
+        except Exception as e:
+            errored.append(f"{getattr(ch, 'name', ch.id)} ({e})")
+
+        # Progress ping every 10 channels so a long run doesn't look stalled —
+        # this is a plain message, not an interaction follow-up, so it has no
+        # 15-minute expiry to worry about.
+        if i % 10 == 0 and i != len(channels):
+            await notify(f"…still going: {i}/{len(channels)} channels checked, {total_deleted} deleted so far.")
+
+    lines = [
+        f"✅ Done. Deleted **{total_deleted}** message(s) from user `{target_id}` "
+        f"across {len(channels)} channel(s)/thread(s) in **{guild.name}**."
+    ]
+    if skipped:
+        shown = ", ".join(skipped[:15]) + (" …" if len(skipped) > 15 else "")
+        lines.append(f"⏭️ Skipped (missing permissions): {shown}")
+    if errored:
+        shown = ", ".join(errored[:10]) + (" …" if len(errored) > 10 else "")
+        lines.append(f"⚠️ Errors: {shown}")
+
+    await notify("\n".join(lines))
+
 
 @tree.command(name="purgeuser", description="(Admin) Delete ALL messages from a specific user ID in this server")
 @app_commands.describe(
@@ -1860,53 +1946,17 @@ async def cmd_purgeuser(interaction: discord.Interaction, user_id: str, include_
         return
 
     target_id = int(user_id)
-    await interaction.response.defer(ephemeral=True, thinking=True)
 
-    def is_target(m: discord.Message) -> bool:
-        return m.author.id == target_id
-
-    # Gather every place messages could live: all text channels, plus their
-    # active threads, plus their archived threads (archived ones aren't in
-    # the channel's cached .threads list and have to be fetched explicitly).
-    channels: list = list(interaction.guild.text_channels)
-    if include_threads:
-        for ch in interaction.guild.text_channels:
-            channels.extend(ch.threads)
-            try:
-                async for th in ch.archived_threads(limit=None):
-                    channels.append(th)
-            except discord.Forbidden:
-                pass  # no perms to list archived threads here — purge loop below will just skip it
-
-    total_deleted = 0
-    skipped: list[str] = []
-    errored: list[str] = []
-
-    for ch in channels:
-        perms = ch.permissions_for(interaction.guild.me)
-        if not (perms.manage_messages and perms.read_message_history):
-            skipped.append(getattr(ch, "name", str(ch.id)))
-            continue
-        try:
-            deleted = await ch.purge(limit=None, check=is_target, bulk=True)
-            total_deleted += len(deleted)
-        except discord.Forbidden:
-            skipped.append(getattr(ch, "name", str(ch.id)))
-        except Exception as e:
-            errored.append(f"{getattr(ch, 'name', ch.id)} ({e})")
-
-    lines = [
-        f"🧹 Deleted **{total_deleted}** message(s) from user `{target_id}` "
-        f"across {len(channels)} channel(s)/thread(s)."
-    ]
-    if skipped:
-        shown = ", ".join(skipped[:15]) + (" …" if len(skipped) > 15 else "")
-        lines.append(f"⏭️ Skipped (missing permissions): {shown}")
-    if errored:
-        shown = ", ".join(errored[:10]) + (" …" if len(errored) > 10 else "")
-        lines.append(f"⚠️ Errors: {shown}")
-
-    await interaction.followup.send("\n".join(lines), ephemeral=True)
+    # Acknowledge fast (well under Discord's 3-second initial-response
+    # window) and hand the actual work to a detached task. The task reports
+    # via DM instead of interaction.followup, so it isn't bound by the
+    # interaction's 15-minute token lifetime — see the block comment above.
+    await interaction.response.send_message(
+        f"🧹 Started purging user `{target_id}`'s messages in the background. "
+        f"I'll DM you progress and the final result.",
+        ephemeral=True,
+    )
+    asyncio.create_task(_run_purgeuser(interaction.user, interaction.guild, target_id, include_threads))
 
 
 # ── /find ─────────────────────────────────────────────────────────────────────
