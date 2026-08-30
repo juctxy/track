@@ -9,6 +9,7 @@ Commands:
   /stopall      — stop tracking ALL your cards at once
   /setchannel   — (admin) lock the bot to the current channel
   /unlock       — (admin) remove the channel restriction
+  /purgeuser    — (admin) delete ALL messages from a given user ID, server-wide
   /join         — join a voice channel and stay (voice_feature.py)
   /leave        — disconnect from voice (voice_feature.py)
   /say          — make the bot send a message (say.py)
@@ -1810,6 +1811,102 @@ async def cmd_stopall(interaction: discord.Interaction):
     await interaction.response.send_message(
         f"🛑 Stopped tracking all **{len(my_cards)}** card(s).", ephemeral=True
     )
+
+
+# ── /purgeuser (admin) ────────────────────────────────────────────────────────
+#
+# Deletes every message from a given Discord user ID across all text channels
+# (and, optionally, threads) in this server. This works fine even if the user
+# has already left — a Discord message carries its author's ID forever, and
+# channel.purge()'s check= callback filters on that ID directly, no live
+# Member object required.
+#
+# Caveats worth knowing:
+#   • Requires the bot to have "Manage Messages" (for bulk delete) and
+#     "Read Message History" in a channel — channels without both are
+#     skipped and listed in the summary instead of silently failing.
+#   • Discord's bulk-delete endpoint only works on messages < 14 days old.
+#     discord.py's purge() automatically falls back to one-at-a-time deletes
+#     for older messages, which is much slower and more rate-limit-bound —
+#     a purge that has to walk back through months of history can take a
+#     while to finish.
+#   • This is irreversible, so it's gated to server administrators only,
+#     same bar as /setchannel.
+
+@tree.command(name="purgeuser", description="(Admin) Delete ALL messages from a specific user ID in this server")
+@app_commands.describe(
+    user_id="The user's numeric Discord ID (right-click their name → Copy User ID). Works even if they left the server.",
+    include_threads="Also search inside threads, not just top-level channels (default: True)",
+)
+async def cmd_purgeuser(interaction: discord.Interaction, user_id: str, include_threads: bool = True):
+    if interaction.guild is None:
+        await interaction.response.send_message(
+            "This command can only be used in a server.", ephemeral=True
+        )
+        return
+
+    if not is_admin(interaction):
+        await interaction.response.send_message(
+            "🚫 Only server administrators can use this command.", ephemeral=True
+        )
+        return
+
+    if not user_id.isdigit():
+        await interaction.response.send_message(
+            "⚠️ `user_id` must be a numeric Discord user ID "
+            "(enable Developer Mode, then right-click the user → Copy User ID).",
+            ephemeral=True,
+        )
+        return
+
+    target_id = int(user_id)
+    await interaction.response.defer(ephemeral=True, thinking=True)
+
+    def is_target(m: discord.Message) -> bool:
+        return m.author.id == target_id
+
+    # Gather every place messages could live: all text channels, plus their
+    # active threads, plus their archived threads (archived ones aren't in
+    # the channel's cached .threads list and have to be fetched explicitly).
+    channels: list = list(interaction.guild.text_channels)
+    if include_threads:
+        for ch in interaction.guild.text_channels:
+            channels.extend(ch.threads)
+            try:
+                async for th in ch.archived_threads(limit=None):
+                    channels.append(th)
+            except discord.Forbidden:
+                pass  # no perms to list archived threads here — purge loop below will just skip it
+
+    total_deleted = 0
+    skipped: list[str] = []
+    errored: list[str] = []
+
+    for ch in channels:
+        perms = ch.permissions_for(interaction.guild.me)
+        if not (perms.manage_messages and perms.read_message_history):
+            skipped.append(getattr(ch, "name", str(ch.id)))
+            continue
+        try:
+            deleted = await ch.purge(limit=None, check=is_target, bulk=True)
+            total_deleted += len(deleted)
+        except discord.Forbidden:
+            skipped.append(getattr(ch, "name", str(ch.id)))
+        except Exception as e:
+            errored.append(f"{getattr(ch, 'name', ch.id)} ({e})")
+
+    lines = [
+        f"🧹 Deleted **{total_deleted}** message(s) from user `{target_id}` "
+        f"across {len(channels)} channel(s)/thread(s)."
+    ]
+    if skipped:
+        shown = ", ".join(skipped[:15]) + (" …" if len(skipped) > 15 else "")
+        lines.append(f"⏭️ Skipped (missing permissions): {shown}")
+    if errored:
+        shown = ", ".join(errored[:10]) + (" …" if len(errored) > 10 else "")
+        lines.append(f"⚠️ Errors: {shown}")
+
+    await interaction.followup.send("\n".join(lines), ephemeral=True)
 
 
 # ── /find ─────────────────────────────────────────────────────────────────────
