@@ -1844,6 +1844,33 @@ async def cmd_stopall(interaction: discord.Interaction):
 # immediately, run the purge as a detached asyncio task, and report progress
 # + the final result via a plain DM (or a channel message if DMs are closed),
 # neither of which expire.
+#
+# Concurrency note: with hundreds of channels/threads, doing them one at a
+# time is dominated by network round-trip latency for channels that don't
+# even contain a match — not by rate limiting. discord.py's HTTP layer
+# already tracks and respects Discord's per-route/per-channel rate-limit
+# buckets internally, so it's safe to fire off several channel purges at
+# once and let it throttle automatically; we just cap how many run at the
+# same time (PURGE_CONCURRENCY) so we don't open an unreasonable number of
+# simultaneous requests.
+
+PURGE_CONCURRENCY = 8  # tune down if you start seeing lots of 429s in logs, up if it still feels slow
+
+
+async def _purge_one(ch, is_target, guild: discord.Guild) -> tuple[str, str, int]:
+    """Purge a single channel/thread. Returns (status, name, deleted_count)."""
+    name = getattr(ch, "name", str(ch.id))
+    perms = ch.permissions_for(guild.me)
+    if not (perms.manage_messages and perms.read_message_history):
+        return ("skipped", name, 0)
+    try:
+        deleted = await ch.purge(limit=None, check=is_target, bulk=True)
+        return ("ok", name, len(deleted))
+    except discord.Forbidden:
+        return ("skipped", name, 0)
+    except Exception as e:
+        return ("error", f"{name} ({e})", 0)
+
 
 async def _run_purgeuser(admin: discord.User, guild: discord.Guild, target_id: int, include_threads: bool):
     def is_target(m: discord.Message) -> bool:
@@ -1877,33 +1904,40 @@ async def _run_purgeuser(admin: discord.User, guild: discord.Guild, target_id: i
                 pass  # no perms to list archived threads here — purge loop below will just skip it
 
     total_deleted = 0
+    completed = 0
     skipped: list[str] = []
     errored: list[str] = []
+    progress_lock = asyncio.Lock()
+    sem = asyncio.Semaphore(PURGE_CONCURRENCY)
 
     await notify(
         f"🧹 Starting purge of user `{target_id}` across {len(channels)} "
-        f"channel(s)/thread(s) in **{guild.name}**. I'll DM you again when it's done — "
-        f"this can take a while if there's a lot of old history."
+        f"channel(s)/thread(s) in **{guild.name}**, {PURGE_CONCURRENCY} at a time. "
+        f"I'll DM you again when it's done."
     )
 
-    for i, ch in enumerate(channels, start=1):
-        perms = ch.permissions_for(guild.me)
-        if not (perms.manage_messages and perms.read_message_history):
-            skipped.append(getattr(ch, "name", str(ch.id)))
-            continue
-        try:
-            deleted = await ch.purge(limit=None, check=is_target, bulk=True)
-            total_deleted += len(deleted)
-        except discord.Forbidden:
-            skipped.append(getattr(ch, "name", str(ch.id)))
-        except Exception as e:
-            errored.append(f"{getattr(ch, 'name', ch.id)} ({e})")
+    async def worker(ch):
+        nonlocal total_deleted, completed
+        async with sem:
+            status, name, n = await _purge_one(ch, is_target, guild)
+        async with progress_lock:
+            completed += 1
+            if status == "ok":
+                total_deleted += n
+            elif status == "skipped":
+                skipped.append(name)
+            else:
+                errored.append(name)
+            # Progress ping every 20 completions so a long run doesn't look
+            # stalled — plain DM, not an interaction follow-up, so no
+            # 15-minute expiry to worry about.
+            if completed % 20 == 0 and completed != len(channels):
+                await notify(
+                    f"…still going: {completed}/{len(channels)} channels checked, "
+                    f"{total_deleted} deleted so far."
+                )
 
-        # Progress ping every 10 channels so a long run doesn't look stalled —
-        # this is a plain message, not an interaction follow-up, so it has no
-        # 15-minute expiry to worry about.
-        if i % 10 == 0 and i != len(channels):
-            await notify(f"…still going: {i}/{len(channels)} channels checked, {total_deleted} deleted so far.")
+    await asyncio.gather(*(worker(ch) for ch in channels))
 
     lines = [
         f"✅ Done. Deleted **{total_deleted}** message(s) from user `{target_id}` "
