@@ -204,7 +204,7 @@
     "12162": {"prev":{"total":4299,"byRarity":{"1":0,"2":0,"3":3899,"4":301,"5":99,"6":0,"7":0}},"label":"Klein Moretti #5 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12163": {"prev":{"total":4314,"byRarity":{"1":0,"2":0,"3":3911,"4":290,"5":113,"6":0,"7":0}},"label":"Klein Moretti #6 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "27208": {"prev":{"total":3007,"byRarity":{"1":0,"2":0,"3":2734,"4":205,"5":68,"6":0,"7":0}},"label":"Klein Moretti #9 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
-    "27250": {"prev":{"total":2929,"byRarity":{"1":0,"2":0,"3":2672,"4":193,"5":64,"6":0,"7":0}},"label":"Klein Moretti #10 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
+    "27250": {"prev":{"total":2930,"byRarity":{"1":0,"2":0,"3":2673,"4":193,"5":64,"6":0,"7":0}},"label":"Klein Moretti #10 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "27251": {"prev":{"total":2990,"byRarity":{"1":0,"2":0,"3":2731,"4":187,"5":72,"6":0,"7":0}},"label":"Klein Moretti #11 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "29374": {"prev":{"total":2414,"byRarity":{"1":0,"2":0,"3":2218,"4":151,"5":45,"6":0,"7":0}},"label":"Klein Moretti #13 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "29375": {"prev":{"total":2360,"byRarity":{"1":0,"2":0,"3":2160,"4":146,"5":54,"6":0,"7":0}},"label":"Klein Moretti #14 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
@@ -258,7 +258,7 @@
     "33381": {"prev":{"total":1963,"byRarity":{"1":0,"2":0,"3":1796,"4":136,"5":31,"6":0,"7":0}},"label":"Vein #8 — Link Click","character":"Vein","series":"Link Click"},
     "37848": {"prev":{"total":1057,"byRarity":{"1":0,"2":0,"3":960,"4":75,"5":22,"6":0,"7":0}},"label":"Emu Otori #19 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
     "21143": {"prev":{"total":3687,"byRarity":{"1":0,"2":0,"3":3346,"4":243,"5":98,"6":0,"7":0}},"label":"Shion Tatsunami #1 — Saihate Station","character":"Shion Tatsunami","series":"Saihate Station"},
-    "21144": {"prev":{"total":3649,"byRarity":{"1":0,"2":0,"3":3320,"4":255,"5":74,"6":0,"7":0}},"label":"Shion Tatsunami #2 — Saihate Station","character":"Shion Tatsunami","series":"Saihate Station"},
+    "21144": {"prev":{"total":3650,"byRarity":{"1":0,"2":0,"3":3320,"4":256,"5":74,"6":0,"7":0}},"label":"Shion Tatsunami #2 — Saihate Station","character":"Shion Tatsunami","series":"Saihate Station"},
     "21145": {"prev":{"total":3694,"byRarity":{"1":0,"2":0,"3":3329,"4":280,"5":85,"6":0,"7":0}},"label":"Shion Tatsunami #3 — Saihate Station","character":"Shion Tatsunami","series":"Saihate Station"},
     "21139": {"prev":{"total":3616,"byRarity":{"1":0,"2":0,"3":3313,"4":231,"5":72,"6":0,"7":0}},"label":"Haru Akinashi #1 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
     "21140": {"prev":{"total":3661,"byRarity":{"1":0,"2":0,"3":3322,"4":267,"5":72,"6":0,"7":0}},"label":"Haru Akinashi #2 — Saihate Station","character":"Haru Akinashi","series":"Saihate Station"},
@@ -276,14 +276,14 @@
     "40003": {"prev":{"total":19911,"byRarity":{"1":0,"2":0,"3":18899,"4":790,"5":222,"6":0,"7":0}},"label":"Frieren #31 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
     "40510": {"prev":{"total":297,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":297}},"label":"Frieren #32 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
     "40356": {"prev":{"total":20215,"byRarity":{"1":0,"2":0,"3":19217,"4":753,"5":245,"6":0,"7":0}},"label":"Yoo Joonghyuk #20 — Omniscient Reader's Viewpoint","character":"Yoo Joonghyuk","series":"Omniscient Reader's Viewpoint"},
-    "40355": {"prev":{"total":20191,"byRarity":{"1":0,"2":0,"3":19209,"4":751,"5":231,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
+    "40355": {"prev":{"total":20192,"byRarity":{"1":0,"2":0,"3":19210,"4":751,"5":231,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
     "40431": {"prev":{"total":20447,"byRarity":{"1":0,"2":0,"3":19503,"4":726,"5":218,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"},
     "40393": {"prev":{"total":20481,"byRarity":{"1":0,"2":0,"3":19480,"4":784,"5":217,"6":0,"7":0}},"label":"Hatsune Miku #40 — Vocaloid","character":"Hatsune Miku","series":"Vocaloid"},
     "40502": {"prev":{"total":298,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":298}},"label":"Phainon #13 — Honkai: Star Rail","character":"Phainon","series":"Honkai: Star Rail"},
     "40480": {"prev":{"total":20507,"byRarity":{"1":0,"2":0,"3":19561,"4":735,"5":211,"6":0,"7":0}},"label":"Kaveh #8 — Genshin Impact","character":"Kaveh","series":"Genshin Impact"},
     "40043": {"prev":{"total":20022,"byRarity":{"1":0,"2":0,"3":19090,"4":687,"5":245,"6":0,"7":0}},"label":"Denia #14 — Wuthering Waves","character":"Denia","series":"Wuthering Waves"},
-    "40089": {"prev":{"total":20439,"byRarity":{"1":0,"2":0,"3":19466,"4":757,"5":216,"6":0,"7":0}},"label":"Maomao #22 — The Apothecary Diaries","character":"Maomao","series":"The Apothecary Diaries"},
-    "40159": {"prev":{"total":20579,"byRarity":{"1":0,"2":0,"3":19606,"4":747,"5":226,"6":0,"7":0}},"label":"Qiao Ling #17 — Link Click","character":"Qiao Ling","series":"Link Click"},
-    "40030": {"prev":{"total":20386,"byRarity":{"1":0,"2":0,"3":19399,"4":744,"5":243,"6":0,"7":0}},"label":"​Cale Henituse #18 — Lout of Count's Family","character":"​Cale Henituse","series":"Lout of Count's Family"}
+    "40089": {"prev":{"total":20438,"byRarity":{"1":0,"2":0,"3":19465,"4":757,"5":216,"6":0,"7":0}},"label":"Maomao #22 — The Apothecary Diaries","character":"Maomao","series":"The Apothecary Diaries"},
+    "40159": {"prev":{"total":20583,"byRarity":{"1":0,"2":0,"3":19610,"4":747,"5":226,"6":0,"7":0}},"label":"Qiao Ling #17 — Link Click","character":"Qiao Ling","series":"Link Click"},
+    "40030": {"prev":{"total":20387,"byRarity":{"1":0,"2":0,"3":19400,"4":744,"5":243,"6":0,"7":0}},"label":"​Cale Henituse #18 — Lout of Count's Family","character":"​Cale Henituse","series":"Lout of Count's Family"}
   }
 }
