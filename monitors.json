@@ -271,19 +271,19 @@
     "34943": {"prev":{"total":1423,"byRarity":{"1":0,"2":0,"3":1301,"4":88,"5":34,"6":0,"7":0}},"label":"Chinoi Momone #3 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34622": {"prev":{"total":1550,"byRarity":{"1":0,"2":0,"3":1446,"4":79,"5":25,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":297,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":297}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
-    "40406": {"prev":{"total":20496,"byRarity":{"1":0,"2":0,"3":19499,"4":769,"5":228,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"},
-    "40059": {"prev":{"total":20268,"byRarity":{"1":0,"2":0,"3":19287,"4":737,"5":244,"6":0,"7":0}},"label":"Qifrey #7 — Witch Hat Atelier","character":"Qifrey","series":"Witch Hat Atelier"},
-    "40003": {"prev":{"total":19886,"byRarity":{"1":0,"2":0,"3":18877,"4":788,"5":221,"6":0,"7":0}},"label":"Frieren #31 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
+    "40406": {"prev":{"total":20497,"byRarity":{"1":0,"2":0,"3":19500,"4":769,"5":228,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"},
+    "40059": {"prev":{"total":20265,"byRarity":{"1":0,"2":0,"3":19284,"4":737,"5":244,"6":0,"7":0}},"label":"Qifrey #7 — Witch Hat Atelier","character":"Qifrey","series":"Witch Hat Atelier"},
+    "40003": {"prev":{"total":19885,"byRarity":{"1":0,"2":0,"3":18876,"4":788,"5":221,"6":0,"7":0}},"label":"Frieren #31 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
     "40510": {"prev":{"total":297,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":297}},"label":"Frieren #32 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
     "40356": {"prev":{"total":20194,"byRarity":{"1":0,"2":0,"3":19196,"4":754,"5":244,"6":0,"7":0}},"label":"Yoo Joonghyuk #20 — Omniscient Reader's Viewpoint","character":"Yoo Joonghyuk","series":"Omniscient Reader's Viewpoint"},
-    "40355": {"prev":{"total":20167,"byRarity":{"1":0,"2":0,"3":19185,"4":751,"5":231,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
-    "40431": {"prev":{"total":20431,"byRarity":{"1":0,"2":0,"3":19487,"4":726,"5":218,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"},
+    "40355": {"prev":{"total":20165,"byRarity":{"1":0,"2":0,"3":19183,"4":751,"5":231,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
+    "40431": {"prev":{"total":20429,"byRarity":{"1":0,"2":0,"3":19485,"4":726,"5":218,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"},
     "40393": {"prev":{"total":20453,"byRarity":{"1":0,"2":0,"3":19455,"4":781,"5":217,"6":0,"7":0}},"label":"Hatsune Miku #40 — Vocaloid","character":"Hatsune Miku","series":"Vocaloid"},
     "40502": {"prev":{"total":298,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":298}},"label":"Phainon #13 — Honkai: Star Rail","character":"Phainon","series":"Honkai: Star Rail"},
-    "40480": {"prev":{"total":20475,"byRarity":{"1":0,"2":0,"3":19531,"4":733,"5":211,"6":0,"7":0}},"label":"Kaveh #8 — Genshin Impact","character":"Kaveh","series":"Genshin Impact"},
+    "40480": {"prev":{"total":20474,"byRarity":{"1":0,"2":0,"3":19530,"4":733,"5":211,"6":0,"7":0}},"label":"Kaveh #8 — Genshin Impact","character":"Kaveh","series":"Genshin Impact"},
     "40043": {"prev":{"total":20002,"byRarity":{"1":0,"2":0,"3":19069,"4":688,"5":245,"6":0,"7":0}},"label":"Denia #14 — Wuthering Waves","character":"Denia","series":"Wuthering Waves"},
-    "40089": {"prev":{"total":20411,"byRarity":{"1":0,"2":0,"3":19438,"4":757,"5":216,"6":0,"7":0}},"label":"Maomao #22 — The Apothecary Diaries","character":"Maomao","series":"The Apothecary Diaries"},
+    "40089": {"prev":{"total":20410,"byRarity":{"1":0,"2":0,"3":19437,"4":757,"5":216,"6":0,"7":0}},"label":"Maomao #22 — The Apothecary Diaries","character":"Maomao","series":"The Apothecary Diaries"},
     "40159": {"prev":{"total":20556,"byRarity":{"1":0,"2":0,"3":19583,"4":747,"5":226,"6":0,"7":0}},"label":"Qiao Ling #17 — Link Click","character":"Qiao Ling","series":"Link Click"},
-    "40030": {"prev":{"total":20366,"byRarity":{"1":0,"2":0,"3":19380,"4":744,"5":242,"6":0,"7":0}},"label":"​Cale Henituse #18 — Lout of Count's Family","character":"​Cale Henituse","series":"Lout of Count's Family"}
+    "40030": {"prev":{"total":20364,"byRarity":{"1":0,"2":0,"3":19378,"4":744,"5":242,"6":0,"7":0}},"label":"​Cale Henituse #18 — Lout of Count's Family","character":"​Cale Henituse","series":"Lout of Count's Family"}
   }
 }
