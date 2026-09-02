@@ -191,7 +191,7 @@
     "39099": {"prev":{"total":736,"byRarity":{"1":0,"2":0,"3":672,"4":54,"5":10,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38797": {"prev":{"total":783,"byRarity":{"1":0,"2":0,"3":734,"4":41,"5":8,"6":0,"7":0}},"label":"J3 #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"J3","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "38529": {"prev":{"total":818,"byRarity":{"1":0,"2":0,"3":753,"4":52,"5":13,"6":0,"7":0}},"label":"Kim Soleum #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "39152": {"prev":{"total":754,"byRarity":{"1":0,"2":0,"3":694,"4":44,"5":16,"6":0,"7":0}},"label":"Baek Saheon #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "39152": {"prev":{"total":755,"byRarity":{"1":0,"2":0,"3":695,"4":44,"5":16,"6":0,"7":0}},"label":"Baek Saheon #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "12774": {"prev":{"total":4322,"byRarity":{"1":0,"2":0,"3":3925,"4":302,"5":95,"6":0,"7":0}},"label":"Emma #1 — Veil","character":"Emma","series":"Veil"},
     "12775": {"prev":{"total":4160,"byRarity":{"1":0,"2":0,"3":3761,"4":305,"5":94,"6":0,"7":0}},"label":"Emma #2 — Veil","character":"Emma","series":"Veil"},
     "12776": {"prev":{"total":4209,"byRarity":{"1":0,"2":0,"3":3788,"4":316,"5":105,"6":0,"7":0}},"label":"Emma #3 — Veil","character":"Emma","series":"Veil"},
@@ -272,18 +272,18 @@
     "34622": {"prev":{"total":1549,"byRarity":{"1":0,"2":0,"3":1445,"4":79,"5":25,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":297,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":297}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
     "40406": {"prev":{"total":20483,"byRarity":{"1":0,"2":0,"3":19488,"4":767,"5":228,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"},
-    "40059": {"prev":{"total":20265,"byRarity":{"1":0,"2":0,"3":19287,"4":734,"5":244,"6":0,"7":0}},"label":"Qifrey #7 — Witch Hat Atelier","character":"Qifrey","series":"Witch Hat Atelier"},
+    "40059": {"prev":{"total":20268,"byRarity":{"1":0,"2":0,"3":19290,"4":734,"5":244,"6":0,"7":0}},"label":"Qifrey #7 — Witch Hat Atelier","character":"Qifrey","series":"Witch Hat Atelier"},
     "40003": {"prev":{"total":19883,"byRarity":{"1":0,"2":0,"3":18874,"4":788,"5":221,"6":0,"7":0}},"label":"Frieren #31 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
     "40510": {"prev":{"total":297,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":297}},"label":"Frieren #32 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
-    "40356": {"prev":{"total":20176,"byRarity":{"1":0,"2":0,"3":19181,"4":752,"5":243,"6":0,"7":0}},"label":"Yoo Joonghyuk #20 — Omniscient Reader's Viewpoint","character":"Yoo Joonghyuk","series":"Omniscient Reader's Viewpoint"},
-    "40355": {"prev":{"total":20166,"byRarity":{"1":0,"2":0,"3":19187,"4":748,"5":231,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
-    "40431": {"prev":{"total":20421,"byRarity":{"1":0,"2":0,"3":19480,"4":725,"5":216,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"},
+    "40356": {"prev":{"total":20177,"byRarity":{"1":0,"2":0,"3":19182,"4":752,"5":243,"6":0,"7":0}},"label":"Yoo Joonghyuk #20 — Omniscient Reader's Viewpoint","character":"Yoo Joonghyuk","series":"Omniscient Reader's Viewpoint"},
+    "40355": {"prev":{"total":20169,"byRarity":{"1":0,"2":0,"3":19190,"4":748,"5":231,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
+    "40431": {"prev":{"total":20422,"byRarity":{"1":0,"2":0,"3":19481,"4":725,"5":216,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"},
     "40393": {"prev":{"total":20456,"byRarity":{"1":0,"2":0,"3":19459,"4":781,"5":216,"6":0,"7":0}},"label":"Hatsune Miku #40 — Vocaloid","character":"Hatsune Miku","series":"Vocaloid"},
     "40502": {"prev":{"total":295,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":295}},"label":"Phainon #13 — Honkai: Star Rail","character":"Phainon","series":"Honkai: Star Rail"},
-    "40480": {"prev":{"total":20467,"byRarity":{"1":0,"2":0,"3":19523,"4":733,"5":211,"6":0,"7":0}},"label":"Kaveh #8 — Genshin Impact","character":"Kaveh","series":"Genshin Impact"},
+    "40480": {"prev":{"total":20468,"byRarity":{"1":0,"2":0,"3":19524,"4":733,"5":211,"6":0,"7":0}},"label":"Kaveh #8 — Genshin Impact","character":"Kaveh","series":"Genshin Impact"},
     "40043": {"prev":{"total":20005,"byRarity":{"1":0,"2":0,"3":19072,"4":688,"5":245,"6":0,"7":0}},"label":"Denia #14 — Wuthering Waves","character":"Denia","series":"Wuthering Waves"},
     "40089": {"prev":{"total":20412,"byRarity":{"1":0,"2":0,"3":19439,"4":757,"5":216,"6":0,"7":0}},"label":"Maomao #22 — The Apothecary Diaries","character":"Maomao","series":"The Apothecary Diaries"},
     "40159": {"prev":{"total":20544,"byRarity":{"1":0,"2":0,"3":19571,"4":747,"5":226,"6":0,"7":0}},"label":"Qiao Ling #17 — Link Click","character":"Qiao Ling","series":"Link Click"},
-    "40030": {"prev":{"total":20365,"byRarity":{"1":0,"2":0,"3":19380,"4":743,"5":242,"6":0,"7":0}},"label":"​Cale Henituse #18 — Lout of Count's Family","character":"​Cale Henituse","series":"Lout of Count's Family"}
+    "40030": {"prev":{"total":20366,"byRarity":{"1":0,"2":0,"3":19381,"4":743,"5":242,"6":0,"7":0}},"label":"​Cale Henituse #18 — Lout of Count's Family","character":"​Cale Henituse","series":"Lout of Count's Family"}
   }
 }
