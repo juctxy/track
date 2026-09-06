@@ -149,7 +149,7 @@
     }
   },
   "cards": {
-    "28494": {"prev":{"total":2716,"byRarity":{"1":0,"2":0,"3":2484,"4":171,"5":61,"6":0,"7":0}},"label":"Kim Soleum #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "28494": {"prev":{"total":2717,"byRarity":{"1":0,"2":0,"3":2485,"4":171,"5":61,"6":0,"7":0}},"label":"Kim Soleum #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25554": {"prev":{"total":3547,"byRarity":{"1":0,"2":0,"3":3207,"4":241,"5":99,"6":0,"7":0}},"label":"Kim Soleum #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25553": {"prev":{"total":3433,"byRarity":{"1":0,"2":0,"3":3125,"4":234,"5":74,"6":0,"7":0}},"label":"Kim Soleum #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36521": {"prev":{"total":1285,"byRarity":{"1":0,"2":0,"3":1193,"4":68,"5":24,"6":0,"7":0}},"label":"Kim Soleum #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
@@ -226,7 +226,7 @@
     "5730": {"prev":{"total":5215,"byRarity":{"1":0,"2":0,"3":4761,"4":354,"5":100,"6":0,"7":0}},"label":"Childe #6 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "20563": {"prev":{"total":4258,"byRarity":{"1":0,"2":0,"3":3915,"4":265,"5":78,"6":0,"7":0}},"label":"Childe #7 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "28405": {"prev":{"total":3041,"byRarity":{"1":0,"2":0,"3":2817,"4":176,"5":48,"6":0,"7":0}},"label":"Childe #10 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
-    "39175": {"prev":{"total":800,"byRarity":{"1":0,"2":0,"3":750,"4":38,"5":12,"6":0,"7":0}},"label":"Childe #12 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
+    "39175": {"prev":{"total":799,"byRarity":{"1":0,"2":0,"3":749,"4":38,"5":12,"6":0,"7":0}},"label":"Childe #12 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "801": {"prev":{"total":5488,"byRarity":{"1":0,"2":0,"3":5032,"4":360,"5":96,"6":0,"7":0}},"label":"Choso #1 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "802": {"prev":{"total":5435,"byRarity":{"1":0,"2":0,"3":4986,"4":342,"5":107,"6":0,"7":0}},"label":"Choso #2 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "31554": {"prev":{"total":2517,"byRarity":{"1":0,"2":0,"3":2323,"4":141,"5":53,"6":0,"7":0}},"label":"Choso #4 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
@@ -280,13 +280,13 @@
     "40431": {"prev":{"total":22618,"byRarity":{"1":0,"2":0,"3":21546,"4":822,"5":250,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"},
     "40393": {"prev":{"total":22611,"byRarity":{"1":0,"2":0,"3":21479,"4":895,"5":237,"6":0,"7":0}},"label":"Hatsune Miku #40 — Vocaloid","character":"Hatsune Miku","series":"Vocaloid"},
     "40502": {"prev":{"total":322,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":322}},"label":"Phainon #13 — Honkai: Star Rail","character":"Phainon","series":"Honkai: Star Rail"},
-    "40480": {"prev":{"total":22547,"byRarity":{"1":0,"2":0,"3":21485,"4":822,"5":240,"6":0,"7":0}},"label":"Kaveh #8 — Genshin Impact","character":"Kaveh","series":"Genshin Impact"},
-    "40043": {"prev":{"total":22210,"byRarity":{"1":0,"2":0,"3":21148,"4":792,"5":270,"6":0,"7":0}},"label":"Denia #14 — Wuthering Waves","character":"Denia","series":"Wuthering Waves"},
-    "40089": {"prev":{"total":22479,"byRarity":{"1":0,"2":0,"3":21385,"4":844,"5":250,"6":0,"7":0}},"label":"Maomao #22 — The Apothecary Diaries","character":"Maomao","series":"The Apothecary Diaries"},
+    "40480": {"prev":{"total":22548,"byRarity":{"1":0,"2":0,"3":21486,"4":822,"5":240,"6":0,"7":0}},"label":"Kaveh #8 — Genshin Impact","character":"Kaveh","series":"Genshin Impact"},
+    "40043": {"prev":{"total":22208,"byRarity":{"1":0,"2":0,"3":21146,"4":792,"5":270,"6":0,"7":0}},"label":"Denia #14 — Wuthering Waves","character":"Denia","series":"Wuthering Waves"},
+    "40089": {"prev":{"total":22480,"byRarity":{"1":0,"2":0,"3":21385,"4":845,"5":250,"6":0,"7":0}},"label":"Maomao #22 — The Apothecary Diaries","character":"Maomao","series":"The Apothecary Diaries"},
     "40159": {"prev":{"total":22659,"byRarity":{"1":0,"2":0,"3":21558,"4":846,"5":255,"6":0,"7":0}},"label":"Qiao Ling #17 — Link Click","character":"Qiao Ling","series":"Link Click"},
     "40030": {"prev":{"total":22394,"byRarity":{"1":0,"2":0,"3":21278,"4":848,"5":268,"6":0,"7":0}},"label":"​Cale Henituse #18 — Lout of Count's Family","character":"​Cale Henituse","series":"Lout of Count's Family"},
     "41420": {"prev":{"total":73,"byRarity":{"1":0,"2":0,"3":68,"4":3,"5":2,"6":0,"7":0}},"label":"Braun #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "40513": {"prev":{"total":351,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":351}},"label":"Arlecchino #9 — Genshin Impact","character":"Arlecchino","series":"Genshin Impact"},
-    "40048": {"prev":{"total":22358,"byRarity":{"1":0,"2":0,"3":21270,"4":839,"5":249,"6":0,"7":0}},"label":"Lu Guang #24 — Link Click","character":"Lu Guang","series":"Link Click"}
+    "40048": {"prev":{"total":22360,"byRarity":{"1":0,"2":0,"3":21272,"4":839,"5":249,"6":0,"7":0}},"label":"Lu Guang #24 — Link Click","character":"Lu Guang","series":"Link Click"}
   }
 }
