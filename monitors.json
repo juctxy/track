@@ -230,7 +230,7 @@
     "801": {"prev":{"total":5488,"byRarity":{"1":0,"2":0,"3":5032,"4":360,"5":96,"6":0,"7":0}},"label":"Choso #1 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "802": {"prev":{"total":5434,"byRarity":{"1":0,"2":0,"3":4985,"4":342,"5":107,"6":0,"7":0}},"label":"Choso #2 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "31554": {"prev":{"total":2517,"byRarity":{"1":0,"2":0,"3":2323,"4":141,"5":53,"6":0,"7":0}},"label":"Choso #4 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
-    "31555": {"prev":{"total":2629,"byRarity":{"1":0,"2":0,"3":2442,"4":147,"5":40,"6":0,"7":0}},"label":"Choso #5 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
+    "31555": {"prev":{"total":2630,"byRarity":{"1":0,"2":0,"3":2443,"4":147,"5":40,"6":0,"7":0}},"label":"Choso #5 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "31556": {"prev":{"total":2560,"byRarity":{"1":0,"2":0,"3":2348,"4":161,"5":51,"6":0,"7":0}},"label":"Choso #6 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "32807": {"prev":{"total":2220,"byRarity":{"1":0,"2":0,"3":2040,"4":136,"5":44,"6":0,"7":0}},"label":"Choso #7 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "37823": {"prev":{"total":1066,"byRarity":{"1":0,"2":0,"3":991,"4":57,"5":18,"6":0,"7":0}},"label":"Kamiina Botan #1 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
@@ -274,19 +274,19 @@
     "40574": {"prev":{"total":342,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":342}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
     "40406": {"prev":{"total":22632,"byRarity":{"1":0,"2":0,"3":21526,"4":846,"5":260,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"},
     "40059": {"prev":{"total":22341,"byRarity":{"1":0,"2":0,"3":21227,"4":836,"5":278,"6":0,"7":0}},"label":"Qifrey #7 — Witch Hat Atelier","character":"Qifrey","series":"Witch Hat Atelier"},
-    "40003": {"prev":{"total":22041,"byRarity":{"1":0,"2":0,"3":20895,"4":893,"5":253,"6":0,"7":0}},"label":"Frieren #31 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
+    "40003": {"prev":{"total":22042,"byRarity":{"1":0,"2":0,"3":20896,"4":893,"5":253,"6":0,"7":0}},"label":"Frieren #31 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
     "40356": {"prev":{"total":22330,"byRarity":{"1":0,"2":0,"3":21194,"4":861,"5":275,"6":0,"7":0}},"label":"Yoo Joonghyuk #20 — Omniscient Reader's Viewpoint","character":"Yoo Joonghyuk","series":"Omniscient Reader's Viewpoint"},
-    "40355": {"prev":{"total":22202,"byRarity":{"1":0,"2":0,"3":21087,"4":850,"5":265,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
+    "40355": {"prev":{"total":22204,"byRarity":{"1":0,"2":0,"3":21089,"4":850,"5":265,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
     "40431": {"prev":{"total":22607,"byRarity":{"1":0,"2":0,"3":21535,"4":822,"5":250,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"},
     "40393": {"prev":{"total":22582,"byRarity":{"1":0,"2":0,"3":21451,"4":894,"5":237,"6":0,"7":0}},"label":"Hatsune Miku #40 — Vocaloid","character":"Hatsune Miku","series":"Vocaloid"},
     "40502": {"prev":{"total":322,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":322}},"label":"Phainon #13 — Honkai: Star Rail","character":"Phainon","series":"Honkai: Star Rail"},
     "40480": {"prev":{"total":22534,"byRarity":{"1":0,"2":0,"3":21472,"4":822,"5":240,"6":0,"7":0}},"label":"Kaveh #8 — Genshin Impact","character":"Kaveh","series":"Genshin Impact"},
-    "40043": {"prev":{"total":22184,"byRarity":{"1":0,"2":0,"3":21122,"4":792,"5":270,"6":0,"7":0}},"label":"Denia #14 — Wuthering Waves","character":"Denia","series":"Wuthering Waves"},
+    "40043": {"prev":{"total":22185,"byRarity":{"1":0,"2":0,"3":21123,"4":792,"5":270,"6":0,"7":0}},"label":"Denia #14 — Wuthering Waves","character":"Denia","series":"Wuthering Waves"},
     "40089": {"prev":{"total":22456,"byRarity":{"1":0,"2":0,"3":21363,"4":843,"5":250,"6":0,"7":0}},"label":"Maomao #22 — The Apothecary Diaries","character":"Maomao","series":"The Apothecary Diaries"},
-    "40159": {"prev":{"total":22642,"byRarity":{"1":0,"2":0,"3":21543,"4":846,"5":253,"6":0,"7":0}},"label":"Qiao Ling #17 — Link Click","character":"Qiao Ling","series":"Link Click"},
+    "40159": {"prev":{"total":22645,"byRarity":{"1":0,"2":0,"3":21546,"4":846,"5":253,"6":0,"7":0}},"label":"Qiao Ling #17 — Link Click","character":"Qiao Ling","series":"Link Click"},
     "40030": {"prev":{"total":22381,"byRarity":{"1":0,"2":0,"3":21266,"4":847,"5":268,"6":0,"7":0}},"label":"​Cale Henituse #18 — Lout of Count's Family","character":"​Cale Henituse","series":"Lout of Count's Family"},
     "41420": {"prev":{"total":72,"byRarity":{"1":0,"2":0,"3":67,"4":3,"5":2,"6":0,"7":0}},"label":"Braun #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "40513": {"prev":{"total":351,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":351}},"label":"Arlecchino #9 — Genshin Impact","character":"Arlecchino","series":"Genshin Impact"},
-    "40048": {"prev":{"total":22349,"byRarity":{"1":0,"2":0,"3":21263,"4":837,"5":249,"6":0,"7":0}},"label":"Lu Guang #24 — Link Click","character":"Lu Guang","series":"Link Click"}
+    "40048": {"prev":{"total":22350,"byRarity":{"1":0,"2":0,"3":21264,"4":837,"5":249,"6":0,"7":0}},"label":"Lu Guang #24 — Link Click","character":"Lu Guang","series":"Link Click"}
   }
 }
