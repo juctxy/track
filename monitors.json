@@ -273,20 +273,20 @@
     "34622": {"prev":{"total":1603,"byRarity":{"1":0,"2":0,"3":1492,"4":84,"5":27,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":342,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":342}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
     "40406": {"prev":{"total":22616,"byRarity":{"1":0,"2":0,"3":21510,"4":846,"5":260,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"},
-    "40059": {"prev":{"total":22319,"byRarity":{"1":0,"2":0,"3":21206,"4":835,"5":278,"6":0,"7":0}},"label":"Qifrey #7 — Witch Hat Atelier","character":"Qifrey","series":"Witch Hat Atelier"},
+    "40059": {"prev":{"total":22320,"byRarity":{"1":0,"2":0,"3":21207,"4":835,"5":278,"6":0,"7":0}},"label":"Qifrey #7 — Witch Hat Atelier","character":"Qifrey","series":"Witch Hat Atelier"},
     "40003": {"prev":{"total":22015,"byRarity":{"1":0,"2":0,"3":20871,"4":892,"5":252,"6":0,"7":0}},"label":"Frieren #31 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
     "40356": {"prev":{"total":22305,"byRarity":{"1":0,"2":0,"3":21172,"4":859,"5":274,"6":0,"7":0}},"label":"Yoo Joonghyuk #20 — Omniscient Reader's Viewpoint","character":"Yoo Joonghyuk","series":"Omniscient Reader's Viewpoint"},
-    "40355": {"prev":{"total":22176,"byRarity":{"1":0,"2":0,"3":21061,"4":850,"5":265,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
+    "40355": {"prev":{"total":22178,"byRarity":{"1":0,"2":0,"3":21063,"4":850,"5":265,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
     "40431": {"prev":{"total":22584,"byRarity":{"1":0,"2":0,"3":21514,"4":821,"5":249,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"},
     "40393": {"prev":{"total":22565,"byRarity":{"1":0,"2":0,"3":21435,"4":893,"5":237,"6":0,"7":0}},"label":"Hatsune Miku #40 — Vocaloid","character":"Hatsune Miku","series":"Vocaloid"},
     "40502": {"prev":{"total":322,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":322}},"label":"Phainon #13 — Honkai: Star Rail","character":"Phainon","series":"Honkai: Star Rail"},
     "40480": {"prev":{"total":22511,"byRarity":{"1":0,"2":0,"3":21449,"4":822,"5":240,"6":0,"7":0}},"label":"Kaveh #8 — Genshin Impact","character":"Kaveh","series":"Genshin Impact"},
-    "40043": {"prev":{"total":22168,"byRarity":{"1":0,"2":0,"3":21106,"4":792,"5":270,"6":0,"7":0}},"label":"Denia #14 — Wuthering Waves","character":"Denia","series":"Wuthering Waves"},
-    "40089": {"prev":{"total":22434,"byRarity":{"1":0,"2":0,"3":21343,"4":841,"5":250,"6":0,"7":0}},"label":"Maomao #22 — The Apothecary Diaries","character":"Maomao","series":"The Apothecary Diaries"},
+    "40043": {"prev":{"total":22169,"byRarity":{"1":0,"2":0,"3":21107,"4":792,"5":270,"6":0,"7":0}},"label":"Denia #14 — Wuthering Waves","character":"Denia","series":"Wuthering Waves"},
+    "40089": {"prev":{"total":22436,"byRarity":{"1":0,"2":0,"3":21345,"4":841,"5":250,"6":0,"7":0}},"label":"Maomao #22 — The Apothecary Diaries","character":"Maomao","series":"The Apothecary Diaries"},
     "40159": {"prev":{"total":22621,"byRarity":{"1":0,"2":0,"3":21522,"4":846,"5":253,"6":0,"7":0}},"label":"Qiao Ling #17 — Link Click","character":"Qiao Ling","series":"Link Click"},
     "40030": {"prev":{"total":22355,"byRarity":{"1":0,"2":0,"3":21239,"4":848,"5":268,"6":0,"7":0}},"label":"​Cale Henituse #18 — Lout of Count's Family","character":"​Cale Henituse","series":"Lout of Count's Family"},
     "41420": {"prev":{"total":72,"byRarity":{"1":0,"2":0,"3":67,"4":3,"5":2,"6":0,"7":0}},"label":"Braun #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "40513": {"prev":{"total":351,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":351}},"label":"Arlecchino #9 — Genshin Impact","character":"Arlecchino","series":"Genshin Impact"},
-    "40048": {"prev":{"total":22319,"byRarity":{"1":0,"2":0,"3":21234,"4":836,"5":249,"6":0,"7":0}},"label":"Lu Guang #24 — Link Click","character":"Lu Guang","series":"Link Click"}
+    "40048": {"prev":{"total":22320,"byRarity":{"1":0,"2":0,"3":21235,"4":836,"5":249,"6":0,"7":0}},"label":"Lu Guang #24 — Link Click","character":"Lu Guang","series":"Link Click"}
   }
 }
