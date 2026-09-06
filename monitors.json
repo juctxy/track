@@ -205,7 +205,7 @@
     "12162": {"prev":{"total":4331,"byRarity":{"1":0,"2":0,"3":3926,"4":303,"5":102,"6":0,"7":0}},"label":"Klein Moretti #5 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12163": {"prev":{"total":4341,"byRarity":{"1":0,"2":0,"3":3935,"4":293,"5":113,"6":0,"7":0}},"label":"Klein Moretti #6 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "27208": {"prev":{"total":3053,"byRarity":{"1":0,"2":0,"3":2773,"4":212,"5":68,"6":0,"7":0}},"label":"Klein Moretti #9 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
-    "27250": {"prev":{"total":2971,"byRarity":{"1":0,"2":0,"3":2710,"4":196,"5":65,"6":0,"7":0}},"label":"Klein Moretti #10 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
+    "27250": {"prev":{"total":2970,"byRarity":{"1":0,"2":0,"3":2709,"4":196,"5":65,"6":0,"7":0}},"label":"Klein Moretti #10 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "27251": {"prev":{"total":3017,"byRarity":{"1":0,"2":0,"3":2756,"4":188,"5":73,"6":0,"7":0}},"label":"Klein Moretti #11 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "29374": {"prev":{"total":2444,"byRarity":{"1":0,"2":0,"3":2241,"4":155,"5":48,"6":0,"7":0}},"label":"Klein Moretti #13 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "29375": {"prev":{"total":2396,"byRarity":{"1":0,"2":0,"3":2193,"4":149,"5":54,"6":0,"7":0}},"label":"Klein Moretti #14 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
@@ -287,6 +287,6 @@
     "40030": {"prev":{"total":22293,"byRarity":{"1":0,"2":0,"3":21179,"4":846,"5":268,"6":0,"7":0}},"label":"​Cale Henituse #18 — Lout of Count's Family","character":"​Cale Henituse","series":"Lout of Count's Family"},
     "41420": {"prev":{"total":70,"byRarity":{"1":0,"2":0,"3":65,"4":3,"5":2,"6":0,"7":0}},"label":"Braun #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "40513": {"prev":{"total":348,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":348}},"label":"Arlecchino #9 — Genshin Impact","character":"Arlecchino","series":"Genshin Impact"},
-    "40048": {"prev":{"total":22251,"byRarity":{"1":0,"2":0,"3":21170,"4":833,"5":248,"6":0,"7":0}},"label":"Lu Guang #24 — Link Click","character":"Lu Guang","series":"Link Click"}
+    "40048": {"prev":{"total":22252,"byRarity":{"1":0,"2":0,"3":21171,"4":833,"5":248,"6":0,"7":0}},"label":"Lu Guang #24 — Link Click","character":"Lu Guang","series":"Link Click"}
   }
 }
