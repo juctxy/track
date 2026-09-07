@@ -199,7 +199,7 @@
     "31298": {"prev":{"total":2360,"byRarity":{"1":0,"2":0,"3":2181,"4":144,"5":35,"6":0,"7":0}},"label":"Emma #4 — Veil","character":"Emma","series":"Veil"},
     "33060": {"prev":{"total":2070,"byRarity":{"1":0,"2":0,"3":1892,"4":137,"5":41,"6":0,"7":0}},"label":"Emma #5 — Veil","character":"Emma","series":"Veil"},
     "12158": {"prev":{"total":4261,"byRarity":{"1":0,"2":0,"3":3846,"4":319,"5":96,"6":0,"7":0}},"label":"Klein Moretti #1 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
-    "12159": {"prev":{"total":4358,"byRarity":{"1":0,"2":0,"3":3942,"4":322,"5":94,"6":0,"7":0}},"label":"Klein Moretti #2 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
+    "12159": {"prev":{"total":4359,"byRarity":{"1":0,"2":0,"3":3943,"4":322,"5":94,"6":0,"7":0}},"label":"Klein Moretti #2 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12160": {"prev":{"total":4272,"byRarity":{"1":0,"2":0,"3":3835,"4":338,"5":99,"6":0,"7":0}},"label":"Klein Moretti #3 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12161": {"prev":{"total":4307,"byRarity":{"1":0,"2":0,"3":3916,"4":309,"5":82,"6":0,"7":0}},"label":"Klein Moretti #4 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12162": {"prev":{"total":4339,"byRarity":{"1":0,"2":0,"3":3934,"4":303,"5":102,"6":0,"7":0}},"label":"Klein Moretti #5 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
@@ -273,7 +273,7 @@
     "34622": {"prev":{"total":1611,"byRarity":{"1":0,"2":0,"3":1500,"4":84,"5":27,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40574": {"prev":{"total":345,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":345}},"label":"Emu Otori #21 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
     "40406": {"prev":{"total":22910,"byRarity":{"1":0,"2":0,"3":21789,"4":857,"5":264,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"},
-    "40059": {"prev":{"total":22654,"byRarity":{"1":0,"2":0,"3":21519,"4":853,"5":282,"6":0,"7":0}},"label":"Qifrey #7 — Witch Hat Atelier","character":"Qifrey","series":"Witch Hat Atelier"},
+    "40059": {"prev":{"total":22655,"byRarity":{"1":0,"2":0,"3":21520,"4":853,"5":282,"6":0,"7":0}},"label":"Qifrey #7 — Witch Hat Atelier","character":"Qifrey","series":"Witch Hat Atelier"},
     "40003": {"prev":{"total":22317,"byRarity":{"1":0,"2":0,"3":21155,"4":906,"5":256,"6":0,"7":0}},"label":"Frieren #31 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
     "40356": {"prev":{"total":22622,"byRarity":{"1":0,"2":0,"3":21472,"4":871,"5":279,"6":0,"7":0}},"label":"Yoo Joonghyuk #20 — Omniscient Reader's Viewpoint","character":"Yoo Joonghyuk","series":"Omniscient Reader's Viewpoint"},
     "40355": {"prev":{"total":22515,"byRarity":{"1":0,"2":0,"3":21377,"4":870,"5":268,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
@@ -287,6 +287,6 @@
     "40030": {"prev":{"total":22667,"byRarity":{"1":0,"2":0,"3":21532,"4":862,"5":273,"6":0,"7":0}},"label":"​Cale Henituse #18 — Lout of Count's Family","character":"​Cale Henituse","series":"Lout of Count's Family"},
     "41420": {"prev":{"total":80,"byRarity":{"1":0,"2":0,"3":75,"4":3,"5":2,"6":0,"7":0}},"label":"Braun #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "40513": {"prev":{"total":355,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":355}},"label":"Arlecchino #9 — Genshin Impact","character":"Arlecchino","series":"Genshin Impact"},
-    "40048": {"prev":{"total":22615,"byRarity":{"1":0,"2":0,"3":21500,"4":857,"5":258,"6":0,"7":0}},"label":"Lu Guang #24 — Link Click","character":"Lu Guang","series":"Link Click"}
+    "40048": {"prev":{"total":22616,"byRarity":{"1":0,"2":0,"3":21501,"4":857,"5":258,"6":0,"7":0}},"label":"Lu Guang #24 — Link Click","character":"Lu Guang","series":"Link Click"}
   }
 }
