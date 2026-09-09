@@ -1,4 +1,4 @@
-"
+"""
 Lumina Card Pool Monitor — Discord Bot
 =======================================
 Commands:
