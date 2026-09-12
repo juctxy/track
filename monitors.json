@@ -129,7 +129,7 @@
   "cards": {
     "28494": {"prev":{"total":2768,"byRarity":{"1":0,"2":0,"3":2525,"4":180,"5":63,"6":0,"7":0}},"label":"Kim Soleum #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25554": {"prev":{"total":3600,"byRarity":{"1":0,"2":0,"3":3256,"4":244,"5":100,"6":0,"7":0}},"label":"Kim Soleum #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "25553": {"prev":{"total":3476,"byRarity":{"1":0,"2":0,"3":3160,"4":239,"5":77,"6":0,"7":0}},"label":"Kim Soleum #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "25553": {"prev":{"total":3477,"byRarity":{"1":0,"2":0,"3":3161,"4":239,"5":77,"6":0,"7":0}},"label":"Kim Soleum #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36521": {"prev":{"total":1326,"byRarity":{"1":0,"2":0,"3":1232,"4":70,"5":24,"6":0,"7":0}},"label":"Kim Soleum #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36901": {"prev":{"total":1176,"byRarity":{"1":0,"2":0,"3":1093,"4":66,"5":17,"6":0,"7":0}},"label":"Baek Saheon #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36900": {"prev":{"total":1249,"byRarity":{"1":0,"2":0,"3":1147,"4":72,"5":30,"6":0,"7":0}},"label":"Baek Saheon #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
@@ -171,7 +171,7 @@
     "12776": {"prev":{"total":4278,"byRarity":{"1":0,"2":0,"3":3851,"4":320,"5":107,"6":0,"7":0}},"label":"Emma #3 — Veil","character":"Emma","series":"Veil"},
     "31298": {"prev":{"total":2381,"byRarity":{"1":0,"2":0,"3":2201,"4":145,"5":35,"6":0,"7":0}},"label":"Emma #4 — Veil","character":"Emma","series":"Veil"},
     "33060": {"prev":{"total":2106,"byRarity":{"1":0,"2":0,"3":1923,"4":139,"5":44,"6":0,"7":0}},"label":"Emma #5 — Veil","character":"Emma","series":"Veil"},
-    "12158": {"prev":{"total":4289,"byRarity":{"1":0,"2":0,"3":3874,"4":319,"5":96,"6":0,"7":0}},"label":"Klein Moretti #1 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
+    "12158": {"prev":{"total":4290,"byRarity":{"1":0,"2":0,"3":3875,"4":319,"5":96,"6":0,"7":0}},"label":"Klein Moretti #1 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12159": {"prev":{"total":4410,"byRarity":{"1":0,"2":0,"3":3988,"4":326,"5":96,"6":0,"7":0}},"label":"Klein Moretti #2 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12160": {"prev":{"total":4310,"byRarity":{"1":0,"2":0,"3":3869,"4":341,"5":100,"6":0,"7":0}},"label":"Klein Moretti #3 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12161": {"prev":{"total":4347,"byRarity":{"1":0,"2":0,"3":3954,"4":310,"5":83,"6":0,"7":0}},"label":"Klein Moretti #4 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
@@ -189,7 +189,7 @@
     "31809": {"prev":{"total":2286,"byRarity":{"1":0,"2":0,"3":2100,"4":155,"5":31,"6":0,"7":0}},"label":"Klein Moretti #19 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "32398": {"prev":{"total":2122,"byRarity":{"1":0,"2":0,"3":1945,"4":123,"5":54,"6":0,"7":0}},"label":"Klein Moretti #21 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "32474": {"prev":{"total":2014,"byRarity":{"1":0,"2":0,"3":1826,"4":142,"5":46,"6":0,"7":0}},"label":"Klein Moretti #22 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
-    "39307": {"prev":{"total":774,"byRarity":{"1":0,"2":0,"3":741,"4":22,"5":11,"6":0,"7":0}},"label":"Klein Moretti #24 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
+    "39307": {"prev":{"total":775,"byRarity":{"1":0,"2":0,"3":742,"4":22,"5":11,"6":0,"7":0}},"label":"Klein Moretti #24 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "39308": {"prev":{"total":750,"byRarity":{"1":0,"2":0,"3":687,"4":47,"5":16,"6":0,"7":0}},"label":"Klein Moretti #25 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "2927": {"prev":{"total":5350,"byRarity":{"1":0,"2":0,"3":4900,"4":347,"5":103,"6":0,"7":0}},"label":"Childe #1 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "2928": {"prev":{"total":5357,"byRarity":{"1":0,"2":0,"3":4897,"4":356,"5":104,"6":0,"7":0}},"label":"Childe #2 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
@@ -236,7 +236,7 @@
     "40431": {"prev":{"total":24519,"byRarity":{"1":0,"2":0,"3":23307,"4":928,"5":284,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"},
     "40393": {"prev":{"total":24532,"byRarity":{"1":0,"2":0,"3":23248,"4":1004,"5":280,"6":0,"7":0}},"label":"Hatsune Miku #40 — Vocaloid","character":"Hatsune Miku","series":"Vocaloid"},
     "40502": {"prev":{"total":371,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":371}},"label":"Phainon #13 — Honkai: Star Rail","character":"Phainon","series":"Honkai: Star Rail"},
-    "40480": {"prev":{"total":24609,"byRarity":{"1":0,"2":0,"3":23392,"4":941,"5":276,"6":0,"7":0}},"label":"Kaveh #8 — Genshin Impact","character":"Kaveh","series":"Genshin Impact"},
+    "40480": {"prev":{"total":24610,"byRarity":{"1":0,"2":0,"3":23392,"4":942,"5":276,"6":0,"7":0}},"label":"Kaveh #8 — Genshin Impact","character":"Kaveh","series":"Genshin Impact"},
     "40043": {"prev":{"total":24110,"byRarity":{"1":0,"2":0,"3":22910,"4":897,"5":303,"6":0,"7":0}},"label":"Denia #14 — Wuthering Waves","character":"Denia","series":"Wuthering Waves"},
     "40089": {"prev":{"total":24345,"byRarity":{"1":0,"2":0,"3":23095,"4":966,"5":284,"6":0,"7":0}},"label":"Maomao #22 — The Apothecary Diaries","character":"Maomao","series":"The Apothecary Diaries"},
     "40030": {"prev":{"total":24281,"byRarity":{"1":0,"2":0,"3":23012,"4":965,"5":304,"6":0,"7":0}},"label":"​Cale Henituse #18 — Lout of Count's Family","character":"​Cale Henituse","series":"Lout of Count's Family"},
@@ -245,6 +245,6 @@
     "40350": {"prev":{"total":24032,"byRarity":{"1":0,"2":0,"3":22794,"4":947,"5":291,"6":0,"7":0}},"label":"Elysia #25 — Honkai Series","character":"Elysia","series":"Honkai Series"},
     "36854": {"prev":{"total":1215,"byRarity":{"1":0,"2":0,"3":1114,"4":76,"5":25,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38817": {"prev":{"total":843,"byRarity":{"1":0,"2":0,"3":782,"4":44,"5":17,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
-    "39099": {"prev":{"total":848,"byRarity":{"1":0,"2":0,"3":773,"4":62,"5":13,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"}
+    "39099": {"prev":{"total":847,"byRarity":{"1":0,"2":0,"3":772,"4":62,"5":13,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"}
   }
 }
