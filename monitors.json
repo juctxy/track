@@ -216,7 +216,7 @@
     "29705": {"prev":{"total":2682,"byRarity":{"1":0,"2":0,"3":2481,"4":151,"5":50,"6":0,"7":0}},"label":"Columbina #6 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "29706": {"prev":{"total":2700,"byRarity":{"1":0,"2":0,"3":2463,"4":167,"5":70,"6":0,"7":0}},"label":"Columbina #7 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "29707": {"prev":{"total":2676,"byRarity":{"1":0,"2":0,"3":2456,"4":163,"5":57,"6":0,"7":0}},"label":"Columbina #8 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
-    "29708": {"prev":{"total":2712,"byRarity":{"1":0,"2":0,"3":2495,"4":173,"5":44,"6":0,"7":0}},"label":"Columbina #9 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
+    "29708": {"prev":{"total":2713,"byRarity":{"1":0,"2":0,"3":2496,"4":173,"5":44,"6":0,"7":0}},"label":"Columbina #9 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "29820": {"prev":{"total":2668,"byRarity":{"1":0,"2":0,"3":2445,"4":170,"5":53,"6":0,"7":0}},"label":"Columbina #10 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "37275": {"prev":{"total":994,"byRarity":{"1":0,"2":0,"3":925,"4":54,"5":15,"6":0,"7":0}},"label":"Bang Chan #1 — Stray Kids","character":"Bang Chan","series":"Stray Kids"},
     "37280": {"prev":{"total":963,"byRarity":{"1":0,"2":0,"3":899,"4":53,"5":11,"6":0,"7":0}},"label":"Bang Chan #2 — Stray Kids","character":"Bang Chan","series":"Stray Kids"},
@@ -231,7 +231,7 @@
     "40406": {"prev":{"total":24690,"byRarity":{"1":0,"2":0,"3":23421,"4":967,"5":302,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"},
     "40059": {"prev":{"total":24370,"byRarity":{"1":0,"2":0,"3":23103,"4":957,"5":310,"6":0,"7":0}},"label":"Qifrey #7 — Witch Hat Atelier","character":"Qifrey","series":"Witch Hat Atelier"},
     "40003": {"prev":{"total":24087,"byRarity":{"1":0,"2":0,"3":22788,"4":1000,"5":299,"6":0,"7":0}},"label":"Frieren #31 — Frieren: Beyond Journey's End","character":"Frieren","series":"Frieren: Beyond Journey's End"},
-    "40356": {"prev":{"total":24363,"byRarity":{"1":0,"2":0,"3":23088,"4":963,"5":312,"6":0,"7":0}},"label":"Yoo Joonghyuk #20 — Omniscient Reader's Viewpoint","character":"Yoo Joonghyuk","series":"Omniscient Reader's Viewpoint"},
+    "40356": {"prev":{"total":24361,"byRarity":{"1":0,"2":0,"3":23086,"4":963,"5":312,"6":0,"7":0}},"label":"Yoo Joonghyuk #20 — Omniscient Reader's Viewpoint","character":"Yoo Joonghyuk","series":"Omniscient Reader's Viewpoint"},
     "40355": {"prev":{"total":24260,"byRarity":{"1":0,"2":0,"3":22983,"4":977,"5":300,"6":0,"7":0}},"label":"Kim Dokja #30 — Omniscient Reader's Viewpoint","character":"Kim Dokja","series":"Omniscient Reader's Viewpoint"},
     "40431": {"prev":{"total":24652,"byRarity":{"1":0,"2":0,"3":23439,"4":929,"5":284,"6":0,"7":0}},"label":"Reze #12 — Chainsaw Man","character":"Reze","series":"Chainsaw Man"},
     "40393": {"prev":{"total":24660,"byRarity":{"1":0,"2":0,"3":23375,"4":1005,"5":280,"6":0,"7":0}},"label":"Hatsune Miku #40 — Vocaloid","character":"Hatsune Miku","series":"Vocaloid"},
@@ -245,6 +245,6 @@
     "40350": {"prev":{"total":24161,"byRarity":{"1":0,"2":0,"3":22922,"4":948,"5":291,"6":0,"7":0}},"label":"Elysia #25 — Honkai Series","character":"Elysia","series":"Honkai Series"},
     "36854": {"prev":{"total":1217,"byRarity":{"1":0,"2":0,"3":1116,"4":76,"5":25,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38817": {"prev":{"total":842,"byRarity":{"1":0,"2":0,"3":781,"4":44,"5":17,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
-    "39099": {"prev":{"total":844,"byRarity":{"1":0,"2":0,"3":769,"4":62,"5":13,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"}
+    "39099": {"prev":{"total":845,"byRarity":{"1":0,"2":0,"3":770,"4":62,"5":13,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"}
   }
 }
