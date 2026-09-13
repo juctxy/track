@@ -11,5 +11,3 @@ __pycache__/
 
 # Environment variables / tokens
 .env
-
-.venv/
