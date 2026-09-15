@@ -164,9 +164,9 @@
     "38797": {"prev":{"total":910,"byRarity":{"1":0,"2":0,"3":845,"4":53,"5":12,"6":0,"7":0}},"label":"J3 #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"J3","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "38529": {"prev":{"total":980,"byRarity":{"1":0,"2":0,"3":907,"4":57,"5":16,"6":0,"7":0}},"label":"Kim Soleum #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "39152": {"prev":{"total":926,"byRarity":{"1":0,"2":0,"3":853,"4":53,"5":20,"6":0,"7":0}},"label":"Baek Saheon #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "12774": {"prev":{"total":4490,"byRarity":{"1":0,"2":0,"3":4078,"4":316,"5":96,"6":0,"7":0}},"label":"Emma #1 — Veil","character":"Emma","series":"Veil"},
+    "12774": {"prev":{"total":4491,"byRarity":{"1":0,"2":0,"3":4079,"4":316,"5":96,"6":0,"7":0}},"label":"Emma #1 — Veil","character":"Emma","series":"Veil"},
     "12775": {"prev":{"total":4307,"byRarity":{"1":0,"2":0,"3":3891,"4":316,"5":100,"6":0,"7":0}},"label":"Emma #2 — Veil","character":"Emma","series":"Veil"},
-    "12776": {"prev":{"total":4341,"byRarity":{"1":0,"2":0,"3":3913,"4":321,"5":107,"6":0,"7":0}},"label":"Emma #3 — Veil","character":"Emma","series":"Veil"},
+    "12776": {"prev":{"total":4342,"byRarity":{"1":0,"2":0,"3":3914,"4":321,"5":107,"6":0,"7":0}},"label":"Emma #3 — Veil","character":"Emma","series":"Veil"},
     "31298": {"prev":{"total":2443,"byRarity":{"1":0,"2":0,"3":2261,"4":146,"5":36,"6":0,"7":0}},"label":"Emma #4 — Veil","character":"Emma","series":"Veil"},
     "33060": {"prev":{"total":2156,"byRarity":{"1":0,"2":0,"3":1971,"4":141,"5":44,"6":0,"7":0}},"label":"Emma #5 — Veil","character":"Emma","series":"Veil"},
     "12158": {"prev":{"total":4348,"byRarity":{"1":0,"2":0,"3":3931,"4":322,"5":95,"6":0,"7":0}},"label":"Klein Moretti #1 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
@@ -201,7 +201,7 @@
     "801": {"prev":{"total":5596,"byRarity":{"1":0,"2":0,"3":5132,"4":365,"5":99,"6":0,"7":0}},"label":"Choso #1 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "802": {"prev":{"total":5561,"byRarity":{"1":0,"2":0,"3":5102,"4":347,"5":112,"6":0,"7":0}},"label":"Choso #2 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "31554": {"prev":{"total":2635,"byRarity":{"1":0,"2":0,"3":2436,"4":146,"5":53,"6":0,"7":0}},"label":"Choso #4 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
-    "31555": {"prev":{"total":2739,"byRarity":{"1":0,"2":0,"3":2543,"4":155,"5":41,"6":0,"7":0}},"label":"Choso #5 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
+    "31555": {"prev":{"total":2740,"byRarity":{"1":0,"2":0,"3":2544,"4":155,"5":41,"6":0,"7":0}},"label":"Choso #5 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "31556": {"prev":{"total":2685,"byRarity":{"1":0,"2":0,"3":2471,"4":163,"5":51,"6":0,"7":0}},"label":"Choso #6 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "32807": {"prev":{"total":2343,"byRarity":{"1":0,"2":0,"3":2160,"4":138,"5":45,"6":0,"7":0}},"label":"Choso #7 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "37823": {"prev":{"total":1153,"byRarity":{"1":0,"2":0,"3":1075,"4":58,"5":20,"6":0,"7":0}},"label":"Kamiina Botan #1 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
@@ -221,7 +221,7 @@
     "16014": {"prev":{"total":4224,"byRarity":{"1":0,"2":0,"3":3846,"4":271,"5":107,"6":0,"7":0}},"label":"Lucy #3 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
     "16015": {"prev":{"total":4213,"byRarity":{"1":0,"2":0,"3":3810,"4":303,"5":100,"6":0,"7":0}},"label":"Lucy #4 — Elfen Lied","character":"Lucy","series":"Elfen Lied"},
     "34941": {"prev":{"total":1599,"byRarity":{"1":0,"2":0,"3":1466,"4":93,"5":40,"6":0,"7":0}},"label":"Chinoi Momone #1 — Utaite","character":"Chinoi Momone","series":"Utaite"},
-    "34942": {"prev":{"total":1722,"byRarity":{"1":0,"2":0,"3":1582,"4":104,"5":36,"6":0,"7":0}},"label":"Chinoi Momone #2 — Utaite","character":"Chinoi Momone","series":"Utaite"},
+    "34942": {"prev":{"total":1721,"byRarity":{"1":0,"2":0,"3":1581,"4":104,"5":36,"6":0,"7":0}},"label":"Chinoi Momone #2 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34943": {"prev":{"total":1559,"byRarity":{"1":0,"2":0,"3":1431,"4":93,"5":35,"6":0,"7":0}},"label":"Chinoi Momone #3 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34622": {"prev":{"total":1729,"byRarity":{"1":0,"2":0,"3":1611,"4":88,"5":30,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "40406": {"prev":{"total":24204,"byRarity":{"1":0,"2":0,"3":22939,"4":963,"5":302,"6":0,"7":0}},"label":"Sandrone #4 — Genshin Impact","character":"Sandrone","series":"Genshin Impact"},
@@ -241,6 +241,6 @@
     "40350": {"prev":{"total":23607,"byRarity":{"1":0,"2":0,"3":22372,"4":944,"5":291,"6":0,"7":0}},"label":"Elysia #25 — Honkai Series","character":"Elysia","series":"Honkai Series"},
     "36854": {"prev":{"total":1287,"byRarity":{"1":0,"2":0,"3":1181,"4":81,"5":25,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38817": {"prev":{"total":905,"byRarity":{"1":0,"2":0,"3":841,"4":47,"5":17,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
-    "39099": {"prev":{"total":900,"byRarity":{"1":0,"2":0,"3":818,"4":68,"5":14,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"}
+    "39099": {"prev":{"total":901,"byRarity":{"1":0,"2":0,"3":819,"4":68,"5":14,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"}
   }
 }
