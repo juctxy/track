@@ -109,7 +109,7 @@
   "cards": {
     "28494": {"prev":{"total":2867,"byRarity":{"1":0,"2":0,"3":2619,"4":185,"5":63,"6":0,"7":0}},"label":"Kim Soleum #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25554": {"prev":{"total":3706,"byRarity":{"1":0,"2":0,"3":3359,"4":247,"5":100,"6":0,"7":0}},"label":"Kim Soleum #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "25553": {"prev":{"total":3582,"byRarity":{"1":0,"2":0,"3":3264,"4":240,"5":78,"6":0,"7":0}},"label":"Kim Soleum #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "25553": {"prev":{"total":3583,"byRarity":{"1":0,"2":0,"3":3265,"4":240,"5":78,"6":0,"7":0}},"label":"Kim Soleum #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36521": {"prev":{"total":1429,"byRarity":{"1":0,"2":0,"3":1332,"4":71,"5":26,"6":0,"7":0}},"label":"Kim Soleum #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36901": {"prev":{"total":1267,"byRarity":{"1":0,"2":0,"3":1180,"4":70,"5":17,"6":0,"7":0}},"label":"Baek Saheon #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36900": {"prev":{"total":1338,"byRarity":{"1":0,"2":0,"3":1232,"4":75,"5":31,"6":0,"7":0}},"label":"Baek Saheon #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
@@ -160,7 +160,7 @@
     "27208": {"prev":{"total":3179,"byRarity":{"1":0,"2":0,"3":2890,"4":218,"5":71,"6":0,"7":0}},"label":"Klein Moretti #9 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "27250": {"prev":{"total":3066,"byRarity":{"1":0,"2":0,"3":2798,"4":201,"5":67,"6":0,"7":0}},"label":"Klein Moretti #10 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "27251": {"prev":{"total":3154,"byRarity":{"1":0,"2":0,"3":2889,"4":191,"5":74,"6":0,"7":0}},"label":"Klein Moretti #11 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
-    "29374": {"prev":{"total":2578,"byRarity":{"1":0,"2":0,"3":2366,"4":159,"5":53,"6":0,"7":0}},"label":"Klein Moretti #13 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
+    "29374": {"prev":{"total":2579,"byRarity":{"1":0,"2":0,"3":2367,"4":159,"5":53,"6":0,"7":0}},"label":"Klein Moretti #13 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "29375": {"prev":{"total":2510,"byRarity":{"1":0,"2":0,"3":2301,"4":155,"5":54,"6":0,"7":0}},"label":"Klein Moretti #14 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "29531": {"prev":{"total":2492,"byRarity":{"1":0,"2":0,"3":2261,"4":163,"5":68,"6":0,"7":0}},"label":"Klein Moretti #15 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "29536": {"prev":{"total":2493,"byRarity":{"1":0,"2":0,"3":2309,"4":138,"5":46,"6":0,"7":0}},"label":"Klein Moretti #16 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
@@ -171,7 +171,7 @@
     "32474": {"prev":{"total":2112,"byRarity":{"1":0,"2":0,"3":1919,"4":145,"5":48,"6":0,"7":0}},"label":"Klein Moretti #22 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "39307": {"prev":{"total":884,"byRarity":{"1":0,"2":0,"3":845,"4":26,"5":13,"6":0,"7":0}},"label":"Klein Moretti #24 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "39308": {"prev":{"total":836,"byRarity":{"1":0,"2":0,"3":771,"4":49,"5":16,"6":0,"7":0}},"label":"Klein Moretti #25 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
-    "2927": {"prev":{"total":5455,"byRarity":{"1":0,"2":0,"3":5001,"4":351,"5":103,"6":0,"7":0}},"label":"Childe #1 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
+    "2927": {"prev":{"total":5454,"byRarity":{"1":0,"2":0,"3":5000,"4":351,"5":103,"6":0,"7":0}},"label":"Childe #1 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "2928": {"prev":{"total":5437,"byRarity":{"1":0,"2":0,"3":4973,"4":359,"5":105,"6":0,"7":0}},"label":"Childe #2 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "2929": {"prev":{"total":5541,"byRarity":{"1":0,"2":0,"3":5116,"4":332,"5":93,"6":0,"7":0}},"label":"Childe #3 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "2930": {"prev":{"total":5399,"byRarity":{"1":0,"2":0,"3":4956,"4":354,"5":89,"6":0,"7":0}},"label":"Childe #4 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
@@ -205,6 +205,6 @@
     "41420": {"prev":{"total":259,"byRarity":{"1":0,"2":0,"3":248,"4":7,"5":4,"6":0,"7":0}},"label":"Braun #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36854": {"prev":{"total":1318,"byRarity":{"1":0,"2":0,"3":1211,"4":82,"5":25,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38817": {"prev":{"total":937,"byRarity":{"1":0,"2":0,"3":873,"4":47,"5":17,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
-    "39099": {"prev":{"total":928,"byRarity":{"1":0,"2":0,"3":842,"4":72,"5":14,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"}
+    "39099": {"prev":{"total":927,"byRarity":{"1":0,"2":0,"3":841,"4":72,"5":14,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"}
   }
 }
