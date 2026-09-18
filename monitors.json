@@ -142,7 +142,7 @@
     "37282": {"prev":{"total":1115,"byRarity":{"1":0,"2":0,"3":1037,"4":52,"5":26,"6":0,"7":0}},"label":"Jeonghan #2 — SEVENTEEN","character":"Jeonghan","series":"SEVENTEEN"},
     "37277": {"prev":{"total":1041,"byRarity":{"1":0,"2":0,"3":976,"4":50,"5":15,"6":0,"7":0}},"label":"Jeonghan #1 — SEVENTEEN","character":"Jeonghan","series":"SEVENTEEN"},
     "37309": {"prev":{"total":1070,"byRarity":{"1":0,"2":0,"3":987,"4":65,"5":18,"6":0,"7":0}},"label":"Rui #1 — XLOV","character":"Rui","series":"XLOV"},
-    "37323": {"prev":{"total":1010,"byRarity":{"1":0,"2":0,"3":935,"4":54,"5":21,"6":0,"7":0}},"label":"Rui #4 — XLOV","character":"Rui","series":"XLOV"},
+    "37323": {"prev":{"total":1011,"byRarity":{"1":0,"2":0,"3":936,"4":54,"5":21,"6":0,"7":0}},"label":"Rui #4 — XLOV","character":"Rui","series":"XLOV"},
     "38797": {"prev":{"total":949,"byRarity":{"1":0,"2":0,"3":883,"4":54,"5":12,"6":0,"7":0}},"label":"J3 #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"J3","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "38529": {"prev":{"total":1009,"byRarity":{"1":0,"2":0,"3":935,"4":58,"5":16,"6":0,"7":0}},"label":"Kim Soleum #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "39152": {"prev":{"total":960,"byRarity":{"1":0,"2":0,"3":886,"4":54,"5":20,"6":0,"7":0}},"label":"Baek Saheon #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
@@ -180,7 +180,7 @@
     "20563": {"prev":{"total":4397,"byRarity":{"1":0,"2":0,"3":4045,"4":274,"5":78,"6":0,"7":0}},"label":"Childe #7 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "28405": {"prev":{"total":3171,"byRarity":{"1":0,"2":0,"3":2931,"4":191,"5":49,"6":0,"7":0}},"label":"Childe #10 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "39175": {"prev":{"total":956,"byRarity":{"1":0,"2":0,"3":899,"4":42,"5":15,"6":0,"7":0}},"label":"Childe #12 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
-    "801": {"prev":{"total":5630,"byRarity":{"1":0,"2":0,"3":5163,"4":368,"5":99,"6":0,"7":0}},"label":"Choso #1 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
+    "801": {"prev":{"total":5631,"byRarity":{"1":0,"2":0,"3":5164,"4":368,"5":99,"6":0,"7":0}},"label":"Choso #1 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "802": {"prev":{"total":5602,"byRarity":{"1":0,"2":0,"3":5142,"4":347,"5":113,"6":0,"7":0}},"label":"Choso #2 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "31554": {"prev":{"total":2664,"byRarity":{"1":0,"2":0,"3":2463,"4":148,"5":53,"6":0,"7":0}},"label":"Choso #4 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "31555": {"prev":{"total":2767,"byRarity":{"1":0,"2":0,"3":2569,"4":157,"5":41,"6":0,"7":0}},"label":"Choso #5 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
@@ -202,8 +202,8 @@
     "34942": {"prev":{"total":1750,"byRarity":{"1":0,"2":0,"3":1607,"4":107,"5":36,"6":0,"7":0}},"label":"Chinoi Momone #2 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34943": {"prev":{"total":1589,"byRarity":{"1":0,"2":0,"3":1458,"4":94,"5":37,"6":0,"7":0}},"label":"Chinoi Momone #3 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34622": {"prev":{"total":1759,"byRarity":{"1":0,"2":0,"3":1641,"4":88,"5":30,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
-    "41420": {"prev":{"total":261,"byRarity":{"1":0,"2":0,"3":250,"4":7,"5":4,"6":0,"7":0}},"label":"Braun #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "36854": {"prev":{"total":1322,"byRarity":{"1":0,"2":0,"3":1215,"4":82,"5":25,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
+    "41420": {"prev":{"total":262,"byRarity":{"1":0,"2":0,"3":251,"4":7,"5":4,"6":0,"7":0}},"label":"Braun #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "36854": {"prev":{"total":1323,"byRarity":{"1":0,"2":0,"3":1216,"4":82,"5":25,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38817": {"prev":{"total":940,"byRarity":{"1":0,"2":0,"3":876,"4":47,"5":17,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "39099": {"prev":{"total":925,"byRarity":{"1":0,"2":0,"3":839,"4":72,"5":14,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"}
   }
