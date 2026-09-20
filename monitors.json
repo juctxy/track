@@ -109,7 +109,7 @@
   "cards": {
     "28494": {"prev":{"total":2888,"byRarity":{"1":0,"2":0,"3":2641,"4":184,"5":63,"6":0,"7":0}},"label":"Kim Soleum #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25554": {"prev":{"total":3721,"byRarity":{"1":0,"2":0,"3":3373,"4":248,"5":100,"6":0,"7":0}},"label":"Kim Soleum #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "25553": {"prev":{"total":3599,"byRarity":{"1":0,"2":0,"3":3281,"4":240,"5":78,"6":0,"7":0}},"label":"Kim Soleum #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "25553": {"prev":{"total":3600,"byRarity":{"1":0,"2":0,"3":3282,"4":240,"5":78,"6":0,"7":0}},"label":"Kim Soleum #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36521": {"prev":{"total":1442,"byRarity":{"1":0,"2":0,"3":1345,"4":71,"5":26,"6":0,"7":0}},"label":"Kim Soleum #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36901": {"prev":{"total":1291,"byRarity":{"1":0,"2":0,"3":1204,"4":70,"5":17,"6":0,"7":0}},"label":"Baek Saheon #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36900": {"prev":{"total":1359,"byRarity":{"1":0,"2":0,"3":1252,"4":76,"5":31,"6":0,"7":0}},"label":"Baek Saheon #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
@@ -187,7 +187,7 @@
     "31556": {"prev":{"total":2738,"byRarity":{"1":0,"2":0,"3":2521,"4":166,"5":51,"6":0,"7":0}},"label":"Choso #6 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "32807": {"prev":{"total":2390,"byRarity":{"1":0,"2":0,"3":2203,"4":142,"5":45,"6":0,"7":0}},"label":"Choso #7 — Jujutsu Kaisen","character":"Choso","series":"Jujutsu Kaisen"},
     "37823": {"prev":{"total":1188,"byRarity":{"1":0,"2":0,"3":1108,"4":60,"5":20,"6":0,"7":0}},"label":"Kamiina Botan #1 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
-    "37824": {"prev":{"total":1172,"byRarity":{"1":0,"2":0,"3":1076,"4":72,"5":24,"6":0,"7":0}},"label":"Kamiina Botan #2 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
+    "37824": {"prev":{"total":1171,"byRarity":{"1":0,"2":0,"3":1075,"4":72,"5":24,"6":0,"7":0}},"label":"Kamiina Botan #2 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "37825": {"prev":{"total":1191,"byRarity":{"1":0,"2":0,"3":1086,"4":66,"5":39,"6":0,"7":0}},"label":"Kamiina Botan #3 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "37826": {"prev":{"total":1236,"byRarity":{"1":0,"2":0,"3":1137,"4":74,"5":25,"6":0,"7":0}},"label":"Kamiina Botan #4 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "27332": {"prev":{"total":3491,"byRarity":{"1":0,"2":0,"3":3236,"4":188,"5":67,"6":0,"7":0}},"label":"Columbina #2 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
@@ -204,7 +204,7 @@
     "34622": {"prev":{"total":1774,"byRarity":{"1":0,"2":0,"3":1654,"4":90,"5":30,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "41420": {"prev":{"total":275,"byRarity":{"1":0,"2":0,"3":263,"4":8,"5":4,"6":0,"7":0}},"label":"Braun #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36854": {"prev":{"total":1343,"byRarity":{"1":0,"2":0,"3":1233,"4":84,"5":26,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
-    "38817": {"prev":{"total":958,"byRarity":{"1":0,"2":0,"3":893,"4":48,"5":17,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
+    "38817": {"prev":{"total":957,"byRarity":{"1":0,"2":0,"3":892,"4":48,"5":17,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "39099": {"prev":{"total":938,"byRarity":{"1":0,"2":0,"3":853,"4":71,"5":14,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"}
   }
 }
