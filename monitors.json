@@ -121,7 +121,7 @@
     "33615": {"prev":{"total":1899,"byRarity":{"1":0,"2":0,"3":1736,"4":121,"5":42,"6":0,"7":0}},"label":"Ahn Pyeong-hwa #1 — Master-Peace","character":"Ahn Pyeong-hwa","series":"Master-Peace"},
     "33900": {"prev":{"total":1964,"byRarity":{"1":0,"2":0,"3":1808,"4":121,"5":35,"6":0,"7":0}},"label":"Ju Incheol #4 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
     "33899": {"prev":{"total":1908,"byRarity":{"1":0,"2":0,"3":1754,"4":116,"5":38,"6":0,"7":0}},"label":"Ju Incheol #3 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
-    "33898": {"prev":{"total":1936,"byRarity":{"1":0,"2":0,"3":1781,"4":122,"5":33,"6":0,"7":0}},"label":"Ju Incheol #2 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
+    "33898": {"prev":{"total":1937,"byRarity":{"1":0,"2":0,"3":1782,"4":122,"5":33,"6":0,"7":0}},"label":"Ju Incheol #2 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
     "33616": {"prev":{"total":2002,"byRarity":{"1":0,"2":0,"3":1832,"4":125,"5":45,"6":0,"7":0}},"label":"Ju Incheol #1 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
     "36531": {"prev":{"total":1398,"byRarity":{"1":0,"2":0,"3":1291,"4":81,"5":26,"6":0,"7":0}},"label":"Braun #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36412": {"prev":{"total":1494,"byRarity":{"1":0,"2":0,"3":1395,"4":68,"5":31,"6":0,"7":0}},"label":"Lee Jaheon #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Lee Jaheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
@@ -156,11 +156,11 @@
     "12160": {"prev":{"total":4430,"byRarity":{"1":0,"2":0,"3":3980,"4":348,"5":102,"6":0,"7":0}},"label":"Klein Moretti #3 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12161": {"prev":{"total":4448,"byRarity":{"1":0,"2":0,"3":4051,"4":314,"5":83,"6":0,"7":0}},"label":"Klein Moretti #4 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12162": {"prev":{"total":4466,"byRarity":{"1":0,"2":0,"3":4053,"4":310,"5":103,"6":0,"7":0}},"label":"Klein Moretti #5 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
-    "12163": {"prev":{"total":4481,"byRarity":{"1":0,"2":0,"3":4064,"4":302,"5":115,"6":0,"7":0}},"label":"Klein Moretti #6 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
+    "12163": {"prev":{"total":4482,"byRarity":{"1":0,"2":0,"3":4065,"4":302,"5":115,"6":0,"7":0}},"label":"Klein Moretti #6 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "27208": {"prev":{"total":3198,"byRarity":{"1":0,"2":0,"3":2908,"4":219,"5":71,"6":0,"7":0}},"label":"Klein Moretti #9 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "27250": {"prev":{"total":3080,"byRarity":{"1":0,"2":0,"3":2811,"4":202,"5":67,"6":0,"7":0}},"label":"Klein Moretti #10 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "27251": {"prev":{"total":3167,"byRarity":{"1":0,"2":0,"3":2902,"4":191,"5":74,"6":0,"7":0}},"label":"Klein Moretti #11 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
-    "29374": {"prev":{"total":2589,"byRarity":{"1":0,"2":0,"3":2378,"4":158,"5":53,"6":0,"7":0}},"label":"Klein Moretti #13 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
+    "29374": {"prev":{"total":2588,"byRarity":{"1":0,"2":0,"3":2377,"4":158,"5":53,"6":0,"7":0}},"label":"Klein Moretti #13 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "29375": {"prev":{"total":2527,"byRarity":{"1":0,"2":0,"3":2317,"4":156,"5":54,"6":0,"7":0}},"label":"Klein Moretti #14 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "29531": {"prev":{"total":2505,"byRarity":{"1":0,"2":0,"3":2273,"4":164,"5":68,"6":0,"7":0}},"label":"Klein Moretti #15 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "29536": {"prev":{"total":2508,"byRarity":{"1":0,"2":0,"3":2323,"4":138,"5":47,"6":0,"7":0}},"label":"Klein Moretti #16 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
@@ -205,6 +205,6 @@
     "41420": {"prev":{"total":275,"byRarity":{"1":0,"2":0,"3":263,"4":8,"5":4,"6":0,"7":0}},"label":"Braun #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36854": {"prev":{"total":1343,"byRarity":{"1":0,"2":0,"3":1233,"4":84,"5":26,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38817": {"prev":{"total":956,"byRarity":{"1":0,"2":0,"3":891,"4":48,"5":17,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
-    "39099": {"prev":{"total":940,"byRarity":{"1":0,"2":0,"3":854,"4":72,"5":14,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"}
+    "39099": {"prev":{"total":941,"byRarity":{"1":0,"2":0,"3":855,"4":72,"5":14,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"}
   }
 }
