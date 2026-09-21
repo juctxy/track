@@ -107,7 +107,7 @@
     }
   },
   "cards": {
-    "28494": {"prev":{"total":2901,"byRarity":{"1":0,"2":0,"3":2653,"4":185,"5":63,"6":0,"7":0}},"label":"Kim Soleum #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "28494": {"prev":{"total":2902,"byRarity":{"1":0,"2":0,"3":2654,"4":185,"5":63,"6":0,"7":0}},"label":"Kim Soleum #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25554": {"prev":{"total":3724,"byRarity":{"1":0,"2":0,"3":3376,"4":249,"5":99,"6":0,"7":0}},"label":"Kim Soleum #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25553": {"prev":{"total":3610,"byRarity":{"1":0,"2":0,"3":3292,"4":240,"5":78,"6":0,"7":0}},"label":"Kim Soleum #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36521": {"prev":{"total":1457,"byRarity":{"1":0,"2":0,"3":1358,"4":73,"5":26,"6":0,"7":0}},"label":"Kim Soleum #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
@@ -152,7 +152,7 @@
     "31298": {"prev":{"total":2520,"byRarity":{"1":0,"2":0,"3":2333,"4":149,"5":38,"6":0,"7":0}},"label":"Emma #4 — Veil","character":"Emma","series":"Veil"},
     "33060": {"prev":{"total":2238,"byRarity":{"1":0,"2":0,"3":2051,"4":143,"5":44,"6":0,"7":0}},"label":"Emma #5 — Veil","character":"Emma","series":"Veil"},
     "12158": {"prev":{"total":4389,"byRarity":{"1":0,"2":0,"3":3970,"4":323,"5":96,"6":0,"7":0}},"label":"Klein Moretti #1 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
-    "12159": {"prev":{"total":4517,"byRarity":{"1":0,"2":0,"3":4089,"4":333,"5":95,"6":0,"7":0}},"label":"Klein Moretti #2 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
+    "12159": {"prev":{"total":4518,"byRarity":{"1":0,"2":0,"3":4089,"4":334,"5":95,"6":0,"7":0}},"label":"Klein Moretti #2 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12160": {"prev":{"total":4449,"byRarity":{"1":0,"2":0,"3":3999,"4":348,"5":102,"6":0,"7":0}},"label":"Klein Moretti #3 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12161": {"prev":{"total":4446,"byRarity":{"1":0,"2":0,"3":4048,"4":315,"5":83,"6":0,"7":0}},"label":"Klein Moretti #4 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12162": {"prev":{"total":4470,"byRarity":{"1":0,"2":0,"3":4057,"4":310,"5":103,"6":0,"7":0}},"label":"Klein Moretti #5 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
@@ -168,7 +168,7 @@
     "31294": {"prev":{"total":2464,"byRarity":{"1":0,"2":0,"3":2258,"4":157,"5":49,"6":0,"7":0}},"label":"Klein Moretti #18 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "31809": {"prev":{"total":2394,"byRarity":{"1":0,"2":0,"3":2205,"4":156,"5":33,"6":0,"7":0}},"label":"Klein Moretti #19 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "32398": {"prev":{"total":2243,"byRarity":{"1":0,"2":0,"3":2060,"4":127,"5":56,"6":0,"7":0}},"label":"Klein Moretti #21 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
-    "32474": {"prev":{"total":2142,"byRarity":{"1":0,"2":0,"3":1949,"4":145,"5":48,"6":0,"7":0}},"label":"Klein Moretti #22 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
+    "32474": {"prev":{"total":2143,"byRarity":{"1":0,"2":0,"3":1950,"4":145,"5":48,"6":0,"7":0}},"label":"Klein Moretti #22 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "39307": {"prev":{"total":902,"byRarity":{"1":0,"2":0,"3":863,"4":26,"5":13,"6":0,"7":0}},"label":"Klein Moretti #24 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "39308": {"prev":{"total":862,"byRarity":{"1":0,"2":0,"3":798,"4":48,"5":16,"6":0,"7":0}},"label":"Klein Moretti #25 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "2927": {"prev":{"total":5484,"byRarity":{"1":0,"2":0,"3":5028,"4":353,"5":103,"6":0,"7":0}},"label":"Childe #1 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
@@ -203,7 +203,7 @@
     "34943": {"prev":{"total":1620,"byRarity":{"1":0,"2":0,"3":1488,"4":94,"5":38,"6":0,"7":0}},"label":"Chinoi Momone #3 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34622": {"prev":{"total":1782,"byRarity":{"1":0,"2":0,"3":1661,"4":91,"5":30,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "41420": {"prev":{"total":286,"byRarity":{"1":0,"2":0,"3":273,"4":9,"5":4,"6":0,"7":0}},"label":"Braun #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "36854": {"prev":{"total":1356,"byRarity":{"1":0,"2":0,"3":1245,"4":85,"5":26,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
+    "36854": {"prev":{"total":1357,"byRarity":{"1":0,"2":0,"3":1246,"4":85,"5":26,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38817": {"prev":{"total":959,"byRarity":{"1":0,"2":0,"3":893,"4":49,"5":17,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "39099": {"prev":{"total":957,"byRarity":{"1":0,"2":0,"3":871,"4":72,"5":14,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"}
   }
