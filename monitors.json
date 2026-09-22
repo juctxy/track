@@ -108,7 +108,7 @@
     }
   },
   "cards": {
-    "28494": {"prev":{"total":2899,"byRarity":{"1":0,"2":0,"3":2651,"4":185,"5":63,"6":0,"7":0}},"label":"Kim Soleum #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "28494": {"prev":{"total":2900,"byRarity":{"1":0,"2":0,"3":2652,"4":185,"5":63,"6":0,"7":0}},"label":"Kim Soleum #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25554": {"prev":{"total":3726,"byRarity":{"1":0,"2":0,"3":3378,"4":249,"5":99,"6":0,"7":0}},"label":"Kim Soleum #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25553": {"prev":{"total":3611,"byRarity":{"1":0,"2":0,"3":3293,"4":240,"5":78,"6":0,"7":0}},"label":"Kim Soleum #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36521": {"prev":{"total":1468,"byRarity":{"1":0,"2":0,"3":1368,"4":73,"5":27,"6":0,"7":0}},"label":"Kim Soleum #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
@@ -195,7 +195,7 @@
     "27333": {"prev":{"total":3646,"byRarity":{"1":0,"2":0,"3":3348,"4":221,"5":77,"6":0,"7":0}},"label":"Columbina #3 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "29704": {"prev":{"total":2820,"byRarity":{"1":0,"2":0,"3":2596,"4":160,"5":64,"6":0,"7":0}},"label":"Columbina #5 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "29705": {"prev":{"total":2796,"byRarity":{"1":0,"2":0,"3":2589,"4":154,"5":53,"6":0,"7":0}},"label":"Columbina #6 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
-    "29706": {"prev":{"total":2820,"byRarity":{"1":0,"2":0,"3":2575,"4":173,"5":72,"6":0,"7":0}},"label":"Columbina #7 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
+    "29706": {"prev":{"total":2821,"byRarity":{"1":0,"2":0,"3":2576,"4":173,"5":72,"6":0,"7":0}},"label":"Columbina #7 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "29707": {"prev":{"total":2796,"byRarity":{"1":0,"2":0,"3":2571,"4":165,"5":60,"6":0,"7":0}},"label":"Columbina #8 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "29708": {"prev":{"total":2866,"byRarity":{"1":0,"2":0,"3":2646,"4":176,"5":44,"6":0,"7":0}},"label":"Columbina #9 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "29820": {"prev":{"total":2789,"byRarity":{"1":0,"2":0,"3":2553,"4":176,"5":60,"6":0,"7":0}},"label":"Columbina #10 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
