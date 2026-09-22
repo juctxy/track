@@ -103,7 +103,8 @@
     "1141255266986369134": {
       "36854": {"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","a":6,"ch":1520598716434747603},
       "38817": {"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","a":6,"ch":1520598716434747603},
-      "39099": {"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","a":6,"ch":1520598716434747603}
+      "39099": {"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","a":6,"ch":1520598716434747603},
+      "38563": {"label":"Tsukasa Tenma #17 — Project SEKAI: Colorful Stage!","a":6,"ch":1520598716434747603}
     }
   },
   "cards": {
@@ -127,7 +128,7 @@
     "36412": {"prev":{"total":1507,"byRarity":{"1":0,"2":0,"3":1408,"4":68,"5":31,"6":0,"7":0}},"label":"Lee Jaheon #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Lee Jaheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "31025": {"prev":{"total":2526,"byRarity":{"1":0,"2":0,"3":2300,"4":162,"5":64,"6":0,"7":0}},"label":"Lee Seonghae #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Lee Seonghae","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "31024": {"prev":{"total":2415,"byRarity":{"1":0,"2":0,"3":2210,"4":148,"5":57,"6":0,"7":0}},"label":"Jin Nasol #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Jin Nasol","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "28524": {"prev":{"total":2870,"byRarity":{"1":0,"2":0,"3":2643,"4":175,"5":52,"6":0,"7":0}},"label":"Lee Jaheon #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Lee Jaheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "28524": {"prev":{"total":2871,"byRarity":{"1":0,"2":0,"3":2644,"4":175,"5":52,"6":0,"7":0}},"label":"Lee Jaheon #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Lee Jaheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "28523": {"prev":{"total":2814,"byRarity":{"1":0,"2":0,"3":2556,"4":177,"5":81,"6":0,"7":0}},"label":"Agent Choi #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Agent Choi","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "28499": {"prev":{"total":2875,"byRarity":{"1":0,"2":0,"3":2616,"4":194,"5":65,"6":0,"7":0}},"label":"Ryu Jaekwan #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Ryu Jaekwan","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "28498": {"prev":{"total":2941,"byRarity":{"1":0,"2":0,"3":2680,"4":200,"5":61,"6":0,"7":0}},"label":"Braun #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
@@ -135,7 +136,7 @@
     "28495": {"prev":{"total":2867,"byRarity":{"1":0,"2":0,"3":2619,"4":187,"5":61,"6":0,"7":0}},"label":"Eun Haje #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Eun Haje","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "28496": {"prev":{"total":2903,"byRarity":{"1":0,"2":0,"3":2638,"4":201,"5":64,"6":0,"7":0}},"label":"Park Minseong #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Park Minseong","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25558": {"prev":{"total":3628,"byRarity":{"1":0,"2":0,"3":3304,"4":246,"5":78,"6":0,"7":0}},"label":"Agent Choi #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Agent Choi","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "25557": {"prev":{"total":3709,"byRarity":{"1":0,"2":0,"3":3395,"4":241,"5":73,"6":0,"7":0}},"label":"Go Yeongeun #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Go Yeongeun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "25557": {"prev":{"total":3710,"byRarity":{"1":0,"2":0,"3":3396,"4":241,"5":73,"6":0,"7":0}},"label":"Go Yeongeun #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Go Yeongeun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25556": {"prev":{"total":3605,"byRarity":{"1":0,"2":0,"3":3294,"4":219,"5":92,"6":0,"7":0}},"label":"Park Minseong #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Park Minseong","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25555": {"prev":{"total":3565,"byRarity":{"1":0,"2":0,"3":3223,"4":252,"5":90,"6":0,"7":0}},"label":"Eun Haje #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Eun Haje","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "37287": {"prev":{"total":1101,"byRarity":{"1":0,"2":0,"3":1029,"4":57,"5":15,"6":0,"7":0}},"label":"Jeonghan #3 — SEVENTEEN","character":"Jeonghan","series":"SEVENTEEN"},
@@ -147,7 +148,7 @@
     "38529": {"prev":{"total":1032,"byRarity":{"1":0,"2":0,"3":956,"4":60,"5":16,"6":0,"7":0}},"label":"Kim Soleum #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "39152": {"prev":{"total":994,"byRarity":{"1":0,"2":0,"3":920,"4":54,"5":20,"6":0,"7":0}},"label":"Baek Saheon #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "12774": {"prev":{"total":4550,"byRarity":{"1":0,"2":0,"3":4134,"4":320,"5":96,"6":0,"7":0}},"label":"Emma #1 — Veil","character":"Emma","series":"Veil"},
-    "12775": {"prev":{"total":4371,"byRarity":{"1":0,"2":0,"3":3948,"4":323,"5":100,"6":0,"7":0}},"label":"Emma #2 — Veil","character":"Emma","series":"Veil"},
+    "12775": {"prev":{"total":4372,"byRarity":{"1":0,"2":0,"3":3949,"4":323,"5":100,"6":0,"7":0}},"label":"Emma #2 — Veil","character":"Emma","series":"Veil"},
     "12776": {"prev":{"total":4401,"byRarity":{"1":0,"2":0,"3":3967,"4":323,"5":111,"6":0,"7":0}},"label":"Emma #3 — Veil","character":"Emma","series":"Veil"},
     "31298": {"prev":{"total":2528,"byRarity":{"1":0,"2":0,"3":2341,"4":149,"5":38,"6":0,"7":0}},"label":"Emma #4 — Veil","character":"Emma","series":"Veil"},
     "33060": {"prev":{"total":2241,"byRarity":{"1":0,"2":0,"3":2054,"4":143,"5":44,"6":0,"7":0}},"label":"Emma #5 — Veil","character":"Emma","series":"Veil"},
@@ -202,9 +203,10 @@
     "34942": {"prev":{"total":1767,"byRarity":{"1":0,"2":0,"3":1623,"4":108,"5":36,"6":0,"7":0}},"label":"Chinoi Momone #2 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34943": {"prev":{"total":1618,"byRarity":{"1":0,"2":0,"3":1484,"4":95,"5":39,"6":0,"7":0}},"label":"Chinoi Momone #3 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34622": {"prev":{"total":1785,"byRarity":{"1":0,"2":0,"3":1663,"4":92,"5":30,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
-    "41420": {"prev":{"total":287,"byRarity":{"1":0,"2":0,"3":274,"4":9,"5":4,"6":0,"7":0}},"label":"Braun #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "41420": {"prev":{"total":288,"byRarity":{"1":0,"2":0,"3":275,"4":9,"5":4,"6":0,"7":0}},"label":"Braun #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36854": {"prev":{"total":1366,"byRarity":{"1":0,"2":0,"3":1254,"4":86,"5":26,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38817": {"prev":{"total":971,"byRarity":{"1":0,"2":0,"3":904,"4":50,"5":17,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
-    "39099": {"prev":{"total":964,"byRarity":{"1":0,"2":0,"3":878,"4":72,"5":14,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"}
+    "39099": {"prev":{"total":964,"byRarity":{"1":0,"2":0,"3":878,"4":72,"5":14,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
+    "38563": {"prev":{"total":1032,"byRarity":{"1":0,"2":0,"3":956,"4":62,"5":14,"6":0,"7":0}},"label":"Tsukasa Tenma #17 — Project SEKAI: Colorful Stage!","character":"Tsukasa Tenma","series":"Project SEKAI: Colorful Stage!"}
   }
 }
