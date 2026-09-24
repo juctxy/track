@@ -174,7 +174,7 @@
     "39308": {"prev":{"total":888,"byRarity":{"1":0,"2":0,"3":822,"4":50,"5":16,"6":0,"7":0}},"label":"Klein Moretti #25 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "2927": {"prev":{"total":5500,"byRarity":{"1":0,"2":0,"3":5044,"4":353,"5":103,"6":0,"7":0}},"label":"Childe #1 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "2928": {"prev":{"total":5492,"byRarity":{"1":0,"2":0,"3":5027,"4":360,"5":105,"6":0,"7":0}},"label":"Childe #2 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
-    "2929": {"prev":{"total":5585,"byRarity":{"1":0,"2":0,"3":5159,"4":332,"5":94,"6":0,"7":0}},"label":"Childe #3 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
+    "2929": {"prev":{"total":5586,"byRarity":{"1":0,"2":0,"3":5159,"4":333,"5":94,"6":0,"7":0}},"label":"Childe #3 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "2930": {"prev":{"total":5431,"byRarity":{"1":0,"2":0,"3":4985,"4":356,"5":90,"6":0,"7":0}},"label":"Childe #4 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "5729": {"prev":{"total":5477,"byRarity":{"1":0,"2":0,"3":5044,"4":336,"5":97,"6":0,"7":0}},"label":"Childe #5 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "5730": {"prev":{"total":5387,"byRarity":{"1":0,"2":0,"3":4918,"4":365,"5":104,"6":0,"7":0}},"label":"Childe #6 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
@@ -207,6 +207,6 @@
     "36854": {"prev":{"total":1381,"byRarity":{"1":0,"2":0,"3":1269,"4":86,"5":26,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38817": {"prev":{"total":982,"byRarity":{"1":0,"2":0,"3":915,"4":50,"5":17,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "39099": {"prev":{"total":977,"byRarity":{"1":0,"2":0,"3":891,"4":72,"5":14,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
-    "38563": {"prev":{"total":1036,"byRarity":{"1":0,"2":0,"3":960,"4":62,"5":14,"6":0,"7":0}},"label":"Tsukasa Tenma #17 — Project SEKAI: Colorful Stage!","character":"Tsukasa Tenma","series":"Project SEKAI: Colorful Stage!"}
+    "38563": {"prev":{"total":1037,"byRarity":{"1":0,"2":0,"3":961,"4":62,"5":14,"6":0,"7":0}},"label":"Tsukasa Tenma #17 — Project SEKAI: Colorful Stage!","character":"Tsukasa Tenma","series":"Project SEKAI: Colorful Stage!"}
   }
 }
