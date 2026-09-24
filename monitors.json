@@ -175,7 +175,7 @@
     "2927": {"prev":{"total":5500,"byRarity":{"1":0,"2":0,"3":5044,"4":353,"5":103,"6":0,"7":0}},"label":"Childe #1 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "2928": {"prev":{"total":5492,"byRarity":{"1":0,"2":0,"3":5027,"4":360,"5":105,"6":0,"7":0}},"label":"Childe #2 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "2929": {"prev":{"total":5585,"byRarity":{"1":0,"2":0,"3":5159,"4":332,"5":94,"6":0,"7":0}},"label":"Childe #3 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
-    "2930": {"prev":{"total":5430,"byRarity":{"1":0,"2":0,"3":4984,"4":356,"5":90,"6":0,"7":0}},"label":"Childe #4 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
+    "2930": {"prev":{"total":5431,"byRarity":{"1":0,"2":0,"3":4985,"4":356,"5":90,"6":0,"7":0}},"label":"Childe #4 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "5729": {"prev":{"total":5477,"byRarity":{"1":0,"2":0,"3":5044,"4":336,"5":97,"6":0,"7":0}},"label":"Childe #5 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "5730": {"prev":{"total":5386,"byRarity":{"1":0,"2":0,"3":4917,"4":365,"5":104,"6":0,"7":0}},"label":"Childe #6 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "20563": {"prev":{"total":4443,"byRarity":{"1":0,"2":0,"3":4088,"4":276,"5":79,"6":0,"7":0}},"label":"Childe #7 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
@@ -202,11 +202,11 @@
     "34941": {"prev":{"total":1669,"byRarity":{"1":0,"2":0,"3":1528,"4":100,"5":41,"6":0,"7":0}},"label":"Chinoi Momone #1 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34942": {"prev":{"total":1771,"byRarity":{"1":0,"2":0,"3":1627,"4":108,"5":36,"6":0,"7":0}},"label":"Chinoi Momone #2 — Utaite","character":"Chinoi Momone","series":"Utaite"},
     "34943": {"prev":{"total":1626,"byRarity":{"1":0,"2":0,"3":1492,"4":95,"5":39,"6":0,"7":0}},"label":"Chinoi Momone #3 — Utaite","character":"Chinoi Momone","series":"Utaite"},
-    "34622": {"prev":{"total":1788,"byRarity":{"1":0,"2":0,"3":1665,"4":93,"5":30,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
+    "34622": {"prev":{"total":1789,"byRarity":{"1":0,"2":0,"3":1666,"4":93,"5":30,"6":0,"7":0}},"label":"VYT-24 #1 — PINK BxxCH CLUB","character":"VYT-24","series":"PINK BxxCH CLUB"},
     "41420": {"prev":{"total":300,"byRarity":{"1":0,"2":0,"3":287,"4":9,"5":4,"6":0,"7":0}},"label":"Braun #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36854": {"prev":{"total":1381,"byRarity":{"1":0,"2":0,"3":1269,"4":86,"5":26,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38817": {"prev":{"total":980,"byRarity":{"1":0,"2":0,"3":913,"4":50,"5":17,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "39099": {"prev":{"total":977,"byRarity":{"1":0,"2":0,"3":891,"4":72,"5":14,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
-    "38563": {"prev":{"total":1035,"byRarity":{"1":0,"2":0,"3":959,"4":62,"5":14,"6":0,"7":0}},"label":"Tsukasa Tenma #17 — Project SEKAI: Colorful Stage!","character":"Tsukasa Tenma","series":"Project SEKAI: Colorful Stage!"}
+    "38563": {"prev":{"total":1036,"byRarity":{"1":0,"2":0,"3":960,"4":62,"5":14,"6":0,"7":0}},"label":"Tsukasa Tenma #17 — Project SEKAI: Colorful Stage!","character":"Tsukasa Tenma","series":"Project SEKAI: Colorful Stage!"}
   }
 }
