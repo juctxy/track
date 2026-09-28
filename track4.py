@@ -44,7 +44,7 @@ load_dotenv()  # reads the .env file in this folder and loads it into os.environ
 
 from voice import setup_voice_commands  # /join, /leave — defined in their own file
 from say import setup_say_commands      # /say — defined in its own file 
-from AI import handle_ai_message        # AI auto-chat — defined in its own file
+# from AI import handle_ai_message        # AI auto-chat — defined in its own file
 
 # ── Settings ──────────────────────────────────────────────────────────────────
 
@@ -1069,21 +1069,6 @@ async def on_ready():
           f"syncing card catalog every {SYNC_INTERVAL}s")
 
 
-@client.event
-async def on_message(message: discord.Message):
-    if message.author.bot:
-        return  # ignore other bots (and ourselves) to avoid reply loops
-
-    text = message.content.strip().lower()
-    reply = AUTO_RESPONSES.get(text)
-    if reply:
-        await message.channel.send(reply)
-        return  # don't also let the AI chime in on an auto-response hit
-
-    # No is_allowed_channel here on purpose: /setchannel locks slash
-    # commands like /monitor to one channel, but the AI chat should work
-    # everywhere regardless of that lock.
-    await handle_ai_message(message, client)
 
 
 @tree.error
