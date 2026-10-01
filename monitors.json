@@ -135,7 +135,7 @@
     "28495": {"prev":{"total":3256,"byRarity":{"1":0,"2":0,"3":2985,"4":209,"5":62,"6":0,"7":0}},"label":"Eun Haje #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Eun Haje","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "28496": {"prev":{"total":3276,"byRarity":{"1":0,"2":0,"3":2993,"4":212,"5":71,"6":0,"7":0}},"label":"Park Minseong #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Park Minseong","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25558": {"prev":{"total":3956,"byRarity":{"1":0,"2":0,"3":3609,"4":258,"5":89,"6":0,"7":0}},"label":"Agent Choi #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Agent Choi","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "25557": {"prev":{"total":4007,"byRarity":{"1":0,"2":0,"3":3670,"4":255,"5":82,"6":0,"7":0}},"label":"Go Yeongeun #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Go Yeongeun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "25557": {"prev":{"total":4008,"byRarity":{"1":0,"2":0,"3":3671,"4":255,"5":82,"6":0,"7":0}},"label":"Go Yeongeun #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Go Yeongeun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25556": {"prev":{"total":3935,"byRarity":{"1":0,"2":0,"3":3594,"4":243,"5":98,"6":0,"7":0}},"label":"Park Minseong #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Park Minseong","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25555": {"prev":{"total":3956,"byRarity":{"1":0,"2":0,"3":3595,"4":265,"5":96,"6":0,"7":0}},"label":"Eun Haje #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Eun Haje","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "37287": {"prev":{"total":1404,"byRarity":{"1":0,"2":0,"3":1302,"4":78,"5":24,"6":0,"7":0}},"label":"Jeonghan #3 — SEVENTEEN","character":"Jeonghan","series":"SEVENTEEN"},
@@ -147,7 +147,7 @@
     "38529": {"prev":{"total":1403,"byRarity":{"1":0,"2":0,"3":1295,"4":81,"5":27,"6":0,"7":0}},"label":"Kim Soleum #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "39152": {"prev":{"total":1342,"byRarity":{"1":0,"2":0,"3":1242,"4":72,"5":28,"6":0,"7":0}},"label":"Baek Saheon #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "12774": {"prev":{"total":4832,"byRarity":{"1":0,"2":0,"3":4395,"4":335,"5":102,"6":0,"7":0}},"label":"Emma #1 — Veil","character":"Emma","series":"Veil"},
-    "12775": {"prev":{"total":4733,"byRarity":{"1":0,"2":0,"3":4279,"4":346,"5":108,"6":0,"7":0}},"label":"Emma #2 — Veil","character":"Emma","series":"Veil"},
+    "12775": {"prev":{"total":4734,"byRarity":{"1":0,"2":0,"3":4280,"4":346,"5":108,"6":0,"7":0}},"label":"Emma #2 — Veil","character":"Emma","series":"Veil"},
     "12776": {"prev":{"total":4757,"byRarity":{"1":0,"2":0,"3":4297,"4":342,"5":118,"6":0,"7":0}},"label":"Emma #3 — Veil","character":"Emma","series":"Veil"},
     "31298": {"prev":{"total":2908,"byRarity":{"1":0,"2":0,"3":2688,"4":174,"5":46,"6":0,"7":0}},"label":"Emma #4 — Veil","character":"Emma","series":"Veil"},
     "33060": {"prev":{"total":2594,"byRarity":{"1":0,"2":0,"3":2378,"4":168,"5":48,"6":0,"7":0}},"label":"Emma #5 — Veil","character":"Emma","series":"Veil"},
@@ -173,7 +173,7 @@
     "39308": {"prev":{"total":1284,"byRarity":{"1":0,"2":0,"3":1186,"4":76,"5":22,"6":0,"7":0}},"label":"Klein Moretti #25 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "2927": {"prev":{"total":5837,"byRarity":{"1":0,"2":0,"3":5353,"4":374,"5":110,"6":0,"7":0}},"label":"Childe #1 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "2928": {"prev":{"total":5821,"byRarity":{"1":0,"2":0,"3":5335,"4":378,"5":108,"6":0,"7":0}},"label":"Childe #2 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
-    "2929": {"prev":{"total":5908,"byRarity":{"1":0,"2":0,"3":5459,"4":351,"5":98,"6":0,"7":0}},"label":"Childe #3 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
+    "2929": {"prev":{"total":5907,"byRarity":{"1":0,"2":0,"3":5458,"4":351,"5":98,"6":0,"7":0}},"label":"Childe #3 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "2930": {"prev":{"total":5766,"byRarity":{"1":0,"2":0,"3":5307,"4":364,"5":95,"6":0,"7":0}},"label":"Childe #4 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "5729": {"prev":{"total":5797,"byRarity":{"1":0,"2":0,"3":5339,"4":355,"5":103,"6":0,"7":0}},"label":"Childe #5 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
     "5730": {"prev":{"total":5709,"byRarity":{"1":0,"2":0,"3":5219,"4":381,"5":109,"6":0,"7":0}},"label":"Childe #6 — Genshin Impact","character":"Childe","series":"Genshin Impact"},
@@ -189,7 +189,7 @@
     "37823": {"prev":{"total":1502,"byRarity":{"1":0,"2":0,"3":1397,"4":79,"5":26,"6":0,"7":0}},"label":"Kamiina Botan #1 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "37824": {"prev":{"total":1518,"byRarity":{"1":0,"2":0,"3":1395,"4":94,"5":29,"6":0,"7":0}},"label":"Kamiina Botan #2 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "37825": {"prev":{"total":1543,"byRarity":{"1":0,"2":0,"3":1413,"4":83,"5":47,"6":0,"7":0}},"label":"Kamiina Botan #3 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
-    "37826": {"prev":{"total":1641,"byRarity":{"1":0,"2":0,"3":1517,"4":93,"5":31,"6":0,"7":0}},"label":"Kamiina Botan #4 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
+    "37826": {"prev":{"total":1642,"byRarity":{"1":0,"2":0,"3":1518,"4":93,"5":31,"6":0,"7":0}},"label":"Kamiina Botan #4 — Botan Kamiina Fully Blossoms When Drunk","character":"Kamiina Botan","series":"Botan Kamiina Fully Blossoms When Drunk"},
     "27332": {"prev":{"total":3827,"byRarity":{"1":0,"2":0,"3":3553,"4":202,"5":72,"6":0,"7":0}},"label":"Columbina #2 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "27333": {"prev":{"total":3999,"byRarity":{"1":0,"2":0,"3":3678,"4":239,"5":82,"6":0,"7":0}},"label":"Columbina #3 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
     "29704": {"prev":{"total":3145,"byRarity":{"1":0,"2":0,"3":2907,"4":171,"5":67,"6":0,"7":0}},"label":"Columbina #5 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
@@ -204,7 +204,7 @@
     "38817": {"prev":{"total":1332,"byRarity":{"1":0,"2":0,"3":1234,"4":69,"5":29,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "39099": {"prev":{"total":1322,"byRarity":{"1":0,"2":0,"3":1211,"4":90,"5":21,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "43470": {"prev":{"total":0,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":0}},"label":"Card #43470","character":null,"series":null},
-    "43089": {"prev":{"total":41159,"byRarity":{"1":0,"2":0,"3":39251,"4":1507,"5":401,"6":0,"7":0}},"label":"Baek Saheon #6 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "43086": {"prev":{"total":41499,"byRarity":{"1":0,"2":0,"3":39589,"4":1488,"5":422,"6":0,"7":0}},"label":"Kim Soleum #6 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"}
+    "43089": {"prev":{"total":41160,"byRarity":{"1":0,"2":0,"3":39252,"4":1507,"5":401,"6":0,"7":0}},"label":"Baek Saheon #6 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "43086": {"prev":{"total":41503,"byRarity":{"1":0,"2":0,"3":39593,"4":1488,"5":422,"6":0,"7":0}},"label":"Kim Soleum #6 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"}
   }
 }
