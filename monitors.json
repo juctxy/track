@@ -167,7 +167,7 @@
     "31293": {"prev":{"total":2712,"byRarity":{"1":0,"2":0,"3":2482,"4":176,"5":54,"6":0,"7":0}},"label":"Klein Moretti #17 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "31294": {"prev":{"total":2783,"byRarity":{"1":0,"2":0,"3":2555,"4":175,"5":53,"6":0,"7":0}},"label":"Klein Moretti #18 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "31809": {"prev":{"total":2750,"byRarity":{"1":0,"2":0,"3":2535,"4":174,"5":41,"6":0,"7":0}},"label":"Klein Moretti #19 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
-    "32398": {"prev":{"total":2610,"byRarity":{"1":0,"2":0,"3":2395,"4":146,"5":69,"6":0,"7":0}},"label":"Klein Moretti #21 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
+    "32398": {"prev":{"total":2611,"byRarity":{"1":0,"2":0,"3":2396,"4":146,"5":69,"6":0,"7":0}},"label":"Klein Moretti #21 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "32474": {"prev":{"total":2488,"byRarity":{"1":0,"2":0,"3":2279,"4":155,"5":54,"6":0,"7":0}},"label":"Klein Moretti #22 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "39307": {"prev":{"total":1293,"byRarity":{"1":0,"2":0,"3":1227,"4":46,"5":20,"6":0,"7":0}},"label":"Klein Moretti #24 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "39308": {"prev":{"total":1281,"byRarity":{"1":0,"2":0,"3":1183,"4":76,"5":22,"6":0,"7":0}},"label":"Klein Moretti #25 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
@@ -200,11 +200,11 @@
     "36854": {"prev":{"total":1731,"byRarity":{"1":0,"2":0,"3":1596,"4":102,"5":33,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38817": {"prev":{"total":1334,"byRarity":{"1":0,"2":0,"3":1236,"4":69,"5":29,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "39099": {"prev":{"total":1325,"byRarity":{"1":0,"2":0,"3":1213,"4":91,"5":21,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
-    "43089": {"prev":{"total":41833,"byRarity":{"1":0,"2":0,"3":39886,"4":1539,"5":408,"6":0,"7":0}},"label":"Baek Saheon #6 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "43086": {"prev":{"total":42319,"byRarity":{"1":0,"2":0,"3":40345,"4":1537,"5":437,"6":0,"7":0}},"label":"Kim Soleum #6 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "42919": {"prev":{"total":42021,"byRarity":{"1":0,"2":0,"3":40059,"4":1541,"5":421,"6":0,"7":0}},"label":"Lu Guang #25 — Link Click","character":"Lu Guang","series":"Link Click"},
-    "42920": {"prev":{"total":42140,"byRarity":{"1":0,"2":0,"3":40102,"4":1545,"5":493,"6":0,"7":0}},"label":"Cheng Xiaoshi #26 — Link Click","character":"Cheng Xiaoshi","series":"Link Click"},
-    "42526": {"prev":{"total":89477,"byRarity":{"1":0,"2":0,"3":85356,"4":3314,"5":807,"6":0,"7":0}},"label":"Cheng, Lu, & Qiao #1 — Link Click","character":"Cheng, Lu, & Qiao","series":"Link Click"},
+    "43089": {"prev":{"total":41836,"byRarity":{"1":0,"2":0,"3":39889,"4":1539,"5":408,"6":0,"7":0}},"label":"Baek Saheon #6 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "43086": {"prev":{"total":42324,"byRarity":{"1":0,"2":0,"3":40350,"4":1537,"5":437,"6":0,"7":0}},"label":"Kim Soleum #6 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "42919": {"prev":{"total":42023,"byRarity":{"1":0,"2":0,"3":40061,"4":1541,"5":421,"6":0,"7":0}},"label":"Lu Guang #25 — Link Click","character":"Lu Guang","series":"Link Click"},
+    "42920": {"prev":{"total":42143,"byRarity":{"1":0,"2":0,"3":40105,"4":1545,"5":493,"6":0,"7":0}},"label":"Cheng Xiaoshi #26 — Link Click","character":"Cheng Xiaoshi","series":"Link Click"},
+    "42526": {"prev":{"total":89481,"byRarity":{"1":0,"2":0,"3":85359,"4":3315,"5":807,"6":0,"7":0}},"label":"Cheng, Lu, & Qiao #1 — Link Click","character":"Cheng, Lu, & Qiao","series":"Link Click"},
     "43470": {"prev":{"total":12,"byRarity":{"1":0,"2":0,"3":11,"4":1,"5":0,"6":0,"7":0}},"label":"Card #43470","character":null,"series":null}
   }
 }
