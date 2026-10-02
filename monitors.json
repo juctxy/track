@@ -108,7 +108,7 @@
   },
   "cards": {
     "28494": {"prev":{"total":3267,"byRarity":{"1":0,"2":0,"3":2994,"4":206,"5":67,"6":0,"7":0}},"label":"Kim Soleum #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "25554": {"prev":{"total":4061,"byRarity":{"1":0,"2":0,"3":3687,"4":269,"5":105,"6":0,"7":0}},"label":"Kim Soleum #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "25554": {"prev":{"total":4062,"byRarity":{"1":0,"2":0,"3":3688,"4":269,"5":105,"6":0,"7":0}},"label":"Kim Soleum #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25553": {"prev":{"total":3967,"byRarity":{"1":0,"2":0,"3":3612,"4":269,"5":86,"6":0,"7":0}},"label":"Kim Soleum #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36521": {"prev":{"total":1856,"byRarity":{"1":0,"2":0,"3":1720,"4":97,"5":39,"6":0,"7":0}},"label":"Kim Soleum #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36901": {"prev":{"total":1666,"byRarity":{"1":0,"2":0,"3":1554,"4":85,"5":27,"6":0,"7":0}},"label":"Baek Saheon #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
@@ -137,7 +137,7 @@
     "25558": {"prev":{"total":3961,"byRarity":{"1":0,"2":0,"3":3614,"4":258,"5":89,"6":0,"7":0}},"label":"Agent Choi #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Agent Choi","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25557": {"prev":{"total":4022,"byRarity":{"1":0,"2":0,"3":3684,"4":256,"5":82,"6":0,"7":0}},"label":"Go Yeongeun #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Go Yeongeun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25556": {"prev":{"total":3937,"byRarity":{"1":0,"2":0,"3":3595,"4":243,"5":99,"6":0,"7":0}},"label":"Park Minseong #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Park Minseong","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "25555": {"prev":{"total":3960,"byRarity":{"1":0,"2":0,"3":3599,"4":265,"5":96,"6":0,"7":0}},"label":"Eun Haje #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Eun Haje","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "25555": {"prev":{"total":3961,"byRarity":{"1":0,"2":0,"3":3600,"4":265,"5":96,"6":0,"7":0}},"label":"Eun Haje #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Eun Haje","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "37287": {"prev":{"total":1413,"byRarity":{"1":0,"2":0,"3":1309,"4":79,"5":25,"6":0,"7":0}},"label":"Jeonghan #3 — SEVENTEEN","character":"Jeonghan","series":"SEVENTEEN"},
     "37282": {"prev":{"total":1431,"byRarity":{"1":0,"2":0,"3":1337,"4":62,"5":32,"6":0,"7":0}},"label":"Jeonghan #2 — SEVENTEEN","character":"Jeonghan","series":"SEVENTEEN"},
     "37277": {"prev":{"total":1353,"byRarity":{"1":0,"2":0,"3":1259,"4":73,"5":21,"6":0,"7":0}},"label":"Jeonghan #1 — SEVENTEEN","character":"Jeonghan","series":"SEVENTEEN"},
@@ -200,11 +200,11 @@
     "36854": {"prev":{"total":1729,"byRarity":{"1":0,"2":0,"3":1594,"4":102,"5":33,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "38817": {"prev":{"total":1333,"byRarity":{"1":0,"2":0,"3":1235,"4":69,"5":29,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "39099": {"prev":{"total":1329,"byRarity":{"1":0,"2":0,"3":1217,"4":91,"5":21,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
-    "43089": {"prev":{"total":41984,"byRarity":{"1":0,"2":0,"3":40033,"4":1541,"5":410,"6":0,"7":0}},"label":"Baek Saheon #6 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "43086": {"prev":{"total":42444,"byRarity":{"1":0,"2":0,"3":40466,"4":1541,"5":437,"6":0,"7":0}},"label":"Kim Soleum #6 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "42919": {"prev":{"total":42177,"byRarity":{"1":0,"2":0,"3":40206,"4":1549,"5":422,"6":0,"7":0}},"label":"Lu Guang #25 — Link Click","character":"Lu Guang","series":"Link Click"},
-    "42920": {"prev":{"total":42262,"byRarity":{"1":0,"2":0,"3":40218,"4":1551,"5":493,"6":0,"7":0}},"label":"Cheng Xiaoshi #26 — Link Click","character":"Cheng Xiaoshi","series":"Link Click"},
-    "42526": {"prev":{"total":89773,"byRarity":{"1":0,"2":0,"3":85633,"4":3329,"5":811,"6":0,"7":0}},"label":"Cheng, Lu, & Qiao #1 — Link Click","character":"Cheng, Lu, & Qiao","series":"Link Click"},
+    "43089": {"prev":{"total":41990,"byRarity":{"1":0,"2":0,"3":40039,"4":1541,"5":410,"6":0,"7":0}},"label":"Baek Saheon #6 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "43086": {"prev":{"total":42447,"byRarity":{"1":0,"2":0,"3":40468,"4":1542,"5":437,"6":0,"7":0}},"label":"Kim Soleum #6 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "42919": {"prev":{"total":42180,"byRarity":{"1":0,"2":0,"3":40209,"4":1549,"5":422,"6":0,"7":0}},"label":"Lu Guang #25 — Link Click","character":"Lu Guang","series":"Link Click"},
+    "42920": {"prev":{"total":42265,"byRarity":{"1":0,"2":0,"3":40221,"4":1551,"5":493,"6":0,"7":0}},"label":"Cheng Xiaoshi #26 — Link Click","character":"Cheng Xiaoshi","series":"Link Click"},
+    "42526": {"prev":{"total":89777,"byRarity":{"1":0,"2":0,"3":85636,"4":3329,"5":812,"6":0,"7":0}},"label":"Cheng, Lu, & Qiao #1 — Link Click","character":"Cheng, Lu, & Qiao","series":"Link Click"},
     "43470": {"prev":{"total":14,"byRarity":{"1":0,"2":0,"3":12,"4":2,"5":0,"6":0,"7":0}},"label":"Card #43470","character":null,"series":null}
   }
 }
