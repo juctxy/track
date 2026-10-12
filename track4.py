@@ -43,7 +43,8 @@ load_dotenv()  # reads the .env file in this folder and loads it into os.environ
                 # from the environment the moment it's imported.
 
 from voice import setup_voice_commands  # /join, /leave — defined in their own file
-from say import setup_say_commands      # /say — defined in its own file 
+from say import setup_say_commands      # /say — defined in its own file
+from autoreact import setup_autoreact_commands  # /autoreact — defined in its own file 
 # from AI import handle_ai_message        # AI auto-chat — defined in its own file
 
 # ── Settings ──────────────────────────────────────────────────────────────────
@@ -1179,6 +1180,11 @@ setup_voice_commands(tree, is_admin)
 # Same pattern as voice_feature.py above — kept in its own file, wired in with
 # the shared tree + is_admin() check.
 setup_say_commands(tree, is_admin)
+
+# ── /autoreact (registered from autoreact.py) ────────────────────────────────
+# Also installs its own on_message listener (chained, so it won't clobber any
+# on_message handler defined above), which is why it needs `client`.
+setup_autoreact_commands(tree, is_admin, client)
 
 
 
