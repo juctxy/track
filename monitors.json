@@ -121,7 +121,7 @@
     }
   },
   "cards": {
-    "28494": {"prev":{"total":3339,"byRarity":{"1":0,"2":0,"3":3053,"4":213,"5":73,"6":0,"7":0}},"label":"Kim Soleum #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "28494": {"prev":{"total":3338,"byRarity":{"1":0,"2":0,"3":3052,"4":213,"5":73,"6":0,"7":0}},"label":"Kim Soleum #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25554": {"prev":{"total":4115,"byRarity":{"1":0,"2":0,"3":3734,"4":274,"5":107,"6":0,"7":0}},"label":"Kim Soleum #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25553": {"prev":{"total":4052,"byRarity":{"1":0,"2":0,"3":3688,"4":277,"5":87,"6":0,"7":0}},"label":"Kim Soleum #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36521": {"prev":{"total":1942,"byRarity":{"1":0,"2":0,"3":1802,"4":101,"5":39,"6":0,"7":0}},"label":"Kim Soleum #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
@@ -151,7 +151,7 @@
     "25558": {"prev":{"total":4018,"byRarity":{"1":0,"2":0,"3":3665,"4":262,"5":91,"6":0,"7":0}},"label":"Agent Choi #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Agent Choi","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25557": {"prev":{"total":4088,"byRarity":{"1":0,"2":0,"3":3748,"4":257,"5":83,"6":0,"7":0}},"label":"Go Yeongeun #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Go Yeongeun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "25556": {"prev":{"total":4003,"byRarity":{"1":0,"2":0,"3":3654,"4":249,"5":100,"6":0,"7":0}},"label":"Park Minseong #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Park Minseong","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "25555": {"prev":{"total":4020,"byRarity":{"1":0,"2":0,"3":3658,"4":264,"5":98,"6":0,"7":0}},"label":"Eun Haje #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Eun Haje","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "25555": {"prev":{"total":4019,"byRarity":{"1":0,"2":0,"3":3657,"4":264,"5":98,"6":0,"7":0}},"label":"Eun Haje #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Eun Haje","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "37287": {"prev":{"total":1475,"byRarity":{"1":0,"2":0,"3":1365,"4":82,"5":28,"6":0,"7":0}},"label":"Jeonghan #3 — SEVENTEEN","character":"Jeonghan","series":"SEVENTEEN"},
     "37282": {"prev":{"total":1499,"byRarity":{"1":0,"2":0,"3":1402,"4":64,"5":33,"6":0,"7":0}},"label":"Jeonghan #2 — SEVENTEEN","character":"Jeonghan","series":"SEVENTEEN"},
     "37277": {"prev":{"total":1416,"byRarity":{"1":0,"2":0,"3":1316,"4":79,"5":21,"6":0,"7":0}},"label":"Jeonghan #1 — SEVENTEEN","character":"Jeonghan","series":"SEVENTEEN"},
@@ -159,9 +159,9 @@
     "37323": {"prev":{"total":1372,"byRarity":{"1":0,"2":0,"3":1273,"4":70,"5":29,"6":0,"7":0}},"label":"Rui #4 — XLOV","character":"Rui","series":"XLOV"},
     "38797": {"prev":{"total":1468,"byRarity":{"1":0,"2":0,"3":1353,"4":87,"5":28,"6":0,"7":0}},"label":"J3 #1 — Got Dropped into a Ghost Story, Still Gotta Work","character":"J3","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "38529": {"prev":{"total":1514,"byRarity":{"1":0,"2":0,"3":1398,"4":87,"5":29,"6":0,"7":0}},"label":"Kim Soleum #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "39152": {"prev":{"total":1436,"byRarity":{"1":0,"2":0,"3":1331,"4":75,"5":30,"6":0,"7":0}},"label":"Baek Saheon #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
+    "39152": {"prev":{"total":1437,"byRarity":{"1":0,"2":0,"3":1332,"4":75,"5":30,"6":0,"7":0}},"label":"Baek Saheon #5 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Baek Saheon","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "12774": {"prev":{"total":4900,"byRarity":{"1":0,"2":0,"3":4458,"4":336,"5":106,"6":0,"7":0}},"label":"Emma #1 — Veil","character":"Emma","series":"Veil"},
-    "12775": {"prev":{"total":4800,"byRarity":{"1":0,"2":0,"3":4337,"4":354,"5":109,"6":0,"7":0}},"label":"Emma #2 — Veil","character":"Emma","series":"Veil"},
+    "12775": {"prev":{"total":4799,"byRarity":{"1":0,"2":0,"3":4336,"4":354,"5":109,"6":0,"7":0}},"label":"Emma #2 — Veil","character":"Emma","series":"Veil"},
     "12776": {"prev":{"total":4847,"byRarity":{"1":0,"2":0,"3":4379,"4":349,"5":119,"6":0,"7":0}},"label":"Emma #3 — Veil","character":"Emma","series":"Veil"},
     "31298": {"prev":{"total":2975,"byRarity":{"1":0,"2":0,"3":2748,"4":179,"5":48,"6":0,"7":0}},"label":"Emma #4 — Veil","character":"Emma","series":"Veil"},
     "33060": {"prev":{"total":2678,"byRarity":{"1":0,"2":0,"3":2453,"4":175,"5":50,"6":0,"7":0}},"label":"Emma #5 — Veil","character":"Emma","series":"Veil"},
@@ -226,13 +226,13 @@
     "33225": {"prev":{"total":2425,"byRarity":{"1":0,"2":0,"3":2231,"4":143,"5":51,"6":0,"7":0}},"label":"Patchouli Knowledge #6 — Touhou","character":"Patchouli Knowledge","series":"Touhou"},
     "33224": {"prev":{"total":2453,"byRarity":{"1":0,"2":0,"3":2238,"4":163,"5":52,"6":0,"7":0}},"label":"Patchouli Knowledge #5 — Touhou","character":"Patchouli Knowledge","series":"Touhou"},
     "33223": {"prev":{"total":2331,"byRarity":{"1":0,"2":0,"3":2125,"4":155,"5":51,"6":0,"7":0}},"label":"Patchouli Knowledge #4 — Touhou","character":"Patchouli Knowledge","series":"Touhou"},
-    "33222": {"prev":{"total":2511,"byRarity":{"1":0,"2":0,"3":2275,"4":184,"5":52,"6":0,"7":0}},"label":"Patchouli Knowledge #3 — Touhou","character":"Patchouli Knowledge","series":"Touhou"},
+    "33222": {"prev":{"total":2512,"byRarity":{"1":0,"2":0,"3":2276,"4":184,"5":52,"6":0,"7":0}},"label":"Patchouli Knowledge #3 — Touhou","character":"Patchouli Knowledge","series":"Touhou"},
     "33221": {"prev":{"total":2453,"byRarity":{"1":0,"2":0,"3":2267,"4":159,"5":27,"6":0,"7":0}},"label":"Patchouli Knowledge #2 — Touhou","character":"Patchouli Knowledge","series":"Touhou"},
     "33220": {"prev":{"total":2481,"byRarity":{"1":0,"2":0,"3":2259,"4":174,"5":48,"6":0,"7":0}},"label":"Patchouli Knowledge #1 — Touhou","character":"Patchouli Knowledge","series":"Touhou"},
     "43376": {"prev":{"total":18,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":18,"6":0,"7":0}},"label":"Emu Otori #22 — Project SEKAI: Colorful Stage!","character":"Emu Otori","series":"Project SEKAI: Colorful Stage!"},
     "44347": {"prev":{"total":47,"byRarity":{"1":0,"2":0,"3":44,"4":3,"5":0,"6":0,"7":0}},"label":"Kim Soleum #7 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Kim Soleum","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "44062": {"prev":{"total":51,"byRarity":{"1":0,"2":0,"3":48,"4":2,"5":1,"6":0,"7":0}},"label":"Jin Nasol #2 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Jin Nasol","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "43928": {"prev":{"total":60,"byRarity":{"1":0,"2":0,"3":57,"4":3,"5":0,"6":0,"7":0}},"label":"Go Yeongeun #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Go Yeongeun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
-    "44277": {"prev":{"total":36,"byRarity":{"1":0,"2":0,"3":32,"4":4,"5":0,"6":0,"7":0}},"label":"Braun #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"}
+    "44277": {"prev":{"total":35,"byRarity":{"1":0,"2":0,"3":31,"4":4,"5":0,"6":0,"7":0}},"label":"Braun #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"}
   }
 }
