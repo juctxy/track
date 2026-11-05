@@ -127,7 +127,7 @@
     "33902": {"prev":{"total":2893,"byRarity":{"1":0,"2":0,"3":2677,"4":158,"5":58,"6":0,"7":0}},"label":"Ahn Pyeong-hwa #3 — Master-Peace","character":"Ahn Pyeong-hwa","series":"Master-Peace"},
     "33901": {"prev":{"total":2898,"byRarity":{"1":0,"2":0,"3":2658,"4":179,"5":61,"6":0,"7":0}},"label":"Ahn Pyeong-hwa #2 — Master-Peace","character":"Ahn Pyeong-hwa","series":"Master-Peace"},
     "33615": {"prev":{"total":2743,"byRarity":{"1":0,"2":0,"3":2517,"4":163,"5":63,"6":0,"7":0}},"label":"Ahn Pyeong-hwa #1 — Master-Peace","character":"Ahn Pyeong-hwa","series":"Master-Peace"},
-    "33900": {"prev":{"total":2888,"byRarity":{"1":0,"2":0,"3":2655,"4":184,"5":49,"6":0,"7":0}},"label":"Ju Incheol #4 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
+    "33900": {"prev":{"total":2889,"byRarity":{"1":0,"2":0,"3":2656,"4":184,"5":49,"6":0,"7":0}},"label":"Ju Incheol #4 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
     "33899": {"prev":{"total":2782,"byRarity":{"1":0,"2":0,"3":2557,"4":175,"5":50,"6":0,"7":0}},"label":"Ju Incheol #3 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
     "33898": {"prev":{"total":2853,"byRarity":{"1":0,"2":0,"3":2640,"4":170,"5":43,"6":0,"7":0}},"label":"Ju Incheol #2 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
     "33616": {"prev":{"total":2853,"byRarity":{"1":0,"2":0,"3":2628,"4":168,"5":57,"6":0,"7":0}},"label":"Ju Incheol #1 — Master-Peace","character":"Ju Incheol","series":"Master-Peace"},
@@ -165,7 +165,7 @@
     "12161": {"prev":{"total":5230,"byRarity":{"1":0,"2":0,"3":4771,"4":355,"5":104,"6":0,"7":0}},"label":"Klein Moretti #4 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12162": {"prev":{"total":5251,"byRarity":{"1":0,"2":0,"3":4778,"4":348,"5":125,"6":0,"7":0}},"label":"Klein Moretti #5 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "12163": {"prev":{"total":5277,"byRarity":{"1":0,"2":0,"3":4798,"4":349,"5":130,"6":0,"7":0}},"label":"Klein Moretti #6 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
-    "27208": {"prev":{"total":3995,"byRarity":{"1":0,"2":0,"3":3631,"4":281,"5":83,"6":0,"7":0}},"label":"Klein Moretti #9 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
+    "27208": {"prev":{"total":3996,"byRarity":{"1":0,"2":0,"3":3632,"4":281,"5":83,"6":0,"7":0}},"label":"Klein Moretti #9 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "27250": {"prev":{"total":3972,"byRarity":{"1":0,"2":0,"3":3645,"4":242,"5":85,"6":0,"7":0}},"label":"Klein Moretti #10 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "27251": {"prev":{"total":4039,"byRarity":{"1":0,"2":0,"3":3693,"4":262,"5":84,"6":0,"7":0}},"label":"Klein Moretti #11 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
     "29374": {"prev":{"total":3464,"byRarity":{"1":0,"2":0,"3":3190,"4":197,"5":77,"6":0,"7":0}},"label":"Klein Moretti #13 — Lord of Mysteries","character":"Klein Moretti","series":"Lord of Mysteries"},
@@ -209,7 +209,7 @@
     "43928": {"prev":{"total":590,"byRarity":{"1":0,"2":0,"3":565,"4":19,"5":6,"6":0,"7":0}},"label":"Go Yeongeun #3 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Go Yeongeun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "44277": {"prev":{"total":553,"byRarity":{"1":0,"2":0,"3":509,"4":35,"5":9,"6":0,"7":0}},"label":"Braun #4 — Got Dropped into a Ghost Story, Still Gotta Work","character":"Braun","series":"Got Dropped into a Ghost Story, Still Gotta Work"},
     "36854": {"prev":{"total":2182,"byRarity":{"1":0,"2":0,"3":2018,"4":124,"5":40,"6":0,"7":0}},"label":"Lee Hakhyun #1 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
-    "38817": {"prev":{"total":1842,"byRarity":{"1":0,"2":0,"3":1697,"4":102,"5":43,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
+    "38817": {"prev":{"total":1843,"byRarity":{"1":0,"2":0,"3":1698,"4":102,"5":43,"6":0,"7":0}},"label":"Lee Hakhyun #2 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "39099": {"prev":{"total":1877,"byRarity":{"1":0,"2":0,"3":1722,"4":120,"5":35,"6":0,"7":0}},"label":"Lee Hakhyun #3 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "43470": {"prev":{"total":649,"byRarity":{"1":0,"2":0,"3":599,"4":37,"5":13,"6":0,"7":0}},"label":"Lee Hakhyun #4 — Omniscient Reader's Viewpoint","character":"Lee Hakhyun","series":"Omniscient Reader's Viewpoint"},
     "45227": {"prev":{"total":308,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":308}},"label":"Columbina #13 — Genshin Impact","character":"Columbina","series":"Genshin Impact"},
@@ -220,7 +220,7 @@
     "45385": {"prev":{"total":294,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":294,"7":0}},"label":"Till #17 — Alien Stage","character":"Till","series":"Alien Stage"},
     "45255": {"prev":{"total":293,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":293}},"label":"Luka #15 — Alien Stage","character":"Luka","series":"Alien Stage"},
     "45259": {"prev":{"total":325,"byRarity":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":325}},"label":"Scaramouche #11 — Genshin Impact","character":"Scaramouche","series":"Genshin Impact"},
-    "45209": {"prev":{"total":22655,"byRarity":{"1":0,"2":0,"3":21556,"4":855,"5":244,"6":0,"7":0}},"label":"Flins #12 — Genshin Impact","character":"Flins","series":"Genshin Impact"},
-    "44717": {"prev":{"total":22878,"byRarity":{"1":0,"2":0,"3":21801,"4":811,"5":266,"6":0,"7":0}},"label":"Kurumi Tokisaki #41 — Date A Live","character":"Kurumi Tokisaki","series":"Date A Live"}
+    "45209": {"prev":{"total":22661,"byRarity":{"1":0,"2":0,"3":21561,"4":856,"5":244,"6":0,"7":0}},"label":"Flins #12 — Genshin Impact","character":"Flins","series":"Genshin Impact"},
+    "44717": {"prev":{"total":22879,"byRarity":{"1":0,"2":0,"3":21802,"4":811,"5":266,"6":0,"7":0}},"label":"Kurumi Tokisaki #41 — Date A Live","character":"Kurumi Tokisaki","series":"Date A Live"}
   }
 }
