@@ -1,0 +1,30 @@
+{
+  "1141255266986369134": [
+    {
+      "role": "user",
+      "text": "Ê DUMPLING"
+    },
+    {
+      "role": "model",
+      "text": "*ngước mắt khỏi màn hình, khẽ gật đầu* \"...gì?\""
+    },
+    {
+      "role": "user",
+      "text": "alo"
+    },
+    {
+      "role": "model",
+      "text": "*chống cằm, liếc sang* \"...nghe đây, nói đi.\""
+    }
+  ],
+  "503967686271827989": [
+    {
+      "role": "user",
+      "text": "lo"
+    },
+    {
+      "role": "model",
+      "text": "*khẽ gật đầu chào* \"...ừ, chào.\""
+    }
+  ]
+}
